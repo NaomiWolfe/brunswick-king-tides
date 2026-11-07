@@ -1,0 +1,1629 @@
+station_id,station_name,date,time_local,weekday,ft_above_mllw,ft_above_mhhw,label,nearest_moon_phase_usno,days_from_that_phase
+8677406,"Howe Street Pier, Brunswick",2026-11-06,06:21,Friday,8.12,0.41,Normal,New Moon,-2.8
+8677406,"Howe Street Pier, Brunswick",2026-11-06,18:39,Friday,7.4,-0.31,Normal,New Moon,-2.3
+8677406,"Howe Street Pier, Brunswick",2026-11-07,07:04,Saturday,8.32,0.61,Higher than usual,New Moon,-1.8
+8677406,"Howe Street Pier, Brunswick",2026-11-07,19:20,Saturday,7.34,-0.38,Normal,New Moon,-1.3
+8677406,"Howe Street Pier, Brunswick",2026-11-08,07:43,Sunday,8.42,0.71,Higher than usual,New Moon,-0.8
+8677406,"Howe Street Pier, Brunswick",2026-11-08,19:58,Sunday,7.24,-0.47,Normal,New Moon,-0.3
+8677406,"Howe Street Pier, Brunswick",2026-11-09,08:19,Monday,8.42,0.71,Higher than usual,New Moon,0.3
+8677406,"Howe Street Pier, Brunswick",2026-11-09,20:34,Monday,7.12,-0.6,Normal,New Moon,0.8
+8677406,"Howe Street Pier, Brunswick",2026-11-10,08:54,Tuesday,8.33,0.62,Higher than usual,New Moon,1.3
+8677406,"Howe Street Pier, Brunswick",2026-11-10,21:10,Tuesday,6.97,-0.75,Normal,New Moon,1.8
+8677406,"Howe Street Pier, Brunswick",2026-11-11,09:31,Wednesday,8.18,0.47,Normal,New Moon,2.3
+8677406,"Howe Street Pier, Brunswick",2026-11-11,21:46,Wednesday,6.8,-0.91,Normal,New Moon,2.8
+8677406,"Howe Street Pier, Brunswick",2026-11-12,10:08,Thursday,7.99,0.27,Normal,New Moon,3.3
+8677406,"Howe Street Pier, Brunswick",2026-11-12,22:25,Thursday,6.63,-1.08,Normal,New Moon,3.8
+8677406,"Howe Street Pier, Brunswick",2026-11-13,10:48,Friday,7.76,0.05,Normal,First Quarter,-3.8
+8677406,"Howe Street Pier, Brunswick",2026-11-13,23:07,Friday,6.48,-1.23,Normal,First Quarter,-3.3
+8677406,"Howe Street Pier, Brunswick",2026-11-14,11:30,Saturday,7.52,-0.19,Normal,First Quarter,-2.8
+8677406,"Howe Street Pier, Brunswick",2026-11-14,23:51,Saturday,6.37,-1.34,Normal,First Quarter,-2.3
+8677406,"Howe Street Pier, Brunswick",2026-11-15,12:14,Sunday,7.3,-0.42,Normal,First Quarter,-1.8
+8677406,"Howe Street Pier, Brunswick",2026-11-16,00:39,Monday,6.33,-1.38,Normal,First Quarter,-1.3
+8677406,"Howe Street Pier, Brunswick",2026-11-16,13:01,Monday,7.1,-0.61,Normal,First Quarter,-0.7
+8677406,"Howe Street Pier, Brunswick",2026-11-17,01:32,Tuesday,6.39,-1.32,Normal,First Quarter,-0.2
+8677406,"Howe Street Pier, Brunswick",2026-11-17,13:51,Tuesday,6.96,-0.76,Normal,First Quarter,0.3
+8677406,"Howe Street Pier, Brunswick",2026-11-18,02:27,Wednesday,6.59,-1.12,Normal,First Quarter,0.8
+8677406,"Howe Street Pier, Brunswick",2026-11-18,14:45,Wednesday,6.89,-0.83,Normal,First Quarter,1.3
+8677406,"Howe Street Pier, Brunswick",2026-11-19,03:25,Thursday,6.94,-0.78,Normal,First Quarter,1.9
+8677406,"Howe Street Pier, Brunswick",2026-11-19,15:42,Thursday,6.91,-0.8,Normal,First Quarter,2.4
+8677406,"Howe Street Pier, Brunswick",2026-11-20,04:22,Friday,7.42,-0.29,Normal,First Quarter,2.9
+8677406,"Howe Street Pier, Brunswick",2026-11-20,16:39,Friday,7.04,-0.68,Normal,First Quarter,3.4
+8677406,"Howe Street Pier, Brunswick",2026-11-21,05:17,Saturday,7.99,0.28,Normal,Full Moon,-3.2
+8677406,"Howe Street Pier, Brunswick",2026-11-21,17:35,Saturday,7.25,-0.47,Normal,Full Moon,-2.7
+8677406,"Howe Street Pier, Brunswick",2026-11-22,06:09,Sunday,8.57,0.86,Higher than usual,Full Moon,-2.2
+8677406,"Howe Street Pier, Brunswick",2026-11-22,18:28,Sunday,7.49,-0.23,Normal,Full Moon,-1.6
+8677406,"Howe Street Pier, Brunswick",2026-11-23,06:59,Monday,9.09,1.37,King tide,Full Moon,-1.1
+8677406,"Howe Street Pier, Brunswick",2026-11-23,19:18,Monday,7.69,-0.02,Normal,Full Moon,-0.6
+8677406,"Howe Street Pier, Brunswick",2026-11-24,07:48,Tuesday,9.44,1.72,King tide,Full Moon,-0.1
+8677406,"Howe Street Pier, Brunswick",2026-11-24,20:08,Tuesday,7.81,0.09,Normal,Full Moon,0.4
+8677406,"Howe Street Pier, Brunswick",2026-11-25,08:39,Wednesday,9.58,1.86,King tide,Full Moon,0.9
+8677406,"Howe Street Pier, Brunswick",2026-11-25,21:00,Wednesday,7.82,0.1,Normal,Full Moon,1.5
+8677406,"Howe Street Pier, Brunswick",2026-11-26,09:32,Thursday,9.51,1.8,King tide,Full Moon,2.0
+8677406,"Howe Street Pier, Brunswick",2026-11-26,21:56,Thursday,7.74,0.03,Normal,Full Moon,2.5
+8677406,"Howe Street Pier, Brunswick",2026-11-27,10:28,Friday,9.26,1.55,King tide,Full Moon,3.0
+8677406,"Howe Street Pier, Brunswick",2026-11-27,22:55,Friday,7.62,-0.1,Normal,Last Quarter,-3.1
+8677406,"Howe Street Pier, Brunswick",2026-11-28,11:26,Saturday,8.89,1.18,King tide,Last Quarter,-2.6
+8677406,"Howe Street Pier, Brunswick",2026-11-28,23:56,Saturday,7.49,-0.23,Normal,Last Quarter,-2.0
+8677406,"Howe Street Pier, Brunswick",2026-11-29,12:24,Sunday,8.43,0.71,Higher than usual,Last Quarter,-1.5
+8677406,"Howe Street Pier, Brunswick",2026-11-30,00:59,Monday,7.38,-0.34,Normal,Last Quarter,-1.0
+8677406,"Howe Street Pier, Brunswick",2026-11-30,13:24,Monday,7.93,0.22,Normal,Last Quarter,-0.5
+8677406,"Howe Street Pier, Brunswick",2026-12-01,02:03,Tuesday,7.32,-0.4,Normal,Last Quarter,0.0
+8677406,"Howe Street Pier, Brunswick",2026-12-01,14:25,Tuesday,7.46,-0.25,Normal,Last Quarter,0.6
+8677406,"Howe Street Pier, Brunswick",2026-12-02,03:06,Wednesday,7.33,-0.39,Normal,Last Quarter,1.1
+8677406,"Howe Street Pier, Brunswick",2026-12-02,15:26,Wednesday,7.06,-0.65,Normal,Last Quarter,1.6
+8677406,"Howe Street Pier, Brunswick",2026-12-03,04:08,Thursday,7.4,-0.32,Normal,Last Quarter,2.1
+8677406,"Howe Street Pier, Brunswick",2026-12-03,16:26,Thursday,6.77,-0.94,Normal,Last Quarter,2.6
+8677406,"Howe Street Pier, Brunswick",2026-12-04,05:05,Friday,7.52,-0.2,Normal,Last Quarter,3.2
+8677406,"Howe Street Pier, Brunswick",2026-12-04,17:22,Friday,6.6,-1.12,Normal,Last Quarter,3.7
+8677406,"Howe Street Pier, Brunswick",2026-12-05,05:56,Saturday,7.64,-0.07,Normal,New Moon,-3.6
+8677406,"Howe Street Pier, Brunswick",2026-12-05,18:12,Saturday,6.51,-1.21,Normal,New Moon,-3.1
+8677406,"Howe Street Pier, Brunswick",2026-12-06,06:40,Sunday,7.75,0.04,Normal,New Moon,-2.5
+8677406,"Howe Street Pier, Brunswick",2026-12-06,18:55,Sunday,6.47,-1.25,Normal,New Moon,-2.0
+8677406,"Howe Street Pier, Brunswick",2026-12-07,07:19,Monday,7.82,0.1,Normal,New Moon,-1.5
+8677406,"Howe Street Pier, Brunswick",2026-12-07,19:34,Monday,6.45,-1.27,Normal,New Moon,-1.0
+8677406,"Howe Street Pier, Brunswick",2026-12-08,07:56,Tuesday,7.84,0.13,Normal,New Moon,-0.5
+8677406,"Howe Street Pier, Brunswick",2026-12-08,20:10,Tuesday,6.43,-1.29,Normal,New Moon,0.0
+8677406,"Howe Street Pier, Brunswick",2026-12-09,08:32,Wednesday,7.82,0.1,Normal,New Moon,0.5
+8677406,"Howe Street Pier, Brunswick",2026-12-09,20:46,Wednesday,6.4,-1.31,Normal,New Moon,1.0
+8677406,"Howe Street Pier, Brunswick",2026-12-10,09:07,Thursday,7.76,0.04,Normal,New Moon,1.6
+8677406,"Howe Street Pier, Brunswick",2026-12-10,21:22,Thursday,6.37,-1.34,Normal,New Moon,2.1
+8677406,"Howe Street Pier, Brunswick",2026-12-11,09:44,Friday,7.66,-0.06,Normal,New Moon,2.6
+8677406,"Howe Street Pier, Brunswick",2026-12-11,22:01,Friday,6.34,-1.37,Normal,New Moon,3.1
+8677406,"Howe Street Pier, Brunswick",2026-12-12,10:22,Saturday,7.53,-0.19,Normal,New Moon,3.6
+8677406,"Howe Street Pier, Brunswick",2026-12-12,22:41,Saturday,6.33,-1.39,Normal,First Quarter,-4.1
+8677406,"Howe Street Pier, Brunswick",2026-12-13,11:01,Sunday,7.37,-0.34,Normal,First Quarter,-3.6
+8677406,"Howe Street Pier, Brunswick",2026-12-13,23:24,Sunday,6.35,-1.36,Normal,First Quarter,-3.1
+8677406,"Howe Street Pier, Brunswick",2026-12-14,11:41,Monday,7.2,-0.51,Normal,First Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2026-12-15,00:08,Tuesday,6.43,-1.29,Normal,First Quarter,-2.0
+8677406,"Howe Street Pier, Brunswick",2026-12-15,12:23,Tuesday,7.02,-0.69,Normal,First Quarter,-1.5
+8677406,"Howe Street Pier, Brunswick",2026-12-16,00:55,Wednesday,6.57,-1.15,Normal,First Quarter,-1.0
+8677406,"Howe Street Pier, Brunswick",2026-12-16,13:09,Wednesday,6.85,-0.86,Normal,First Quarter,-0.5
+8677406,"Howe Street Pier, Brunswick",2026-12-17,01:46,Thursday,6.78,-0.93,Normal,First Quarter,0.0
+8677406,"Howe Street Pier, Brunswick",2026-12-17,13:59,Thursday,6.7,-1.01,Normal,First Quarter,0.6
+8677406,"Howe Street Pier, Brunswick",2026-12-18,02:41,Friday,7.07,-0.65,Normal,First Quarter,1.1
+8677406,"Howe Street Pier, Brunswick",2026-12-18,14:55,Friday,6.61,-1.11,Normal,First Quarter,1.6
+8677406,"Howe Street Pier, Brunswick",2026-12-19,03:39,Saturday,7.43,-0.28,Normal,First Quarter,2.1
+8677406,"Howe Street Pier, Brunswick",2026-12-19,15:55,Saturday,6.6,-1.12,Normal,First Quarter,2.6
+8677406,"Howe Street Pier, Brunswick",2026-12-20,04:41,Sunday,7.86,0.15,Normal,First Quarter,3.2
+8677406,"Howe Street Pier, Brunswick",2026-12-20,16:59,Sunday,6.7,-1.01,Normal,Full Moon,-3.1
+8677406,"Howe Street Pier, Brunswick",2026-12-21,05:41,Monday,8.33,0.61,Higher than usual,Full Moon,-2.6
+8677406,"Howe Street Pier, Brunswick",2026-12-21,18:01,Monday,6.92,-0.8,Normal,Full Moon,-2.1
+8677406,"Howe Street Pier, Brunswick",2026-12-22,06:38,Tuesday,8.77,1.06,King tide,Full Moon,-1.6
+8677406,"Howe Street Pier, Brunswick",2026-12-22,18:58,Tuesday,7.17,-0.54,Normal,Full Moon,-1.1
+8677406,"Howe Street Pier, Brunswick",2026-12-23,07:33,Wednesday,9.1,1.38,King tide,Full Moon,-0.5
+8677406,"Howe Street Pier, Brunswick",2026-12-23,19:53,Wednesday,7.4,-0.31,Normal,Full Moon,-0.0
+8677406,"Howe Street Pier, Brunswick",2026-12-24,08:26,Thursday,9.24,1.53,King tide,Full Moon,0.5
+8677406,"Howe Street Pier, Brunswick",2026-12-24,20:49,Thursday,7.55,-0.16,Normal,Full Moon,1.0
+8677406,"Howe Street Pier, Brunswick",2026-12-25,09:20,Friday,9.19,1.48,King tide,Full Moon,1.5
+8677406,"Howe Street Pier, Brunswick",2026-12-25,21:46,Friday,7.62,-0.09,Normal,Full Moon,2.1
+8677406,"Howe Street Pier, Brunswick",2026-12-26,10:16,Saturday,8.96,1.25,King tide,Full Moon,2.6
+8677406,"Howe Street Pier, Brunswick",2026-12-26,22:44,Saturday,7.63,-0.09,Normal,Full Moon,3.1
+8677406,"Howe Street Pier, Brunswick",2026-12-27,11:11,Sunday,8.58,0.87,Higher than usual,Last Quarter,-3.1
+8677406,"Howe Street Pier, Brunswick",2026-12-27,23:42,Sunday,7.58,-0.14,Normal,Last Quarter,-2.6
+8677406,"Howe Street Pier, Brunswick",2026-12-28,12:05,Monday,8.09,0.38,Normal,Last Quarter,-2.1
+8677406,"Howe Street Pier, Brunswick",2026-12-29,00:39,Tuesday,7.47,-0.25,Normal,Last Quarter,-1.6
+8677406,"Howe Street Pier, Brunswick",2026-12-29,12:59,Tuesday,7.53,-0.18,Normal,Last Quarter,-1.0
+8677406,"Howe Street Pier, Brunswick",2026-12-30,01:37,Wednesday,7.32,-0.39,Normal,Last Quarter,-0.5
+8677406,"Howe Street Pier, Brunswick",2026-12-30,13:54,Wednesday,6.96,-0.76,Normal,Last Quarter,-0.0
+8677406,"Howe Street Pier, Brunswick",2026-12-31,02:35,Thursday,7.16,-0.55,Normal,Last Quarter,0.5
+8677406,"Howe Street Pier, Brunswick",2026-12-31,14:51,Thursday,6.44,-1.27,Normal,Last Quarter,1.0
+8677406,"Howe Street Pier, Brunswick",2027-01-01,03:30,Friday,7.08,-0.64,Normal,Last Quarter,1.6
+8677406,"Howe Street Pier, Brunswick",2027-01-01,15:45,Friday,6.07,-1.65,Normal,Last Quarter,2.1
+8677406,"Howe Street Pier, Brunswick",2027-01-02,04:28,Saturday,6.99,-0.73,Normal,Last Quarter,2.6
+8677406,"Howe Street Pier, Brunswick",2027-01-02,16:43,Saturday,5.81,-1.9,Normal,Last Quarter,3.1
+8677406,"Howe Street Pier, Brunswick",2027-01-03,05:23,Sunday,6.97,-0.74,Normal,Last Quarter,3.6
+8677406,"Howe Street Pier, Brunswick",2027-01-03,17:38,Sunday,5.72,-2.0,Normal,New Moon,-3.9
+8677406,"Howe Street Pier, Brunswick",2027-01-04,06:12,Monday,7.03,-0.68,Normal,New Moon,-3.4
+8677406,"Howe Street Pier, Brunswick",2027-01-04,18:27,Monday,5.74,-1.97,Normal,New Moon,-2.9
+8677406,"Howe Street Pier, Brunswick",2027-01-05,06:55,Tuesday,7.13,-0.59,Normal,New Moon,-2.4
+8677406,"Howe Street Pier, Brunswick",2027-01-05,19:09,Tuesday,5.83,-1.88,Normal,New Moon,-1.8
+8677406,"Howe Street Pier, Brunswick",2027-01-06,07:34,Wednesday,7.23,-0.48,Normal,New Moon,-1.3
+8677406,"Howe Street Pier, Brunswick",2027-01-06,19:47,Wednesday,5.95,-1.76,Normal,New Moon,-0.8
+8677406,"Howe Street Pier, Brunswick",2027-01-07,08:10,Thursday,7.31,-0.41,Normal,New Moon,-0.3
+8677406,"Howe Street Pier, Brunswick",2027-01-07,20:23,Thursday,6.08,-1.64,Normal,New Moon,0.2
+8677406,"Howe Street Pier, Brunswick",2027-01-08,08:45,Friday,7.35,-0.36,Normal,New Moon,0.7
+8677406,"Howe Street Pier, Brunswick",2027-01-08,20:59,Friday,6.2,-1.51,Normal,New Moon,1.2
+8677406,"Howe Street Pier, Brunswick",2027-01-09,09:20,Saturday,7.35,-0.36,Normal,New Moon,1.7
+8677406,"Howe Street Pier, Brunswick",2027-01-09,21:36,Saturday,6.32,-1.39,Normal,New Moon,2.3
+8677406,"Howe Street Pier, Brunswick",2027-01-10,09:55,Sunday,7.3,-0.41,Normal,New Moon,2.8
+8677406,"Howe Street Pier, Brunswick",2027-01-10,22:14,Sunday,6.45,-1.26,Normal,New Moon,3.3
+8677406,"Howe Street Pier, Brunswick",2027-01-11,10:31,Monday,7.21,-0.51,Normal,New Moon,3.8
+8677406,"Howe Street Pier, Brunswick",2027-01-11,22:54,Monday,6.59,-1.12,Normal,First Quarter,-3.7
+8677406,"Howe Street Pier, Brunswick",2027-01-12,11:09,Tuesday,7.07,-0.64,Normal,First Quarter,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-01-12,23:35,Tuesday,6.75,-0.97,Normal,First Quarter,-2.7
+8677406,"Howe Street Pier, Brunswick",2027-01-13,11:49,Wednesday,6.91,-0.81,Normal,First Quarter,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-01-14,00:20,Thursday,6.9,-0.81,Normal,First Quarter,-1.6
+8677406,"Howe Street Pier, Brunswick",2027-01-14,12:33,Thursday,6.71,-1.0,Normal,First Quarter,-1.1
+8677406,"Howe Street Pier, Brunswick",2027-01-15,01:09,Friday,7.05,-0.66,Normal,First Quarter,-0.6
+8677406,"Howe Street Pier, Brunswick",2027-01-15,13:22,Friday,6.51,-1.2,Normal,First Quarter,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-01-16,02:03,Saturday,7.2,-0.51,Normal,First Quarter,0.4
+8677406,"Howe Street Pier, Brunswick",2027-01-16,14:18,Saturday,6.33,-1.39,Normal,First Quarter,0.9
+8677406,"Howe Street Pier, Brunswick",2027-01-17,03:05,Sunday,7.38,-0.34,Normal,First Quarter,1.5
+8677406,"Howe Street Pier, Brunswick",2027-01-17,15:22,Sunday,6.23,-1.48,Normal,First Quarter,2.0
+8677406,"Howe Street Pier, Brunswick",2027-01-18,04:12,Monday,7.62,-0.09,Normal,First Quarter,2.5
+8677406,"Howe Street Pier, Brunswick",2027-01-18,16:32,Monday,6.29,-1.42,Normal,First Quarter,3.0
+8677406,"Howe Street Pier, Brunswick",2027-01-19,05:20,Tuesday,7.96,0.25,Normal,Full Moon,-3.1
+8677406,"Howe Street Pier, Brunswick",2027-01-19,17:42,Tuesday,6.55,-1.17,Normal,Full Moon,-2.6
+8677406,"Howe Street Pier, Brunswick",2027-01-20,06:23,Wednesday,8.36,0.65,Higher than usual,Full Moon,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-01-20,18:46,Wednesday,6.94,-0.78,Normal,Full Moon,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-01-21,07:21,Thursday,8.7,0.98,Higher than usual,Full Moon,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-01-21,19:43,Thursday,7.34,-0.37,Normal,Full Moon,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-01-22,08:14,Friday,8.88,1.17,King tide,Full Moon,0.0
+8677406,"Howe Street Pier, Brunswick",2027-01-22,20:38,Friday,7.67,-0.05,Normal,Full Moon,0.6
+8677406,"Howe Street Pier, Brunswick",2027-01-23,09:06,Saturday,8.87,1.16,King tide,Full Moon,1.1
+8677406,"Howe Street Pier, Brunswick",2027-01-23,21:32,Saturday,7.87,0.16,Normal,Full Moon,1.6
+8677406,"Howe Street Pier, Brunswick",2027-01-24,09:57,Sunday,8.66,0.95,Higher than usual,Full Moon,2.1
+8677406,"Howe Street Pier, Brunswick",2027-01-24,22:25,Sunday,7.95,0.24,Normal,Full Moon,2.6
+8677406,"Howe Street Pier, Brunswick",2027-01-25,10:48,Monday,8.29,0.57,Higher than usual,Full Moon,3.1
+8677406,"Howe Street Pier, Brunswick",2027-01-25,23:18,Monday,7.89,0.17,Normal,Last Quarter,-3.3
+8677406,"Howe Street Pier, Brunswick",2027-01-26,11:37,Tuesday,7.78,0.07,Normal,Last Quarter,-2.8
+8677406,"Howe Street Pier, Brunswick",2027-01-27,00:09,Wednesday,7.69,-0.02,Normal,Last Quarter,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-01-27,12:26,Wednesday,7.2,-0.51,Normal,Last Quarter,-1.7
+8677406,"Howe Street Pier, Brunswick",2027-01-28,01:01,Thursday,7.4,-0.31,Normal,Last Quarter,-1.2
+8677406,"Howe Street Pier, Brunswick",2027-01-28,13:15,Thursday,6.61,-1.11,Normal,Last Quarter,-0.7
+8677406,"Howe Street Pier, Brunswick",2027-01-29,01:53,Friday,7.06,-0.65,Normal,Last Quarter,-0.2
+8677406,"Howe Street Pier, Brunswick",2027-01-29,14:07,Friday,6.06,-1.65,Normal,Last Quarter,0.3
+8677406,"Howe Street Pier, Brunswick",2027-01-30,02:48,Saturday,6.75,-0.96,Normal,Last Quarter,0.9
+8677406,"Howe Street Pier, Brunswick",2027-01-30,15:02,Saturday,5.62,-2.09,Normal,Last Quarter,1.4
+8677406,"Howe Street Pier, Brunswick",2027-01-31,03:47,Sunday,6.52,-1.19,Normal,Last Quarter,1.9
+8677406,"Howe Street Pier, Brunswick",2027-01-31,16:02,Sunday,5.36,-2.36,Normal,Last Quarter,2.4
+8677406,"Howe Street Pier, Brunswick",2027-02-01,04:47,Monday,6.44,-1.27,Normal,Last Quarter,3.0
+8677406,"Howe Street Pier, Brunswick",2027-02-01,17:03,Monday,5.29,-2.43,Normal,Last Quarter,3.5
+8677406,"Howe Street Pier, Brunswick",2027-02-02,05:43,Tuesday,6.5,-1.21,Normal,Last Quarter,4.0
+8677406,"Howe Street Pier, Brunswick",2027-02-02,17:59,Tuesday,5.39,-2.32,Normal,New Moon,-3.7
+8677406,"Howe Street Pier, Brunswick",2027-02-03,06:31,Wednesday,6.66,-1.05,Normal,New Moon,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-02-03,18:45,Wednesday,5.61,-2.11,Normal,New Moon,-2.7
+8677406,"Howe Street Pier, Brunswick",2027-02-04,07:11,Thursday,6.85,-0.86,Normal,New Moon,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-02-04,19:25,Thursday,5.87,-1.84,Normal,New Moon,-1.6
+8677406,"Howe Street Pier, Brunswick",2027-02-05,07:48,Friday,7.03,-0.69,Normal,New Moon,-1.1
+8677406,"Howe Street Pier, Brunswick",2027-02-05,20:02,Friday,6.15,-1.56,Normal,New Moon,-0.6
+8677406,"Howe Street Pier, Brunswick",2027-02-06,08:22,Saturday,7.16,-0.56,Normal,New Moon,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-02-06,20:37,Saturday,6.42,-1.29,Normal,New Moon,0.4
+8677406,"Howe Street Pier, Brunswick",2027-02-07,08:55,Sunday,7.23,-0.48,Normal,New Moon,0.9
+8677406,"Howe Street Pier, Brunswick",2027-02-07,21:12,Sunday,6.68,-1.04,Normal,New Moon,1.4
+8677406,"Howe Street Pier, Brunswick",2027-02-08,09:29,Monday,7.25,-0.47,Normal,New Moon,1.9
+8677406,"Howe Street Pier, Brunswick",2027-02-08,21:48,Monday,6.91,-0.8,Normal,New Moon,2.5
+8677406,"Howe Street Pier, Brunswick",2027-02-09,10:04,Tuesday,7.2,-0.51,Normal,New Moon,3.0
+8677406,"Howe Street Pier, Brunswick",2027-02-09,22:27,Tuesday,7.12,-0.59,Normal,New Moon,3.5
+8677406,"Howe Street Pier, Brunswick",2027-02-10,10:41,Wednesday,7.1,-0.62,Normal,First Quarter,-3.7
+8677406,"Howe Street Pier, Brunswick",2027-02-10,23:08,Wednesday,7.29,-0.43,Normal,First Quarter,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-02-11,11:22,Thursday,6.94,-0.78,Normal,First Quarter,-2.6
+8677406,"Howe Street Pier, Brunswick",2027-02-11,23:52,Thursday,7.39,-0.32,Normal,First Quarter,-2.1
+8677406,"Howe Street Pier, Brunswick",2027-02-12,12:07,Friday,6.73,-0.98,Normal,First Quarter,-1.6
+8677406,"Howe Street Pier, Brunswick",2027-02-13,00:41,Saturday,7.43,-0.28,Normal,First Quarter,-1.1
+8677406,"Howe Street Pier, Brunswick",2027-02-13,12:56,Saturday,6.49,-1.22,Normal,First Quarter,-0.6
+8677406,"Howe Street Pier, Brunswick",2027-02-14,01:37,Sunday,7.41,-0.3,Normal,First Quarter,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-02-14,13:54,Sunday,6.27,-1.44,Normal,First Quarter,0.5
+8677406,"Howe Street Pier, Brunswick",2027-02-15,02:41,Monday,7.4,-0.31,Normal,First Quarter,1.0
+8677406,"Howe Street Pier, Brunswick",2027-02-15,15:01,Monday,6.14,-1.57,Normal,First Quarter,1.5
+8677406,"Howe Street Pier, Brunswick",2027-02-16,03:52,Tuesday,7.48,-0.23,Normal,First Quarter,2.0
+8677406,"Howe Street Pier, Brunswick",2027-02-16,16:16,Tuesday,6.22,-1.5,Normal,First Quarter,2.6
+8677406,"Howe Street Pier, Brunswick",2027-02-17,05:05,Wednesday,7.71,-0.0,Normal,First Quarter,3.1
+8677406,"Howe Street Pier, Brunswick",2027-02-17,17:31,Wednesday,6.55,-1.17,Normal,Full Moon,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-02-18,06:10,Thursday,8.04,0.33,Normal,Full Moon,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-02-18,18:35,Thursday,7.05,-0.67,Normal,Full Moon,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-02-19,07:07,Friday,8.35,0.64,Higher than usual,Full Moon,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-02-19,19:31,Friday,7.55,-0.16,Normal,Full Moon,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-02-20,07:59,Saturday,8.52,0.8,Higher than usual,Full Moon,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-02-20,20:23,Saturday,7.95,0.24,Normal,Full Moon,0.1
+8677406,"Howe Street Pier, Brunswick",2027-02-21,08:48,Sunday,8.49,0.78,Higher than usual,Full Moon,0.6
+8677406,"Howe Street Pier, Brunswick",2027-02-21,21:13,Sunday,8.19,0.47,Normal,Full Moon,1.1
+8677406,"Howe Street Pier, Brunswick",2027-02-22,09:35,Monday,8.29,0.58,Higher than usual,Full Moon,1.6
+8677406,"Howe Street Pier, Brunswick",2027-02-22,22:02,Monday,8.24,0.52,Higher than usual,Full Moon,2.2
+8677406,"Howe Street Pier, Brunswick",2027-02-23,10:22,Tuesday,7.93,0.22,Normal,Full Moon,2.7
+8677406,"Howe Street Pier, Brunswick",2027-02-23,22:49,Tuesday,8.11,0.4,Normal,Full Moon,3.2
+8677406,"Howe Street Pier, Brunswick",2027-02-24,11:08,Wednesday,7.47,-0.24,Normal,Last Quarter,-3.5
+8677406,"Howe Street Pier, Brunswick",2027-02-24,23:36,Wednesday,7.84,0.13,Normal,Last Quarter,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-02-25,11:53,Thursday,6.95,-0.76,Normal,Last Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-02-26,00:23,Friday,7.46,-0.25,Normal,Last Quarter,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-02-26,12:38,Friday,6.42,-1.29,Normal,Last Quarter,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-02-27,01:11,Saturday,7.05,-0.67,Normal,Last Quarter,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-02-27,13:25,Saturday,5.94,-1.78,Normal,Last Quarter,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-02-28,02:03,Sunday,6.66,-1.06,Normal,Last Quarter,0.1
+8677406,"Howe Street Pier, Brunswick",2027-02-28,14:18,Sunday,5.55,-2.17,Normal,Last Quarter,0.6
+8677406,"Howe Street Pier, Brunswick",2027-03-01,03:00,Monday,6.36,-1.35,Normal,Last Quarter,1.1
+8677406,"Howe Street Pier, Brunswick",2027-03-01,15:17,Monday,5.31,-2.4,Normal,Last Quarter,1.6
+8677406,"Howe Street Pier, Brunswick",2027-03-02,04:03,Tuesday,6.23,-1.49,Normal,Last Quarter,2.2
+8677406,"Howe Street Pier, Brunswick",2027-03-02,16:23,Tuesday,5.28,-2.44,Normal,Last Quarter,2.7
+8677406,"Howe Street Pier, Brunswick",2027-03-03,05:04,Wednesday,6.28,-1.44,Normal,Last Quarter,3.2
+8677406,"Howe Street Pier, Brunswick",2027-03-03,17:25,Wednesday,5.45,-2.26,Normal,Last Quarter,3.7
+8677406,"Howe Street Pier, Brunswick",2027-03-04,05:57,Thursday,6.46,-1.26,Normal,New Moon,-3.9
+8677406,"Howe Street Pier, Brunswick",2027-03-04,18:15,Thursday,5.78,-1.94,Normal,New Moon,-3.4
+8677406,"Howe Street Pier, Brunswick",2027-03-05,06:41,Friday,6.69,-1.02,Normal,New Moon,-2.9
+8677406,"Howe Street Pier, Brunswick",2027-03-05,18:57,Friday,6.17,-1.54,Normal,New Moon,-2.4
+8677406,"Howe Street Pier, Brunswick",2027-03-06,07:18,Saturday,6.92,-0.79,Normal,New Moon,-1.9
+8677406,"Howe Street Pier, Brunswick",2027-03-06,19:34,Saturday,6.58,-1.13,Normal,New Moon,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-03-07,07:52,Sunday,7.12,-0.6,Normal,New Moon,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-03-07,20:09,Sunday,6.98,-0.73,Normal,New Moon,-0.3
+8677406,"Howe Street Pier, Brunswick",2027-03-08,08:26,Monday,7.25,-0.47,Normal,New Moon,0.2
+8677406,"Howe Street Pier, Brunswick",2027-03-08,20:44,Monday,7.34,-0.38,Normal,New Moon,0.7
+8677406,"Howe Street Pier, Brunswick",2027-03-09,09:01,Tuesday,7.31,-0.41,Normal,New Moon,1.2
+8677406,"Howe Street Pier, Brunswick",2027-03-09,21:21,Tuesday,7.63,-0.08,Normal,New Moon,1.7
+8677406,"Howe Street Pier, Brunswick",2027-03-10,09:37,Wednesday,7.29,-0.42,Normal,New Moon,2.2
+8677406,"Howe Street Pier, Brunswick",2027-03-10,22:01,Wednesday,7.84,0.12,Normal,New Moon,2.7
+8677406,"Howe Street Pier, Brunswick",2027-03-11,10:17,Thursday,7.21,-0.51,Normal,New Moon,3.2
+8677406,"Howe Street Pier, Brunswick",2027-03-11,22:44,Thursday,7.95,0.23,Normal,First Quarter,-3.5
+8677406,"Howe Street Pier, Brunswick",2027-03-12,11:01,Friday,7.05,-0.67,Normal,First Quarter,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-03-12,23:31,Friday,7.94,0.23,Normal,First Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-03-13,11:48,Saturday,6.83,-0.88,Normal,First Quarter,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-03-14,00:23,Sunday,7.84,0.12,Normal,First Quarter,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-03-14,13:42,Sunday,6.59,-1.12,Normal,First Quarter,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-03-15,02:21,Monday,7.67,-0.05,Normal,First Quarter,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-03-15,14:43,Monday,6.38,-1.33,Normal,First Quarter,0.1
+8677406,"Howe Street Pier, Brunswick",2027-03-16,03:27,Tuesday,7.51,-0.2,Normal,First Quarter,0.7
+8677406,"Howe Street Pier, Brunswick",2027-03-16,15:53,Tuesday,6.31,-1.4,Normal,First Quarter,1.2
+8677406,"Howe Street Pier, Brunswick",2027-03-17,04:39,Wednesday,7.46,-0.25,Normal,First Quarter,1.7
+8677406,"Howe Street Pier, Brunswick",2027-03-17,17:10,Wednesday,6.47,-1.25,Normal,First Quarter,2.2
+8677406,"Howe Street Pier, Brunswick",2027-03-18,05:51,Thursday,7.58,-0.14,Normal,First Quarter,2.8
+8677406,"Howe Street Pier, Brunswick",2027-03-18,18:22,Thursday,6.88,-0.84,Normal,First Quarter,3.3
+8677406,"Howe Street Pier, Brunswick",2027-03-19,06:56,Friday,7.8,0.08,Normal,Full Moon,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-03-19,19:24,Friday,7.41,-0.3,Normal,Full Moon,-2.4
+8677406,"Howe Street Pier, Brunswick",2027-03-20,07:51,Saturday,8.0,0.29,Normal,Full Moon,-1.9
+8677406,"Howe Street Pier, Brunswick",2027-03-20,20:17,Saturday,7.91,0.2,Normal,Full Moon,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-03-21,08:40,Sunday,8.1,0.39,Normal,Full Moon,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-03-21,21:05,Sunday,8.27,0.56,Higher than usual,Full Moon,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-03-22,09:26,Monday,8.05,0.33,Normal,Full Moon,0.2
+8677406,"Howe Street Pier, Brunswick",2027-03-22,21:50,Monday,8.44,0.73,Higher than usual,Full Moon,0.7
+8677406,"Howe Street Pier, Brunswick",2027-03-23,10:10,Tuesday,7.85,0.14,Normal,Full Moon,1.2
+8677406,"Howe Street Pier, Brunswick",2027-03-23,22:34,Tuesday,8.42,0.71,Higher than usual,Full Moon,1.7
+8677406,"Howe Street Pier, Brunswick",2027-03-24,10:54,Wednesday,7.54,-0.17,Normal,Full Moon,2.2
+8677406,"Howe Street Pier, Brunswick",2027-03-24,23:18,Wednesday,8.23,0.52,Higher than usual,Full Moon,2.7
+8677406,"Howe Street Pier, Brunswick",2027-03-25,11:37,Thursday,7.17,-0.55,Normal,Full Moon,3.2
+8677406,"Howe Street Pier, Brunswick",2027-03-26,00:02,Friday,7.92,0.21,Normal,Full Moon,3.8
+8677406,"Howe Street Pier, Brunswick",2027-03-26,12:19,Friday,6.76,-0.96,Normal,Last Quarter,-3.3
+8677406,"Howe Street Pier, Brunswick",2027-03-27,00:45,Saturday,7.54,-0.17,Normal,Last Quarter,-2.8
+8677406,"Howe Street Pier, Brunswick",2027-03-27,13:02,Saturday,6.35,-1.36,Normal,Last Quarter,-2.3
+8677406,"Howe Street Pier, Brunswick",2027-03-28,01:31,Sunday,7.13,-0.58,Normal,Last Quarter,-1.8
+8677406,"Howe Street Pier, Brunswick",2027-03-28,13:47,Sunday,5.98,-1.73,Normal,Last Quarter,-1.3
+8677406,"Howe Street Pier, Brunswick",2027-03-29,02:19,Monday,6.75,-0.96,Normal,Last Quarter,-0.7
+8677406,"Howe Street Pier, Brunswick",2027-03-29,14:37,Monday,5.69,-2.02,Normal,Last Quarter,-0.2
+8677406,"Howe Street Pier, Brunswick",2027-03-30,03:13,Tuesday,6.45,-1.26,Normal,Last Quarter,0.3
+8677406,"Howe Street Pier, Brunswick",2027-03-30,15:35,Tuesday,5.52,-2.19,Normal,Last Quarter,0.8
+8677406,"Howe Street Pier, Brunswick",2027-03-31,04:12,Wednesday,6.28,-1.44,Normal,Last Quarter,1.3
+8677406,"Howe Street Pier, Brunswick",2027-03-31,16:38,Wednesday,5.54,-2.17,Normal,Last Quarter,1.9
+8677406,"Howe Street Pier, Brunswick",2027-04-01,05:13,Thursday,6.26,-1.46,Normal,Last Quarter,2.4
+8677406,"Howe Street Pier, Brunswick",2027-04-01,17:41,Thursday,5.75,-1.96,Normal,Last Quarter,2.9
+8677406,"Howe Street Pier, Brunswick",2027-04-02,06:10,Friday,6.38,-1.33,Normal,Last Quarter,3.4
+8677406,"Howe Street Pier, Brunswick",2027-04-02,18:35,Friday,6.14,-1.58,Normal,Last Quarter,3.9
+8677406,"Howe Street Pier, Brunswick",2027-04-03,06:58,Saturday,6.59,-1.12,Normal,New Moon,-3.5
+8677406,"Howe Street Pier, Brunswick",2027-04-03,19:20,Saturday,6.61,-1.1,Normal,New Moon,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-04-04,07:39,Sunday,6.83,-0.88,Normal,New Moon,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-04-04,20:00,Sunday,7.12,-0.59,Normal,New Moon,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-04-05,08:17,Monday,7.06,-0.66,Normal,New Moon,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-04-05,20:37,Monday,7.6,-0.11,Normal,New Moon,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-04-06,08:54,Tuesday,7.23,-0.48,Normal,New Moon,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-04-06,21:15,Tuesday,8.01,0.3,Normal,New Moon,0.1
+8677406,"Howe Street Pier, Brunswick",2027-04-07,09:32,Wednesday,7.34,-0.38,Normal,New Moon,0.6
+8677406,"Howe Street Pier, Brunswick",2027-04-07,21:55,Wednesday,8.31,0.6,Higher than usual,New Moon,1.1
+8677406,"Howe Street Pier, Brunswick",2027-04-08,10:13,Thursday,7.35,-0.36,Normal,New Moon,1.6
+8677406,"Howe Street Pier, Brunswick",2027-04-08,22:38,Thursday,8.47,0.76,Higher than usual,New Moon,2.2
+8677406,"Howe Street Pier, Brunswick",2027-04-09,10:57,Friday,7.28,-0.43,Normal,New Moon,2.7
+8677406,"Howe Street Pier, Brunswick",2027-04-09,23:25,Friday,8.49,0.78,Higher than usual,New Moon,3.2
+8677406,"Howe Street Pier, Brunswick",2027-04-10,11:46,Saturday,7.14,-0.58,Normal,First Quarter,-3.3
+8677406,"Howe Street Pier, Brunswick",2027-04-11,00:16,Sunday,8.37,0.66,Higher than usual,First Quarter,-2.7
+8677406,"Howe Street Pier, Brunswick",2027-04-11,12:38,Sunday,6.95,-0.76,Normal,First Quarter,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-04-12,01:11,Monday,8.15,0.43,Normal,First Quarter,-1.7
+8677406,"Howe Street Pier, Brunswick",2027-04-12,13:36,Monday,6.76,-0.95,Normal,First Quarter,-1.2
+8677406,"Howe Street Pier, Brunswick",2027-04-13,02:12,Tuesday,7.87,0.16,Normal,First Quarter,-0.7
+8677406,"Howe Street Pier, Brunswick",2027-04-13,14:41,Tuesday,6.64,-1.08,Normal,First Quarter,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-04-14,03:17,Wednesday,7.61,-0.1,Normal,First Quarter,0.4
+8677406,"Howe Street Pier, Brunswick",2027-04-14,15:52,Wednesday,6.66,-1.05,Normal,First Quarter,0.9
+8677406,"Howe Street Pier, Brunswick",2027-04-15,04:27,Thursday,7.44,-0.27,Normal,First Quarter,1.4
+8677406,"Howe Street Pier, Brunswick",2027-04-15,17:04,Thursday,6.88,-0.83,Normal,First Quarter,2.0
+8677406,"Howe Street Pier, Brunswick",2027-04-16,05:35,Friday,7.4,-0.31,Normal,First Quarter,2.5
+8677406,"Howe Street Pier, Brunswick",2027-04-16,18:11,Friday,7.27,-0.44,Normal,First Quarter,3.0
+8677406,"Howe Street Pier, Brunswick",2027-04-17,06:37,Saturday,7.45,-0.26,Normal,Full Moon,-3.5
+8677406,"Howe Street Pier, Brunswick",2027-04-17,19:09,Saturday,7.72,0.0,Normal,Full Moon,-2.9
+8677406,"Howe Street Pier, Brunswick",2027-04-18,07:31,Sunday,7.51,-0.2,Normal,Full Moon,-2.4
+8677406,"Howe Street Pier, Brunswick",2027-04-18,19:59,Sunday,8.1,0.38,Normal,Full Moon,-1.9
+8677406,"Howe Street Pier, Brunswick",2027-04-19,08:19,Monday,7.52,-0.19,Normal,Full Moon,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-04-19,20:44,Monday,8.34,0.62,Higher than usual,Full Moon,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-04-20,09:02,Tuesday,7.44,-0.27,Normal,Full Moon,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-04-20,21:26,Tuesday,8.41,0.69,Higher than usual,Full Moon,0.2
+8677406,"Howe Street Pier, Brunswick",2027-04-21,09:44,Wednesday,7.28,-0.43,Normal,Full Moon,0.7
+8677406,"Howe Street Pier, Brunswick",2027-04-21,22:07,Wednesday,8.33,0.61,Higher than usual,Full Moon,1.2
+8677406,"Howe Street Pier, Brunswick",2027-04-22,10:25,Thursday,7.05,-0.66,Normal,Full Moon,1.7
+8677406,"Howe Street Pier, Brunswick",2027-04-22,22:48,Thursday,8.12,0.41,Normal,Full Moon,2.2
+8677406,"Howe Street Pier, Brunswick",2027-04-23,11:05,Friday,6.79,-0.93,Normal,Full Moon,2.7
+8677406,"Howe Street Pier, Brunswick",2027-04-23,23:29,Friday,7.84,0.13,Normal,Full Moon,3.3
+8677406,"Howe Street Pier, Brunswick",2027-04-24,11:47,Saturday,6.51,-1.2,Normal,Full Moon,3.8
+8677406,"Howe Street Pier, Brunswick",2027-04-25,00:11,Sunday,7.52,-0.19,Normal,Last Quarter,-3.6
+8677406,"Howe Street Pier, Brunswick",2027-04-25,12:29,Sunday,6.25,-1.47,Normal,Last Quarter,-3.1
+8677406,"Howe Street Pier, Brunswick",2027-04-26,00:54,Monday,7.19,-0.53,Normal,Last Quarter,-2.6
+8677406,"Howe Street Pier, Brunswick",2027-04-26,13:14,Monday,6.02,-1.69,Normal,Last Quarter,-2.1
+8677406,"Howe Street Pier, Brunswick",2027-04-27,01:39,Tuesday,6.87,-0.84,Normal,Last Quarter,-1.6
+8677406,"Howe Street Pier, Brunswick",2027-04-27,14:02,Tuesday,5.86,-1.86,Normal,Last Quarter,-1.1
+8677406,"Howe Street Pier, Brunswick",2027-04-28,02:28,Wednesday,6.6,-1.12,Normal,Last Quarter,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-04-28,14:55,Wednesday,5.79,-1.92,Normal,Last Quarter,-0.0
+8677406,"Howe Street Pier, Brunswick",2027-04-29,03:20,Thursday,6.4,-1.32,Normal,Last Quarter,0.5
+8677406,"Howe Street Pier, Brunswick",2027-04-29,15:52,Thursday,5.87,-1.84,Normal,Last Quarter,1.0
+8677406,"Howe Street Pier, Brunswick",2027-04-30,04:15,Friday,6.3,-1.42,Normal,Last Quarter,1.5
+8677406,"Howe Street Pier, Brunswick",2027-04-30,16:50,Friday,6.1,-1.61,Normal,Last Quarter,2.1
+8677406,"Howe Street Pier, Brunswick",2027-05-01,05:11,Saturday,6.31,-1.4,Normal,Last Quarter,2.6
+8677406,"Howe Street Pier, Brunswick",2027-05-01,17:46,Saturday,6.49,-1.23,Normal,Last Quarter,3.1
+8677406,"Howe Street Pier, Brunswick",2027-05-02,06:04,Sunday,6.44,-1.28,Normal,Last Quarter,3.6
+8677406,"Howe Street Pier, Brunswick",2027-05-02,18:36,Sunday,6.98,-0.73,Normal,New Moon,-3.5
+8677406,"Howe Street Pier, Brunswick",2027-05-03,06:53,Monday,6.64,-1.07,Normal,New Moon,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-05-03,19:21,Monday,7.52,-0.2,Normal,New Moon,-2.4
+8677406,"Howe Street Pier, Brunswick",2027-05-04,07:38,Tuesday,6.87,-0.84,Normal,New Moon,-1.9
+8677406,"Howe Street Pier, Brunswick",2027-05-04,20:04,Tuesday,8.03,0.32,Normal,New Moon,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-05-05,08:22,Wednesday,7.08,-0.63,Normal,New Moon,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-05-05,20:47,Wednesday,8.45,0.74,Higher than usual,New Moon,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-05-06,09:05,Thursday,7.23,-0.48,Normal,New Moon,0.1
+8677406,"Howe Street Pier, Brunswick",2027-05-06,21:32,Thursday,8.73,1.02,King tide,New Moon,0.6
+8677406,"Howe Street Pier, Brunswick",2027-05-07,09:52,Friday,7.29,-0.42,Normal,New Moon,1.2
+8677406,"Howe Street Pier, Brunswick",2027-05-07,22:20,Friday,8.84,1.13,King tide,New Moon,1.7
+8677406,"Howe Street Pier, Brunswick",2027-05-08,10:42,Saturday,7.27,-0.44,Normal,New Moon,2.2
+8677406,"Howe Street Pier, Brunswick",2027-05-08,23:12,Saturday,8.79,1.07,King tide,New Moon,2.7
+8677406,"Howe Street Pier, Brunswick",2027-05-09,11:36,Sunday,7.19,-0.52,Normal,New Moon,3.2
+8677406,"Howe Street Pier, Brunswick",2027-05-10,00:06,Monday,8.6,0.89,Higher than usual,First Quarter,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-05-10,12:33,Monday,7.09,-0.62,Normal,First Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-05-11,01:04,Tuesday,8.3,0.59,Higher than usual,First Quarter,-1.9
+8677406,"Howe Street Pier, Brunswick",2027-05-11,13:34,Tuesday,7.0,-0.71,Normal,First Quarter,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-05-12,02:04,Wednesday,7.95,0.24,Normal,First Quarter,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-05-12,14:39,Wednesday,6.98,-0.73,Normal,First Quarter,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-05-13,03:06,Thursday,7.59,-0.12,Normal,First Quarter,0.1
+8677406,"Howe Street Pier, Brunswick",2027-05-13,15:45,Thursday,7.05,-0.67,Normal,First Quarter,0.7
+8677406,"Howe Street Pier, Brunswick",2027-05-14,04:10,Friday,7.28,-0.43,Normal,First Quarter,1.2
+8677406,"Howe Street Pier, Brunswick",2027-05-14,16:50,Friday,7.22,-0.5,Normal,First Quarter,1.7
+8677406,"Howe Street Pier, Brunswick",2027-05-15,05:13,Saturday,7.06,-0.66,Normal,First Quarter,2.2
+8677406,"Howe Street Pier, Brunswick",2027-05-15,17:52,Saturday,7.46,-0.25,Normal,First Quarter,2.8
+8677406,"Howe Street Pier, Brunswick",2027-05-16,06:13,Sunday,6.92,-0.79,Normal,First Quarter,3.3
+8677406,"Howe Street Pier, Brunswick",2027-05-16,18:48,Sunday,7.72,0.01,Normal,Full Moon,-3.5
+8677406,"Howe Street Pier, Brunswick",2027-05-17,07:07,Monday,6.85,-0.86,Normal,Full Moon,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-05-17,19:38,Monday,7.93,0.21,Normal,Full Moon,-2.4
+8677406,"Howe Street Pier, Brunswick",2027-05-18,07:55,Tuesday,6.8,-0.91,Normal,Full Moon,-1.9
+8677406,"Howe Street Pier, Brunswick",2027-05-18,20:22,Tuesday,8.04,0.32,Normal,Full Moon,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-05-19,08:38,Wednesday,6.73,-0.98,Normal,Full Moon,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-05-19,21:02,Wednesday,8.04,0.33,Normal,Full Moon,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-05-20,09:18,Thursday,6.63,-1.08,Normal,Full Moon,0.1
+8677406,"Howe Street Pier, Brunswick",2027-05-20,21:41,Thursday,7.96,0.24,Normal,Full Moon,0.7
+8677406,"Howe Street Pier, Brunswick",2027-05-21,09:57,Friday,6.51,-1.21,Normal,Full Moon,1.2
+8677406,"Howe Street Pier, Brunswick",2027-05-21,22:20,Friday,7.81,0.09,Normal,Full Moon,1.7
+8677406,"Howe Street Pier, Brunswick",2027-05-22,10:37,Saturday,6.37,-1.34,Normal,Full Moon,2.2
+8677406,"Howe Street Pier, Brunswick",2027-05-22,23:00,Saturday,7.61,-0.1,Normal,Full Moon,2.7
+8677406,"Howe Street Pier, Brunswick",2027-05-23,11:18,Sunday,6.24,-1.47,Normal,Full Moon,3.2
+8677406,"Howe Street Pier, Brunswick",2027-05-23,23:40,Sunday,7.39,-0.32,Normal,Full Moon,3.7
+8677406,"Howe Street Pier, Brunswick",2027-05-24,12:00,Monday,6.12,-1.59,Normal,Last Quarter,-3.9
+8677406,"Howe Street Pier, Brunswick",2027-05-25,00:22,Tuesday,7.15,-0.56,Normal,Last Quarter,-3.4
+8677406,"Howe Street Pier, Brunswick",2027-05-25,12:44,Tuesday,6.04,-1.67,Normal,Last Quarter,-2.8
+8677406,"Howe Street Pier, Brunswick",2027-05-26,01:03,Wednesday,6.91,-0.8,Normal,Last Quarter,-2.3
+8677406,"Howe Street Pier, Brunswick",2027-05-26,13:29,Wednesday,6.01,-1.7,Normal,Last Quarter,-1.8
+8677406,"Howe Street Pier, Brunswick",2027-05-27,01:47,Thursday,6.68,-1.03,Normal,Last Quarter,-1.3
+8677406,"Howe Street Pier, Brunswick",2027-05-27,14:17,Thursday,6.05,-1.66,Normal,Last Quarter,-0.8
+8677406,"Howe Street Pier, Brunswick",2027-05-28,02:32,Friday,6.48,-1.23,Normal,Last Quarter,-0.3
+8677406,"Howe Street Pier, Brunswick",2027-05-28,15:07,Friday,6.18,-1.53,Normal,Last Quarter,0.3
+8677406,"Howe Street Pier, Brunswick",2027-05-29,03:21,Saturday,6.33,-1.38,Normal,Last Quarter,0.8
+8677406,"Howe Street Pier, Brunswick",2027-05-29,16:00,Saturday,6.42,-1.29,Normal,Last Quarter,1.3
+8677406,"Howe Street Pier, Brunswick",2027-05-30,04:13,Sunday,6.26,-1.46,Normal,Last Quarter,1.8
+8677406,"Howe Street Pier, Brunswick",2027-05-30,16:54,Sunday,6.76,-0.95,Normal,Last Quarter,2.3
+8677406,"Howe Street Pier, Brunswick",2027-05-31,05:09,Monday,6.28,-1.44,Normal,Last Quarter,2.8
+8677406,"Howe Street Pier, Brunswick",2027-05-31,17:49,Monday,7.2,-0.51,Normal,Last Quarter,3.4
+8677406,"Howe Street Pier, Brunswick",2027-06-01,06:05,Tuesday,6.4,-1.31,Normal,New Moon,-3.4
+8677406,"Howe Street Pier, Brunswick",2027-06-01,18:43,Tuesday,7.7,-0.02,Normal,New Moon,-2.8
+8677406,"Howe Street Pier, Brunswick",2027-06-02,07:00,Wednesday,6.61,-1.1,Normal,New Moon,-2.3
+8677406,"Howe Street Pier, Brunswick",2027-06-02,19:34,Wednesday,8.19,0.47,Normal,New Moon,-1.8
+8677406,"Howe Street Pier, Brunswick",2027-06-03,07:52,Thursday,6.85,-0.86,Normal,New Moon,-1.3
+8677406,"Howe Street Pier, Brunswick",2027-06-03,20:24,Thursday,8.6,0.89,Higher than usual,New Moon,-0.8
+8677406,"Howe Street Pier, Brunswick",2027-06-04,08:43,Friday,7.07,-0.64,Normal,New Moon,-0.2
+8677406,"Howe Street Pier, Brunswick",2027-06-04,21:14,Friday,8.87,1.15,King tide,New Moon,0.3
+8677406,"Howe Street Pier, Brunswick",2027-06-05,09:35,Saturday,7.22,-0.49,Normal,New Moon,0.8
+8677406,"Howe Street Pier, Brunswick",2027-06-05,22:06,Saturday,8.96,1.25,King tide,New Moon,1.3
+8677406,"Howe Street Pier, Brunswick",2027-06-06,10:29,Sunday,7.31,-0.41,Normal,New Moon,1.8
+8677406,"Howe Street Pier, Brunswick",2027-06-06,23:00,Sunday,8.88,1.17,King tide,New Moon,2.3
+8677406,"Howe Street Pier, Brunswick",2027-06-07,11:27,Monday,7.34,-0.37,Normal,New Moon,2.9
+8677406,"Howe Street Pier, Brunswick",2027-06-07,23:56,Monday,8.67,0.95,Higher than usual,First Quarter,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-06-08,12:26,Tuesday,7.36,-0.36,Normal,First Quarter,-2.7
+8677406,"Howe Street Pier, Brunswick",2027-06-09,00:53,Wednesday,8.33,0.62,Higher than usual,First Quarter,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-06-09,13:26,Wednesday,7.35,-0.36,Normal,First Quarter,-1.7
+8677406,"Howe Street Pier, Brunswick",2027-06-10,01:50,Thursday,7.91,0.19,Normal,First Quarter,-1.2
+8677406,"Howe Street Pier, Brunswick",2027-06-10,14:27,Thursday,7.34,-0.37,Normal,First Quarter,-0.6
+8677406,"Howe Street Pier, Brunswick",2027-06-11,02:48,Friday,7.44,-0.28,Normal,First Quarter,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-06-11,15:28,Friday,7.33,-0.38,Normal,First Quarter,0.4
+8677406,"Howe Street Pier, Brunswick",2027-06-12,03:47,Saturday,6.99,-0.72,Normal,First Quarter,0.9
+8677406,"Howe Street Pier, Brunswick",2027-06-12,16:29,Saturday,7.34,-0.37,Normal,First Quarter,1.4
+8677406,"Howe Street Pier, Brunswick",2027-06-13,04:46,Sunday,6.61,-1.1,Normal,First Quarter,2.0
+8677406,"Howe Street Pier, Brunswick",2027-06-13,17:28,Sunday,7.38,-0.34,Normal,First Quarter,2.5
+8677406,"Howe Street Pier, Brunswick",2027-06-14,05:46,Monday,6.34,-1.37,Normal,First Quarter,3.0
+8677406,"Howe Street Pier, Brunswick",2027-06-14,18:25,Monday,7.43,-0.28,Normal,First Quarter,3.5
+8677406,"Howe Street Pier, Brunswick",2027-06-15,06:42,Tuesday,6.2,-1.52,Normal,Full Moon,-3.5
+8677406,"Howe Street Pier, Brunswick",2027-06-15,19:15,Tuesday,7.5,-0.21,Normal,Full Moon,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-06-16,07:32,Wednesday,6.13,-1.58,Normal,Full Moon,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-06-16,20:00,Wednesday,7.54,-0.17,Normal,Full Moon,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-06-17,08:15,Thursday,6.11,-1.6,Normal,Full Moon,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-06-17,20:41,Thursday,7.55,-0.16,Normal,Full Moon,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-06-18,08:56,Friday,6.11,-1.6,Normal,Full Moon,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-06-18,21:19,Friday,7.53,-0.18,Normal,Full Moon,0.1
+8677406,"Howe Street Pier, Brunswick",2027-06-19,09:34,Saturday,6.12,-1.6,Normal,Full Moon,0.6
+8677406,"Howe Street Pier, Brunswick",2027-06-19,21:57,Saturday,7.47,-0.24,Normal,Full Moon,1.1
+8677406,"Howe Street Pier, Brunswick",2027-06-20,10:12,Sunday,6.12,-1.59,Normal,Full Moon,1.6
+8677406,"Howe Street Pier, Brunswick",2027-06-20,22:34,Sunday,7.38,-0.33,Normal,Full Moon,2.1
+8677406,"Howe Street Pier, Brunswick",2027-06-21,10:52,Monday,6.13,-1.58,Normal,Full Moon,2.6
+8677406,"Howe Street Pier, Brunswick",2027-06-21,23:12,Monday,7.26,-0.45,Normal,Full Moon,3.1
+8677406,"Howe Street Pier, Brunswick",2027-06-22,11:32,Tuesday,6.15,-1.56,Normal,Full Moon,3.7
+8677406,"Howe Street Pier, Brunswick",2027-06-22,23:51,Tuesday,7.11,-0.6,Normal,Last Quarter,-4.0
+8677406,"Howe Street Pier, Brunswick",2027-06-23,12:14,Wednesday,6.2,-1.51,Normal,Last Quarter,-3.5
+8677406,"Howe Street Pier, Brunswick",2027-06-24,00:29,Thursday,6.94,-0.78,Normal,Last Quarter,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-06-24,12:55,Thursday,6.28,-1.44,Normal,Last Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-06-25,01:08,Friday,6.75,-0.96,Normal,Last Quarter,-1.9
+8677406,"Howe Street Pier, Brunswick",2027-06-25,13:38,Friday,6.39,-1.32,Normal,Last Quarter,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-06-26,01:50,Saturday,6.56,-1.15,Normal,Last Quarter,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-06-26,14:25,Saturday,6.55,-1.16,Normal,Last Quarter,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-06-27,02:35,Sunday,6.39,-1.32,Normal,Last Quarter,0.1
+8677406,"Howe Street Pier, Brunswick",2027-06-27,15:15,Sunday,6.76,-0.95,Normal,Last Quarter,0.6
+8677406,"Howe Street Pier, Brunswick",2027-06-28,03:26,Monday,6.26,-1.45,Normal,Last Quarter,1.1
+8677406,"Howe Street Pier, Brunswick",2027-06-28,16:09,Monday,7.02,-0.69,Normal,Last Quarter,1.7
+8677406,"Howe Street Pier, Brunswick",2027-06-29,04:22,Tuesday,6.21,-1.51,Normal,Last Quarter,2.2
+8677406,"Howe Street Pier, Brunswick",2027-06-29,17:08,Tuesday,7.35,-0.36,Normal,Last Quarter,2.7
+8677406,"Howe Street Pier, Brunswick",2027-06-30,05:24,Wednesday,6.26,-1.45,Normal,Last Quarter,3.2
+8677406,"Howe Street Pier, Brunswick",2027-06-30,18:10,Wednesday,7.76,0.04,Normal,New Moon,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-07-01,06:28,Thursday,6.45,-1.27,Normal,New Moon,-2.6
+8677406,"Howe Street Pier, Brunswick",2027-07-01,19:09,Thursday,8.2,0.48,Normal,New Moon,-2.1
+8677406,"Howe Street Pier, Brunswick",2027-07-02,07:29,Friday,6.74,-0.97,Normal,New Moon,-1.6
+8677406,"Howe Street Pier, Brunswick",2027-07-02,20:05,Friday,8.6,0.89,Higher than usual,New Moon,-1.1
+8677406,"Howe Street Pier, Brunswick",2027-07-03,08:25,Saturday,7.07,-0.65,Normal,New Moon,-0.6
+8677406,"Howe Street Pier, Brunswick",2027-07-03,20:59,Saturday,8.88,1.17,King tide,New Moon,-0.0
+8677406,"Howe Street Pier, Brunswick",2027-07-04,09:21,Sunday,7.36,-0.35,Normal,New Moon,0.5
+8677406,"Howe Street Pier, Brunswick",2027-07-04,21:52,Sunday,8.99,1.28,King tide,New Moon,1.0
+8677406,"Howe Street Pier, Brunswick",2027-07-05,10:17,Monday,7.58,-0.13,Normal,New Moon,1.5
+8677406,"Howe Street Pier, Brunswick",2027-07-05,22:47,Monday,8.92,1.2,King tide,New Moon,2.0
+8677406,"Howe Street Pier, Brunswick",2027-07-06,11:14,Tuesday,7.73,0.02,Normal,New Moon,2.5
+8677406,"Howe Street Pier, Brunswick",2027-07-06,23:41,Tuesday,8.68,0.96,Higher than usual,New Moon,3.1
+8677406,"Howe Street Pier, Brunswick",2027-07-07,12:12,Wednesday,7.81,0.1,Normal,First Quarter,-3.1
+8677406,"Howe Street Pier, Brunswick",2027-07-08,00:35,Thursday,8.29,0.58,Higher than usual,First Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-07-08,13:09,Thursday,7.79,0.08,Normal,First Quarter,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-07-09,01:29,Friday,7.8,0.09,Normal,First Quarter,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-07-09,14:05,Friday,7.69,-0.02,Normal,First Quarter,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-07-10,02:23,Saturday,7.25,-0.46,Normal,First Quarter,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-07-10,15:03,Saturday,7.52,-0.19,Normal,First Quarter,0.1
+8677406,"Howe Street Pier, Brunswick",2027-07-11,03:19,Sunday,6.71,-1.0,Normal,First Quarter,0.6
+8677406,"Howe Street Pier, Brunswick",2027-07-11,16:01,Sunday,7.33,-0.38,Normal,First Quarter,1.1
+8677406,"Howe Street Pier, Brunswick",2027-07-12,04:16,Monday,6.26,-1.45,Normal,First Quarter,1.6
+8677406,"Howe Street Pier, Brunswick",2027-07-12,16:59,Monday,7.18,-0.54,Normal,First Quarter,2.1
+8677406,"Howe Street Pier, Brunswick",2027-07-13,05:16,Tuesday,5.94,-1.77,Normal,First Quarter,2.7
+8677406,"Howe Street Pier, Brunswick",2027-07-13,17:58,Tuesday,7.09,-0.62,Normal,First Quarter,3.2
+8677406,"Howe Street Pier, Brunswick",2027-07-14,06:15,Wednesday,5.78,-1.93,Normal,First Quarter,3.7
+8677406,"Howe Street Pier, Brunswick",2027-07-14,18:52,Wednesday,7.09,-0.62,Normal,Full Moon,-3.7
+8677406,"Howe Street Pier, Brunswick",2027-07-15,07:08,Thursday,5.77,-1.95,Normal,Full Moon,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-07-15,19:39,Thursday,7.14,-0.57,Normal,Full Moon,-2.6
+8677406,"Howe Street Pier, Brunswick",2027-07-16,07:54,Friday,5.84,-1.87,Normal,Full Moon,-2.1
+8677406,"Howe Street Pier, Brunswick",2027-07-16,20:21,Friday,7.22,-0.49,Normal,Full Moon,-1.6
+8677406,"Howe Street Pier, Brunswick",2027-07-17,08:35,Saturday,5.96,-1.75,Normal,Full Moon,-1.1
+8677406,"Howe Street Pier, Brunswick",2027-07-17,20:59,Saturday,7.29,-0.42,Normal,Full Moon,-0.6
+8677406,"Howe Street Pier, Brunswick",2027-07-18,09:13,Sunday,6.11,-1.61,Normal,Full Moon,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-07-18,21:34,Sunday,7.33,-0.38,Normal,Full Moon,0.5
+8677406,"Howe Street Pier, Brunswick",2027-07-19,09:49,Monday,6.25,-1.47,Normal,Full Moon,1.0
+8677406,"Howe Street Pier, Brunswick",2027-07-19,22:09,Monday,7.33,-0.38,Normal,Full Moon,1.5
+8677406,"Howe Street Pier, Brunswick",2027-07-20,10:26,Tuesday,6.39,-1.33,Normal,Full Moon,2.0
+8677406,"Howe Street Pier, Brunswick",2027-07-20,22:44,Tuesday,7.29,-0.43,Normal,Full Moon,2.5
+8677406,"Howe Street Pier, Brunswick",2027-07-21,11:03,Wednesday,6.52,-1.19,Normal,Full Moon,3.0
+8677406,"Howe Street Pier, Brunswick",2027-07-21,23:19,Wednesday,7.19,-0.52,Normal,Full Moon,3.5
+8677406,"Howe Street Pier, Brunswick",2027-07-22,11:41,Thursday,6.66,-1.05,Normal,Last Quarter,-4.0
+8677406,"Howe Street Pier, Brunswick",2027-07-22,23:55,Thursday,7.06,-0.65,Normal,Last Quarter,-3.5
+8677406,"Howe Street Pier, Brunswick",2027-07-23,12:20,Friday,6.8,-0.92,Normal,Last Quarter,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-07-24,00:33,Saturday,6.91,-0.81,Normal,Last Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-07-24,13:02,Saturday,6.94,-0.78,Normal,Last Quarter,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-07-25,01:13,Sunday,6.74,-0.98,Normal,Last Quarter,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-07-25,13:46,Sunday,7.07,-0.64,Normal,Last Quarter,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-07-26,01:58,Monday,6.56,-1.15,Normal,Last Quarter,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-07-26,14:37,Monday,7.2,-0.51,Normal,Last Quarter,0.1
+8677406,"Howe Street Pier, Brunswick",2027-07-27,02:49,Tuesday,6.4,-1.31,Normal,Last Quarter,0.6
+8677406,"Howe Street Pier, Brunswick",2027-07-27,15:33,Tuesday,7.34,-0.37,Normal,Last Quarter,1.2
+8677406,"Howe Street Pier, Brunswick",2027-07-28,03:48,Wednesday,6.3,-1.41,Normal,Last Quarter,1.7
+8677406,"Howe Street Pier, Brunswick",2027-07-28,16:37,Wednesday,7.54,-0.17,Normal,Last Quarter,2.2
+8677406,"Howe Street Pier, Brunswick",2027-07-29,04:55,Thursday,6.33,-1.39,Normal,Last Quarter,2.7
+8677406,"Howe Street Pier, Brunswick",2027-07-29,17:44,Thursday,7.84,0.12,Normal,Last Quarter,3.2
+8677406,"Howe Street Pier, Brunswick",2027-07-30,06:05,Friday,6.54,-1.18,Normal,New Moon,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-07-30,18:50,Friday,8.23,0.52,Higher than usual,New Moon,-2.4
+8677406,"Howe Street Pier, Brunswick",2027-07-31,07:12,Saturday,6.93,-0.78,Normal,New Moon,-1.9
+8677406,"Howe Street Pier, Brunswick",2027-07-31,19:50,Saturday,8.63,0.92,Higher than usual,New Moon,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-08-01,08:12,Sunday,7.41,-0.31,Normal,New Moon,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-08-01,20:45,Sunday,8.92,1.21,King tide,New Moon,-0.3
+8677406,"Howe Street Pier, Brunswick",2027-08-02,09:08,Monday,7.84,0.13,Normal,New Moon,0.2
+8677406,"Howe Street Pier, Brunswick",2027-08-02,21:37,Monday,9.03,1.32,King tide,New Moon,0.7
+8677406,"Howe Street Pier, Brunswick",2027-08-03,10:02,Tuesday,8.17,0.46,Normal,New Moon,1.2
+8677406,"Howe Street Pier, Brunswick",2027-08-03,22:29,Tuesday,8.94,1.23,King tide,New Moon,1.7
+8677406,"Howe Street Pier, Brunswick",2027-08-04,10:56,Wednesday,8.36,0.65,Higher than usual,New Moon,2.2
+8677406,"Howe Street Pier, Brunswick",2027-08-04,23:21,Wednesday,8.67,0.95,Higher than usual,New Moon,2.8
+8677406,"Howe Street Pier, Brunswick",2027-08-05,11:50,Thursday,8.4,0.69,Higher than usual,New Moon,3.3
+8677406,"Howe Street Pier, Brunswick",2027-08-06,00:12,Friday,8.24,0.53,Higher than usual,First Quarter,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-08-06,12:44,Friday,8.28,0.57,Higher than usual,First Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-08-07,01:03,Saturday,7.72,0.01,Normal,First Quarter,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-08-07,13:37,Saturday,8.03,0.32,Normal,First Quarter,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-08-08,01:54,Sunday,7.15,-0.56,Normal,First Quarter,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-08-08,14:31,Sunday,7.69,-0.02,Normal,First Quarter,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-08-09,02:47,Monday,6.6,-1.11,Normal,First Quarter,0.1
+8677406,"Howe Street Pier, Brunswick",2027-08-09,15:27,Monday,7.34,-0.37,Normal,First Quarter,0.6
+8677406,"Howe Street Pier, Brunswick",2027-08-10,03:43,Tuesday,6.15,-1.56,Normal,First Quarter,1.2
+8677406,"Howe Street Pier, Brunswick",2027-08-10,16:26,Tuesday,7.06,-0.66,Normal,First Quarter,1.7
+8677406,"Howe Street Pier, Brunswick",2027-08-11,04:44,Wednesday,5.84,-1.87,Normal,First Quarter,2.2
+8677406,"Howe Street Pier, Brunswick",2027-08-11,17:27,Wednesday,6.9,-0.81,Normal,First Quarter,2.7
+8677406,"Howe Street Pier, Brunswick",2027-08-12,05:46,Thursday,5.73,-1.98,Normal,First Quarter,3.2
+8677406,"Howe Street Pier, Brunswick",2027-08-12,18:25,Thursday,6.9,-0.81,Normal,First Quarter,3.8
+8677406,"Howe Street Pier, Brunswick",2027-08-13,06:43,Friday,5.81,-1.91,Normal,Full Moon,-3.8
+8677406,"Howe Street Pier, Brunswick",2027-08-13,19:15,Friday,7.0,-0.71,Normal,Full Moon,-3.3
+8677406,"Howe Street Pier, Brunswick",2027-08-14,07:32,Saturday,6.0,-1.71,Normal,Full Moon,-2.8
+8677406,"Howe Street Pier, Brunswick",2027-08-14,19:58,Saturday,7.16,-0.56,Normal,Full Moon,-2.3
+8677406,"Howe Street Pier, Brunswick",2027-08-15,08:13,Sunday,6.25,-1.46,Normal,Full Moon,-1.8
+8677406,"Howe Street Pier, Brunswick",2027-08-15,20:35,Sunday,7.31,-0.41,Normal,Full Moon,-1.2
+8677406,"Howe Street Pier, Brunswick",2027-08-16,08:49,Monday,6.53,-1.19,Normal,Full Moon,-0.7
+8677406,"Howe Street Pier, Brunswick",2027-08-16,21:09,Monday,7.42,-0.3,Normal,Full Moon,-0.2
+8677406,"Howe Street Pier, Brunswick",2027-08-17,09:24,Tuesday,6.79,-0.92,Normal,Full Moon,0.3
+8677406,"Howe Street Pier, Brunswick",2027-08-17,21:41,Tuesday,7.47,-0.24,Normal,Full Moon,0.8
+8677406,"Howe Street Pier, Brunswick",2027-08-18,09:58,Wednesday,7.03,-0.68,Normal,Full Moon,1.3
+8677406,"Howe Street Pier, Brunswick",2027-08-18,22:14,Wednesday,7.47,-0.24,Normal,Full Moon,1.8
+8677406,"Howe Street Pier, Brunswick",2027-08-19,10:32,Thursday,7.24,-0.47,Normal,Full Moon,2.3
+8677406,"Howe Street Pier, Brunswick",2027-08-19,22:47,Thursday,7.41,-0.3,Normal,Full Moon,2.8
+8677406,"Howe Street Pier, Brunswick",2027-08-20,11:08,Friday,7.42,-0.3,Normal,Full Moon,3.4
+8677406,"Howe Street Pier, Brunswick",2027-08-20,23:23,Friday,7.31,-0.4,Normal,Full Moon,3.9
+8677406,"Howe Street Pier, Brunswick",2027-08-21,11:47,Saturday,7.56,-0.15,Normal,Last Quarter,-3.4
+8677406,"Howe Street Pier, Brunswick",2027-08-22,00:01,Sunday,7.18,-0.54,Normal,Last Quarter,-2.9
+8677406,"Howe Street Pier, Brunswick",2027-08-22,12:29,Sunday,7.66,-0.06,Normal,Last Quarter,-2.4
+8677406,"Howe Street Pier, Brunswick",2027-08-23,00:43,Monday,7.01,-0.7,Normal,Last Quarter,-1.9
+8677406,"Howe Street Pier, Brunswick",2027-08-23,13:15,Monday,7.71,-0.01,Normal,Last Quarter,-1.3
+8677406,"Howe Street Pier, Brunswick",2027-08-24,01:30,Tuesday,6.83,-0.89,Normal,Last Quarter,-0.8
+8677406,"Howe Street Pier, Brunswick",2027-08-24,14:07,Tuesday,7.71,0.0,Normal,Last Quarter,-0.3
+8677406,"Howe Street Pier, Brunswick",2027-08-25,02:24,Wednesday,6.65,-1.06,Normal,Last Quarter,0.2
+8677406,"Howe Street Pier, Brunswick",2027-08-25,15:07,Wednesday,7.72,0.01,Normal,Last Quarter,0.7
+8677406,"Howe Street Pier, Brunswick",2027-08-26,03:26,Thursday,6.55,-1.16,Normal,Last Quarter,1.2
+8677406,"Howe Street Pier, Brunswick",2027-08-26,16:15,Thursday,7.79,0.07,Normal,Last Quarter,1.8
+8677406,"Howe Street Pier, Brunswick",2027-08-27,04:38,Friday,6.62,-1.1,Normal,Last Quarter,2.3
+8677406,"Howe Street Pier, Brunswick",2027-08-27,17:26,Friday,7.99,0.28,Normal,Last Quarter,2.8
+8677406,"Howe Street Pier, Brunswick",2027-08-28,05:53,Saturday,6.92,-0.79,Normal,New Moon,-3.3
+8677406,"Howe Street Pier, Brunswick",2027-08-28,18:35,Saturday,8.32,0.61,Higher than usual,New Moon,-2.8
+8677406,"Howe Street Pier, Brunswick",2027-08-29,07:01,Sunday,7.44,-0.27,Normal,New Moon,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-08-29,19:35,Sunday,8.68,0.96,Higher than usual,New Moon,-1.7
+8677406,"Howe Street Pier, Brunswick",2027-08-30,08:00,Monday,8.03,0.31,Normal,New Moon,-1.2
+8677406,"Howe Street Pier, Brunswick",2027-08-30,20:29,Monday,8.93,1.22,King tide,New Moon,-0.7
+8677406,"Howe Street Pier, Brunswick",2027-08-31,08:53,Tuesday,8.53,0.82,Higher than usual,New Moon,-0.2
+8677406,"Howe Street Pier, Brunswick",2027-08-31,21:19,Tuesday,9.01,1.29,King tide,New Moon,0.4
+8677406,"Howe Street Pier, Brunswick",2027-09-01,09:44,Wednesday,8.87,1.16,King tide,New Moon,0.9
+8677406,"Howe Street Pier, Brunswick",2027-09-01,22:07,Wednesday,8.88,1.17,King tide,New Moon,1.4
+8677406,"Howe Street Pier, Brunswick",2027-09-02,10:34,Thursday,9.01,1.29,King tide,New Moon,1.9
+8677406,"Howe Street Pier, Brunswick",2027-09-02,22:56,Thursday,8.58,0.87,Higher than usual,New Moon,2.4
+8677406,"Howe Street Pier, Brunswick",2027-09-03,11:24,Friday,8.93,1.22,King tide,New Moon,2.9
+8677406,"Howe Street Pier, Brunswick",2027-09-03,23:45,Friday,8.16,0.45,Normal,New Moon,3.5
+8677406,"Howe Street Pier, Brunswick",2027-09-04,12:14,Saturday,8.69,0.97,Higher than usual,First Quarter,-3.1
+8677406,"Howe Street Pier, Brunswick",2027-09-05,00:33,Sunday,7.66,-0.06,Normal,First Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-09-05,13:04,Sunday,8.3,0.59,Higher than usual,First Quarter,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-09-06,01:22,Monday,7.13,-0.58,Normal,First Quarter,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-09-06,13:55,Monday,7.86,0.14,Normal,First Quarter,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-09-07,02:13,Tuesday,6.64,-1.07,Normal,First Quarter,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-09-07,14:49,Tuesday,7.42,-0.29,Normal,First Quarter,0.1
+8677406,"Howe Street Pier, Brunswick",2027-09-08,03:08,Wednesday,6.24,-1.47,Normal,First Quarter,0.6
+8677406,"Howe Street Pier, Brunswick",2027-09-08,15:48,Wednesday,7.08,-0.63,Normal,First Quarter,1.1
+8677406,"Howe Street Pier, Brunswick",2027-09-09,04:09,Thursday,6.0,-1.71,Normal,First Quarter,1.6
+8677406,"Howe Street Pier, Brunswick",2027-09-09,16:49,Thursday,6.9,-0.81,Normal,First Quarter,2.1
+8677406,"Howe Street Pier, Brunswick",2027-09-10,05:13,Friday,5.96,-1.75,Normal,First Quarter,2.7
+8677406,"Howe Street Pier, Brunswick",2027-09-10,17:50,Friday,6.89,-0.82,Normal,First Quarter,3.2
+8677406,"Howe Street Pier, Brunswick",2027-09-11,06:13,Saturday,6.12,-1.59,Normal,First Quarter,3.7
+8677406,"Howe Street Pier, Brunswick",2027-09-11,18:43,Saturday,7.01,-0.7,Normal,Full Moon,-4.0
+8677406,"Howe Street Pier, Brunswick",2027-09-12,07:03,Sunday,6.42,-1.3,Normal,Full Moon,-3.5
+8677406,"Howe Street Pier, Brunswick",2027-09-12,19:27,Sunday,7.2,-0.52,Normal,Full Moon,-2.9
+8677406,"Howe Street Pier, Brunswick",2027-09-13,07:45,Monday,6.78,-0.93,Normal,Full Moon,-2.4
+8677406,"Howe Street Pier, Brunswick",2027-09-13,20:04,Monday,7.38,-0.33,Normal,Full Moon,-1.9
+8677406,"Howe Street Pier, Brunswick",2027-09-14,08:21,Tuesday,7.16,-0.56,Normal,Full Moon,-1.4
+8677406,"Howe Street Pier, Brunswick",2027-09-14,20:38,Tuesday,7.53,-0.18,Normal,Full Moon,-0.9
+8677406,"Howe Street Pier, Brunswick",2027-09-15,08:54,Wednesday,7.51,-0.2,Normal,Full Moon,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-09-15,21:10,Wednesday,7.63,-0.09,Normal,Full Moon,0.1
+8677406,"Howe Street Pier, Brunswick",2027-09-16,09:27,Thursday,7.82,0.11,Normal,Full Moon,0.6
+8677406,"Howe Street Pier, Brunswick",2027-09-16,21:42,Thursday,7.66,-0.05,Normal,Full Moon,1.2
+8677406,"Howe Street Pier, Brunswick",2027-09-17,10:01,Friday,8.07,0.36,Normal,Full Moon,1.7
+8677406,"Howe Street Pier, Brunswick",2027-09-17,22:17,Friday,7.64,-0.07,Normal,Full Moon,2.2
+8677406,"Howe Street Pier, Brunswick",2027-09-18,10:38,Saturday,8.25,0.53,Higher than usual,Full Moon,2.7
+8677406,"Howe Street Pier, Brunswick",2027-09-18,22:54,Saturday,7.56,-0.15,Normal,Full Moon,3.2
+8677406,"Howe Street Pier, Brunswick",2027-09-19,11:18,Sunday,8.34,0.63,Higher than usual,Full Moon,3.7
+8677406,"Howe Street Pier, Brunswick",2027-09-19,23:35,Sunday,7.43,-0.28,Normal,Last Quarter,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-09-20,12:03,Monday,8.35,0.64,Higher than usual,Last Quarter,-2.7
+8677406,"Howe Street Pier, Brunswick",2027-09-21,00:20,Tuesday,7.27,-0.45,Normal,Last Quarter,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-09-21,12:52,Tuesday,8.28,0.57,Higher than usual,Last Quarter,-1.7
+8677406,"Howe Street Pier, Brunswick",2027-09-22,01:11,Wednesday,7.08,-0.63,Normal,Last Quarter,-1.2
+8677406,"Howe Street Pier, Brunswick",2027-09-22,13:48,Wednesday,8.16,0.44,Normal,Last Quarter,-0.6
+8677406,"Howe Street Pier, Brunswick",2027-09-23,02:10,Thursday,6.93,-0.79,Normal,Last Quarter,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-09-23,14:51,Thursday,8.03,0.32,Normal,Last Quarter,0.4
+8677406,"Howe Street Pier, Brunswick",2027-09-24,03:17,Friday,6.88,-0.83,Normal,Last Quarter,0.9
+8677406,"Howe Street Pier, Brunswick",2027-09-24,16:00,Friday,7.99,0.28,Normal,Last Quarter,1.4
+8677406,"Howe Street Pier, Brunswick",2027-09-25,04:31,Saturday,7.04,-0.67,Normal,Last Quarter,2.0
+8677406,"Howe Street Pier, Brunswick",2027-09-25,17:12,Saturday,8.09,0.37,Normal,Last Quarter,2.5
+8677406,"Howe Street Pier, Brunswick",2027-09-26,05:45,Sunday,7.45,-0.26,Normal,Last Quarter,3.0
+8677406,"Howe Street Pier, Brunswick",2027-09-26,18:19,Sunday,8.3,0.59,Higher than usual,New Moon,-3.1
+8677406,"Howe Street Pier, Brunswick",2027-09-27,06:50,Monday,8.02,0.31,Normal,New Moon,-2.6
+8677406,"Howe Street Pier, Brunswick",2027-09-27,19:18,Monday,8.55,0.84,Higher than usual,New Moon,-2.1
+8677406,"Howe Street Pier, Brunswick",2027-09-28,07:46,Tuesday,8.61,0.9,Higher than usual,New Moon,-1.6
+8677406,"Howe Street Pier, Brunswick",2027-09-28,20:10,Tuesday,8.71,1.0,Higher than usual,New Moon,-1.1
+8677406,"Howe Street Pier, Brunswick",2027-09-29,08:36,Wednesday,9.07,1.35,King tide,New Moon,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-09-29,20:58,Wednesday,8.73,1.01,King tide,New Moon,-0.0
+8677406,"Howe Street Pier, Brunswick",2027-09-30,09:23,Thursday,9.32,1.61,King tide,New Moon,0.5
+8677406,"Howe Street Pier, Brunswick",2027-09-30,21:44,Thursday,8.58,0.87,Higher than usual,New Moon,1.0
+8677406,"Howe Street Pier, Brunswick",2027-10-01,10:09,Friday,9.34,1.63,King tide,New Moon,1.5
+8677406,"Howe Street Pier, Brunswick",2027-10-01,22:30,Friday,8.3,0.58,Higher than usual,New Moon,2.0
+8677406,"Howe Street Pier, Brunswick",2027-10-02,10:56,Saturday,9.16,1.45,King tide,New Moon,2.6
+8677406,"Howe Street Pier, Brunswick",2027-10-02,23:16,Saturday,7.92,0.21,Normal,New Moon,3.1
+8677406,"Howe Street Pier, Brunswick",2027-10-03,11:42,Sunday,8.83,1.11,King tide,New Moon,3.6
+8677406,"Howe Street Pier, Brunswick",2027-10-04,00:02,Monday,7.49,-0.22,Normal,First Quarter,-3.3
+8677406,"Howe Street Pier, Brunswick",2027-10-04,12:29,Monday,8.4,0.69,Higher than usual,First Quarter,-2.8
+8677406,"Howe Street Pier, Brunswick",2027-10-05,00:49,Tuesday,7.06,-0.65,Normal,First Quarter,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-10-05,13:18,Tuesday,7.94,0.22,Normal,First Quarter,-1.7
+8677406,"Howe Street Pier, Brunswick",2027-10-06,01:38,Wednesday,6.67,-1.04,Normal,First Quarter,-1.2
+8677406,"Howe Street Pier, Brunswick",2027-10-06,14:09,Wednesday,7.5,-0.21,Normal,First Quarter,-0.7
+8677406,"Howe Street Pier, Brunswick",2027-10-07,02:32,Thursday,6.37,-1.34,Normal,First Quarter,-0.2
+8677406,"Howe Street Pier, Brunswick",2027-10-07,15:04,Thursday,7.15,-0.56,Normal,First Quarter,0.3
+8677406,"Howe Street Pier, Brunswick",2027-10-08,03:31,Friday,6.21,-1.5,Normal,First Quarter,0.9
+8677406,"Howe Street Pier, Brunswick",2027-10-08,16:03,Friday,6.94,-0.78,Normal,First Quarter,1.4
+8677406,"Howe Street Pier, Brunswick",2027-10-09,04:33,Saturday,6.23,-1.49,Normal,First Quarter,1.9
+8677406,"Howe Street Pier, Brunswick",2027-10-09,17:03,Saturday,6.87,-0.84,Normal,First Quarter,2.4
+8677406,"Howe Street Pier, Brunswick",2027-10-10,05:33,Sunday,6.43,-1.28,Normal,First Quarter,2.9
+8677406,"Howe Street Pier, Brunswick",2027-10-10,17:58,Sunday,6.94,-0.78,Normal,First Quarter,3.5
+8677406,"Howe Street Pier, Brunswick",2027-10-11,06:25,Monday,6.78,-0.94,Normal,First Quarter,4.0
+8677406,"Howe Street Pier, Brunswick",2027-10-11,18:45,Monday,7.08,-0.63,Normal,Full Moon,-3.6
+8677406,"Howe Street Pier, Brunswick",2027-10-12,07:08,Tuesday,7.2,-0.51,Normal,Full Moon,-3.1
+8677406,"Howe Street Pier, Brunswick",2027-10-12,19:26,Tuesday,7.26,-0.45,Normal,Full Moon,-2.6
+8677406,"Howe Street Pier, Brunswick",2027-10-13,07:46,Wednesday,7.65,-0.07,Normal,Full Moon,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-10-13,20:02,Wednesday,7.44,-0.28,Normal,Full Moon,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-10-14,08:22,Thursday,8.06,0.35,Normal,Full Moon,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-10-14,20:37,Thursday,7.58,-0.14,Normal,Full Moon,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-10-15,08:56,Friday,8.42,0.71,Higher than usual,Full Moon,0.0
+8677406,"Howe Street Pier, Brunswick",2027-10-15,21:12,Friday,7.67,-0.05,Normal,Full Moon,0.5
+8677406,"Howe Street Pier, Brunswick",2027-10-16,09:33,Saturday,8.69,0.98,Higher than usual,Full Moon,1.0
+8677406,"Howe Street Pier, Brunswick",2027-10-16,21:49,Saturday,7.69,-0.02,Normal,Full Moon,1.5
+8677406,"Howe Street Pier, Brunswick",2027-10-17,10:13,Sunday,8.85,1.13,King tide,Full Moon,2.1
+8677406,"Howe Street Pier, Brunswick",2027-10-17,22:30,Sunday,7.64,-0.07,Normal,Full Moon,2.6
+8677406,"Howe Street Pier, Brunswick",2027-10-18,10:57,Monday,8.88,1.16,King tide,Full Moon,3.1
+8677406,"Howe Street Pier, Brunswick",2027-10-18,23:16,Monday,7.53,-0.18,Normal,Last Quarter,-3.6
+8677406,"Howe Street Pier, Brunswick",2027-10-19,11:45,Tuesday,8.8,1.08,King tide,Last Quarter,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-10-20,00:06,Wednesday,7.39,-0.33,Normal,Last Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-10-20,12:38,Wednesday,8.62,0.91,Higher than usual,Last Quarter,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-10-21,01:02,Thursday,7.25,-0.47,Normal,Last Quarter,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-10-21,13:36,Thursday,8.39,0.68,Higher than usual,Last Quarter,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-10-22,02:05,Friday,7.16,-0.55,Normal,Last Quarter,-0.4
+8677406,"Howe Street Pier, Brunswick",2027-10-22,14:40,Friday,8.16,0.45,Normal,Last Quarter,0.1
+8677406,"Howe Street Pier, Brunswick",2027-10-23,03:14,Saturday,7.21,-0.51,Normal,Last Quarter,0.6
+8677406,"Howe Street Pier, Brunswick",2027-10-23,15:47,Saturday,8.0,0.28,Normal,Last Quarter,1.1
+8677406,"Howe Street Pier, Brunswick",2027-10-24,04:26,Sunday,7.44,-0.28,Normal,Last Quarter,1.7
+8677406,"Howe Street Pier, Brunswick",2027-10-24,16:56,Sunday,7.94,0.22,Normal,Last Quarter,2.2
+8677406,"Howe Street Pier, Brunswick",2027-10-25,05:34,Monday,7.84,0.13,Normal,Last Quarter,2.7
+8677406,"Howe Street Pier, Brunswick",2027-10-25,18:01,Monday,7.98,0.27,Normal,Last Quarter,3.2
+8677406,"Howe Street Pier, Brunswick",2027-10-26,06:36,Tuesday,8.33,0.62,Higher than usual,New Moon,-3.1
+8677406,"Howe Street Pier, Brunswick",2027-10-26,18:59,Tuesday,8.06,0.35,Normal,New Moon,-2.6
+8677406,"Howe Street Pier, Brunswick",2027-10-27,07:29,Wednesday,8.79,1.07,King tide,New Moon,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-10-27,19:50,Wednesday,8.12,0.4,Normal,New Moon,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-10-28,08:17,Thursday,9.1,1.39,King tide,New Moon,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-10-28,20:37,Thursday,8.09,0.37,Normal,New Moon,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-10-29,09:02,Friday,9.23,1.52,King tide,New Moon,0.0
+8677406,"Howe Street Pier, Brunswick",2027-10-29,21:21,Friday,7.95,0.24,Normal,New Moon,0.5
+8677406,"Howe Street Pier, Brunswick",2027-10-30,09:45,Saturday,9.16,1.45,King tide,New Moon,1.0
+8677406,"Howe Street Pier, Brunswick",2027-10-30,22:04,Saturday,7.73,0.02,Normal,New Moon,1.6
+8677406,"Howe Street Pier, Brunswick",2027-10-31,10:29,Sunday,8.94,1.23,King tide,New Moon,2.1
+8677406,"Howe Street Pier, Brunswick",2027-10-31,22:48,Sunday,7.45,-0.26,Normal,New Moon,2.6
+8677406,"Howe Street Pier, Brunswick",2027-11-01,11:12,Monday,8.62,0.9,Higher than usual,New Moon,3.1
+8677406,"Howe Street Pier, Brunswick",2027-11-01,23:32,Monday,7.14,-0.57,Normal,New Moon,3.6
+8677406,"Howe Street Pier, Brunswick",2027-11-02,11:57,Tuesday,8.23,0.52,Higher than usual,First Quarter,-3.6
+8677406,"Howe Street Pier, Brunswick",2027-11-03,00:17,Wednesday,6.84,-0.87,Normal,First Quarter,-3.1
+8677406,"Howe Street Pier, Brunswick",2027-11-03,12:42,Wednesday,7.84,0.12,Normal,First Quarter,-2.6
+8677406,"Howe Street Pier, Brunswick",2027-11-04,01:05,Thursday,6.59,-1.13,Normal,First Quarter,-2.1
+8677406,"Howe Street Pier, Brunswick",2027-11-04,13:29,Thursday,7.46,-0.25,Normal,First Quarter,-1.6
+8677406,"Howe Street Pier, Brunswick",2027-11-05,01:55,Friday,6.4,-1.31,Normal,First Quarter,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-11-05,14:18,Friday,7.13,-0.58,Normal,First Quarter,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-11-06,02:49,Saturday,6.32,-1.4,Normal,First Quarter,-0.0
+8677406,"Howe Street Pier, Brunswick",2027-11-06,15:10,Saturday,6.87,-0.84,Normal,First Quarter,0.5
+8677406,"Howe Street Pier, Brunswick",2027-11-07,02:45,Sunday,6.37,-1.35,Normal,First Quarter,1.0
+8677406,"Howe Street Pier, Brunswick",2027-11-07,15:04,Sunday,6.72,-1.0,Normal,First Quarter,1.5
+8677406,"Howe Street Pier, Brunswick",2027-11-08,03:42,Monday,6.56,-1.15,Normal,First Quarter,2.0
+8677406,"Howe Street Pier, Brunswick",2027-11-08,15:59,Monday,6.67,-1.04,Normal,First Quarter,2.5
+8677406,"Howe Street Pier, Brunswick",2027-11-09,04:35,Tuesday,6.89,-0.83,Normal,First Quarter,3.1
+8677406,"Howe Street Pier, Brunswick",2027-11-09,16:50,Tuesday,6.72,-0.99,Normal,First Quarter,3.6
+8677406,"Howe Street Pier, Brunswick",2027-11-10,05:23,Wednesday,7.3,-0.41,Normal,Full Moon,-3.7
+8677406,"Howe Street Pier, Brunswick",2027-11-10,17:38,Wednesday,6.86,-0.85,Normal,Full Moon,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-11-11,06:07,Thursday,7.77,0.05,Normal,Full Moon,-2.7
+8677406,"Howe Street Pier, Brunswick",2027-11-11,18:21,Thursday,7.05,-0.66,Normal,Full Moon,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-11-12,06:47,Friday,8.22,0.51,Higher than usual,Full Moon,-1.7
+8677406,"Howe Street Pier, Brunswick",2027-11-12,19:03,Friday,7.24,-0.47,Normal,Full Moon,-1.1
+8677406,"Howe Street Pier, Brunswick",2027-11-13,07:28,Saturday,8.62,0.9,Higher than usual,Full Moon,-0.6
+8677406,"Howe Street Pier, Brunswick",2027-11-13,19:44,Saturday,7.4,-0.31,Normal,Full Moon,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-11-14,08:09,Sunday,8.91,1.19,King tide,Full Moon,0.4
+8677406,"Howe Street Pier, Brunswick",2027-11-14,20:26,Sunday,7.5,-0.21,Normal,Full Moon,0.9
+8677406,"Howe Street Pier, Brunswick",2027-11-15,08:54,Monday,9.06,1.34,King tide,Full Moon,1.4
+8677406,"Howe Street Pier, Brunswick",2027-11-15,21:13,Monday,7.52,-0.19,Normal,Full Moon,1.9
+8677406,"Howe Street Pier, Brunswick",2027-11-16,09:42,Tuesday,9.06,1.34,King tide,Full Moon,2.5
+8677406,"Howe Street Pier, Brunswick",2027-11-16,22:04,Tuesday,7.49,-0.23,Normal,Full Moon,3.0
+8677406,"Howe Street Pier, Brunswick",2027-11-17,10:34,Wednesday,8.93,1.22,King tide,Last Quarter,-3.4
+8677406,"Howe Street Pier, Brunswick",2027-11-17,22:59,Wednesday,7.43,-0.29,Normal,Last Quarter,-2.9
+8677406,"Howe Street Pier, Brunswick",2027-11-18,11:29,Thursday,8.69,0.98,Higher than usual,Last Quarter,-2.3
+8677406,"Howe Street Pier, Brunswick",2027-11-18,23:59,Thursday,7.38,-0.34,Normal,Last Quarter,-1.8
+8677406,"Howe Street Pier, Brunswick",2027-11-19,12:27,Friday,8.38,0.67,Higher than usual,Last Quarter,-1.3
+8677406,"Howe Street Pier, Brunswick",2027-11-20,01:01,Saturday,7.38,-0.34,Normal,Last Quarter,-0.8
+8677406,"Howe Street Pier, Brunswick",2027-11-20,13:28,Saturday,8.04,0.33,Normal,Last Quarter,-0.3
+8677406,"Howe Street Pier, Brunswick",2027-11-21,02:07,Sunday,7.45,-0.26,Normal,Last Quarter,0.3
+8677406,"Howe Street Pier, Brunswick",2027-11-21,14:31,Sunday,7.72,0.01,Normal,Last Quarter,0.8
+8677406,"Howe Street Pier, Brunswick",2027-11-22,03:13,Monday,7.63,-0.08,Normal,Last Quarter,1.3
+8677406,"Howe Street Pier, Brunswick",2027-11-22,15:36,Monday,7.47,-0.24,Normal,Last Quarter,1.8
+8677406,"Howe Street Pier, Brunswick",2027-11-23,04:18,Tuesday,7.89,0.17,Normal,Last Quarter,2.4
+8677406,"Howe Street Pier, Brunswick",2027-11-23,16:39,Tuesday,7.32,-0.4,Normal,Last Quarter,2.9
+8677406,"Howe Street Pier, Brunswick",2027-11-24,05:18,Wednesday,8.18,0.46,Normal,Last Quarter,3.4
+8677406,"Howe Street Pier, Brunswick",2027-11-24,17:38,Wednesday,7.25,-0.47,Normal,New Moon,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-11-25,06:11,Thursday,8.43,0.72,Higher than usual,New Moon,-2.7
+8677406,"Howe Street Pier, Brunswick",2027-11-25,18:30,Thursday,7.22,-0.49,Normal,New Moon,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-11-26,06:59,Friday,8.59,0.88,Higher than usual,New Moon,-1.6
+8677406,"Howe Street Pier, Brunswick",2027-11-26,19:17,Friday,7.18,-0.53,Normal,New Moon,-1.1
+8677406,"Howe Street Pier, Brunswick",2027-11-27,07:43,Saturday,8.63,0.91,Higher than usual,New Moon,-0.6
+8677406,"Howe Street Pier, Brunswick",2027-11-27,20:00,Saturday,7.11,-0.61,Normal,New Moon,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-11-28,08:25,Sunday,8.54,0.83,Higher than usual,New Moon,0.4
+8677406,"Howe Street Pier, Brunswick",2027-11-28,20:42,Sunday,6.99,-0.72,Normal,New Moon,0.9
+8677406,"Howe Street Pier, Brunswick",2027-11-29,09:05,Monday,8.37,0.66,Higher than usual,New Moon,1.4
+8677406,"Howe Street Pier, Brunswick",2027-11-29,21:23,Monday,6.84,-0.87,Normal,New Moon,2.0
+8677406,"Howe Street Pier, Brunswick",2027-11-30,09:46,Tuesday,8.14,0.42,Normal,New Moon,2.5
+8677406,"Howe Street Pier, Brunswick",2027-11-30,22:05,Tuesday,6.69,-1.02,Normal,New Moon,3.0
+8677406,"Howe Street Pier, Brunswick",2027-12-01,10:28,Wednesday,7.87,0.15,Normal,New Moon,3.5
+8677406,"Howe Street Pier, Brunswick",2027-12-01,22:48,Wednesday,6.54,-1.17,Normal,New Moon,4.0
+8677406,"Howe Street Pier, Brunswick",2027-12-02,11:09,Thursday,7.58,-0.14,Normal,First Quarter,-3.6
+8677406,"Howe Street Pier, Brunswick",2027-12-02,23:32,Thursday,6.43,-1.28,Normal,First Quarter,-3.0
+8677406,"Howe Street Pier, Brunswick",2027-12-03,11:51,Friday,7.28,-0.44,Normal,First Quarter,-2.5
+8677406,"Howe Street Pier, Brunswick",2027-12-04,00:18,Saturday,6.36,-1.35,Normal,First Quarter,-2.0
+8677406,"Howe Street Pier, Brunswick",2027-12-04,12:33,Saturday,6.98,-0.73,Normal,First Quarter,-1.5
+8677406,"Howe Street Pier, Brunswick",2027-12-05,01:04,Sunday,6.35,-1.37,Normal,First Quarter,-1.0
+8677406,"Howe Street Pier, Brunswick",2027-12-05,13:18,Sunday,6.71,-1.0,Normal,First Quarter,-0.5
+8677406,"Howe Street Pier, Brunswick",2027-12-06,01:54,Monday,6.41,-1.3,Normal,First Quarter,0.1
+8677406,"Howe Street Pier, Brunswick",2027-12-06,14:05,Monday,6.48,-1.23,Normal,First Quarter,0.6
+8677406,"Howe Street Pier, Brunswick",2027-12-07,02:45,Tuesday,6.56,-1.15,Normal,First Quarter,1.1
+8677406,"Howe Street Pier, Brunswick",2027-12-07,14:55,Tuesday,6.33,-1.38,Normal,First Quarter,1.6
+8677406,"Howe Street Pier, Brunswick",2027-12-08,03:38,Wednesday,6.81,-0.9,Normal,First Quarter,2.1
+8677406,"Howe Street Pier, Brunswick",2027-12-08,15:49,Wednesday,6.28,-1.44,Normal,First Quarter,2.6
+8677406,"Howe Street Pier, Brunswick",2027-12-09,04:32,Thursday,7.15,-0.56,Normal,First Quarter,3.2
+8677406,"Howe Street Pier, Brunswick",2027-12-09,16:45,Thursday,6.34,-1.37,Normal,First Quarter,3.7
+8677406,"Howe Street Pier, Brunswick",2027-12-10,05:24,Friday,7.58,-0.14,Normal,Full Moon,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-12-10,17:39,Friday,6.52,-1.2,Normal,Full Moon,-2.7
+8677406,"Howe Street Pier, Brunswick",2027-12-11,06:15,Saturday,8.03,0.32,Normal,Full Moon,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-12-11,18:31,Saturday,6.76,-0.95,Normal,Full Moon,-1.7
+8677406,"Howe Street Pier, Brunswick",2027-12-12,07:03,Sunday,8.46,0.75,Higher than usual,Full Moon,-1.2
+8677406,"Howe Street Pier, Brunswick",2027-12-12,19:20,Sunday,7.02,-0.69,Normal,Full Moon,-0.7
+8677406,"Howe Street Pier, Brunswick",2027-12-13,07:50,Monday,8.79,1.08,King tide,Full Moon,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-12-13,20:09,Monday,7.24,-0.47,Normal,Full Moon,0.4
+8677406,"Howe Street Pier, Brunswick",2027-12-14,08:39,Tuesday,8.98,1.26,King tide,Full Moon,0.9
+8677406,"Howe Street Pier, Brunswick",2027-12-14,21:00,Tuesday,7.4,-0.31,Normal,Full Moon,1.4
+8677406,"Howe Street Pier, Brunswick",2027-12-15,09:30,Wednesday,9.0,1.28,King tide,Full Moon,1.9
+8677406,"Howe Street Pier, Brunswick",2027-12-15,21:55,Wednesday,7.5,-0.21,Normal,Full Moon,2.4
+8677406,"Howe Street Pier, Brunswick",2027-12-16,10:24,Thursday,8.86,1.15,King tide,Full Moon,3.0
+8677406,"Howe Street Pier, Brunswick",2027-12-16,22:52,Thursday,7.57,-0.15,Normal,Last Quarter,-3.2
+8677406,"Howe Street Pier, Brunswick",2027-12-17,11:19,Friday,8.59,0.87,Higher than usual,Last Quarter,-2.7
+8677406,"Howe Street Pier, Brunswick",2027-12-17,23:51,Friday,7.6,-0.11,Normal,Last Quarter,-2.2
+8677406,"Howe Street Pier, Brunswick",2027-12-18,12:14,Saturday,8.2,0.48,Normal,Last Quarter,-1.7
+8677406,"Howe Street Pier, Brunswick",2027-12-19,00:50,Sunday,7.61,-0.11,Normal,Last Quarter,-1.1
+8677406,"Howe Street Pier, Brunswick",2027-12-19,13:11,Sunday,7.74,0.02,Normal,Last Quarter,-0.6
+8677406,"Howe Street Pier, Brunswick",2027-12-20,01:51,Monday,7.6,-0.12,Normal,Last Quarter,-0.1
+8677406,"Howe Street Pier, Brunswick",2027-12-20,14:10,Monday,7.26,-0.45,Normal,Last Quarter,0.4
+8677406,"Howe Street Pier, Brunswick",2027-12-21,02:53,Tuesday,7.59,-0.12,Normal,Last Quarter,0.9
+8677406,"Howe Street Pier, Brunswick",2027-12-21,15:11,Tuesday,6.84,-0.87,Normal,Last Quarter,1.5
+8677406,"Howe Street Pier, Brunswick",2027-12-22,03:55,Wednesday,7.61,-0.11,Normal,Last Quarter,2.0
+8677406,"Howe Street Pier, Brunswick",2027-12-22,16:14,Wednesday,6.53,-1.18,Normal,Last Quarter,2.5
+8677406,"Howe Street Pier, Brunswick",2027-12-23,04:56,Thursday,7.65,-0.06,Normal,Last Quarter,3.0
+8677406,"Howe Street Pier, Brunswick",2027-12-23,17:15,Thursday,6.36,-1.35,Normal,Last Quarter,3.5
+8677406,"Howe Street Pier, Brunswick",2027-12-24,05:52,Friday,7.73,0.01,Normal,New Moon,-3.4
+8677406,"Howe Street Pier, Brunswick",2027-12-24,18:11,Friday,6.31,-1.41,Normal,New Moon,-2.9
+8677406,"Howe Street Pier, Brunswick",2027-12-25,06:42,Saturday,7.79,0.08,Normal,New Moon,-2.4
+8677406,"Howe Street Pier, Brunswick",2027-12-25,18:59,Saturday,6.31,-1.4,Normal,New Moon,-1.8
+8677406,"Howe Street Pier, Brunswick",2027-12-26,07:26,Sunday,7.82,0.1,Normal,New Moon,-1.3
+8677406,"Howe Street Pier, Brunswick",2027-12-26,19:42,Sunday,6.34,-1.38,Normal,New Moon,-0.8
+8677406,"Howe Street Pier, Brunswick",2027-12-27,08:07,Monday,7.8,0.08,Normal,New Moon,-0.3
+8677406,"Howe Street Pier, Brunswick",2027-12-27,20:23,Monday,6.35,-1.36,Normal,New Moon,0.2
+8677406,"Howe Street Pier, Brunswick",2027-12-28,08:46,Tuesday,7.73,0.02,Normal,New Moon,0.7
+8677406,"Howe Street Pier, Brunswick",2027-12-28,21:02,Tuesday,6.36,-1.35,Normal,New Moon,1.2
+8677406,"Howe Street Pier, Brunswick",2027-12-29,09:23,Wednesday,7.62,-0.09,Normal,New Moon,1.8
+8677406,"Howe Street Pier, Brunswick",2027-12-29,21:41,Wednesday,6.37,-1.34,Normal,New Moon,2.3
+8677406,"Howe Street Pier, Brunswick",2027-12-30,10:01,Thursday,7.47,-0.24,Normal,New Moon,2.8
+8677406,"Howe Street Pier, Brunswick",2027-12-30,22:21,Thursday,6.38,-1.33,Normal,New Moon,3.3
+8677406,"Howe Street Pier, Brunswick",2027-12-31,10:38,Friday,7.28,-0.43,Normal,New Moon,3.8
+8677406,"Howe Street Pier, Brunswick",2027-12-31,23:00,Friday,6.43,-1.28,Normal,New Moon,4.3
+8677344,St. Simons Island,2026-11-06,05:53,Friday,7.76,0.56,Higher than usual,New Moon,-2.8
+8677344,St. Simons Island,2026-11-06,18:07,Friday,7.26,0.06,Normal,New Moon,-2.3
+8677344,St. Simons Island,2026-11-07,06:38,Saturday,7.97,0.77,Higher than usual,New Moon,-1.8
+8677344,St. Simons Island,2026-11-07,18:51,Saturday,7.19,-0.01,Normal,New Moon,-1.3
+8677344,St. Simons Island,2026-11-08,07:19,Sunday,8.04,0.84,Higher than usual,New Moon,-0.8
+8677344,St. Simons Island,2026-11-08,19:32,Sunday,7.07,-0.13,Normal,New Moon,-0.3
+8677344,St. Simons Island,2026-11-09,07:57,Monday,7.99,0.79,Higher than usual,New Moon,0.2
+8677344,St. Simons Island,2026-11-09,20:12,Monday,6.9,-0.3,Normal,New Moon,0.8
+8677344,St. Simons Island,2026-11-10,08:35,Tuesday,7.83,0.63,Higher than usual,New Moon,1.3
+8677344,St. Simons Island,2026-11-10,20:51,Tuesday,6.68,-0.52,Normal,New Moon,1.8
+8677344,St. Simons Island,2026-11-11,09:13,Wednesday,7.58,0.38,Normal,New Moon,2.3
+8677344,St. Simons Island,2026-11-11,21:31,Wednesday,6.44,-0.76,Normal,New Moon,2.8
+8677344,St. Simons Island,2026-11-12,09:51,Thursday,7.29,0.1,Normal,New Moon,3.3
+8677344,St. Simons Island,2026-11-12,22:11,Thursday,6.19,-1.0,Normal,New Moon,3.8
+8677344,St. Simons Island,2026-11-13,10:31,Friday,7.01,-0.19,Normal,First Quarter,-3.8
+8677344,St. Simons Island,2026-11-13,22:52,Friday,5.98,-1.22,Normal,First Quarter,-3.3
+8677344,St. Simons Island,2026-11-14,11:13,Saturday,6.76,-0.44,Normal,First Quarter,-2.8
+8677344,St. Simons Island,2026-11-14,23:36,Saturday,5.84,-1.36,Normal,First Quarter,-2.3
+8677344,St. Simons Island,2026-11-15,11:58,Sunday,6.57,-0.63,Normal,First Quarter,-1.8
+8677344,St. Simons Island,2026-11-16,00:23,Monday,5.79,-1.41,Normal,First Quarter,-1.3
+8677344,St. Simons Island,2026-11-16,12:44,Monday,6.43,-0.76,Normal,First Quarter,-0.8
+8677344,St. Simons Island,2026-11-17,01:12,Tuesday,5.85,-1.35,Normal,First Quarter,-0.2
+8677344,St. Simons Island,2026-11-17,13:33,Tuesday,6.36,-0.84,Normal,First Quarter,0.3
+8677344,St. Simons Island,2026-11-18,02:03,Wednesday,6.03,-1.17,Normal,First Quarter,0.8
+8677344,St. Simons Island,2026-11-18,14:26,Wednesday,6.33,-0.86,Normal,First Quarter,1.3
+8677344,St. Simons Island,2026-11-19,02:58,Thursday,6.34,-0.86,Normal,First Quarter,1.8
+8677344,St. Simons Island,2026-11-19,15:22,Thursday,6.37,-0.83,Normal,First Quarter,2.4
+8677344,St. Simons Island,2026-11-20,03:53,Friday,6.76,-0.44,Normal,First Quarter,2.9
+8677344,St. Simons Island,2026-11-20,16:18,Friday,6.47,-0.72,Normal,First Quarter,3.4
+8677344,St. Simons Island,2026-11-21,04:47,Saturday,7.25,0.06,Normal,Full Moon,-3.2
+8677344,St. Simons Island,2026-11-21,17:13,Saturday,6.63,-0.57,Normal,Full Moon,-2.7
+8677344,St. Simons Island,2026-11-22,05:39,Sunday,7.76,0.56,Higher than usual,Full Moon,-2.2
+8677344,St. Simons Island,2026-11-22,18:05,Sunday,6.8,-0.4,Normal,Full Moon,-1.7
+8677344,St. Simons Island,2026-11-23,06:29,Monday,8.18,0.99,Higher than usual,Full Moon,-1.1
+8677344,St. Simons Island,2026-11-23,18:55,Monday,6.93,-0.27,Normal,Full Moon,-0.6
+8677344,St. Simons Island,2026-11-24,07:19,Tuesday,8.46,1.26,King tide,Full Moon,-0.1
+8677344,St. Simons Island,2026-11-24,19:45,Tuesday,6.98,-0.22,Normal,Full Moon,0.4
+8677344,St. Simons Island,2026-11-25,08:10,Wednesday,8.55,1.36,King tide,Full Moon,0.9
+8677344,St. Simons Island,2026-11-25,20:37,Wednesday,6.94,-0.26,Normal,Full Moon,1.4
+8677344,St. Simons Island,2026-11-26,09:03,Thursday,8.46,1.26,King tide,Full Moon,2.0
+8677344,St. Simons Island,2026-11-26,21:32,Thursday,6.82,-0.38,Normal,Full Moon,2.5
+8677344,St. Simons Island,2026-11-27,10:00,Friday,8.22,1.02,King tide,Full Moon,3.0
+8677344,St. Simons Island,2026-11-27,22:32,Friday,6.67,-0.52,Normal,Last Quarter,-3.1
+8677344,St. Simons Island,2026-11-28,11:00,Saturday,7.9,0.7,Higher than usual,Last Quarter,-2.6
+8677344,St. Simons Island,2026-11-28,23:34,Saturday,6.56,-0.64,Normal,Last Quarter,-2.1
+8677344,St. Simons Island,2026-11-29,12:01,Sunday,7.55,0.35,Normal,Last Quarter,-1.5
+8677344,St. Simons Island,2026-11-30,00:37,Monday,6.51,-0.69,Normal,Last Quarter,-1.0
+8677344,St. Simons Island,2026-11-30,13:00,Monday,7.2,0.0,Normal,Last Quarter,-0.5
+8677344,St. Simons Island,2026-12-01,01:40,Tuesday,6.53,-0.67,Normal,Last Quarter,0.0
+8677344,St. Simons Island,2026-12-01,13:59,Tuesday,6.88,-0.32,Normal,Last Quarter,0.5
+8677344,St. Simons Island,2026-12-02,02:41,Wednesday,6.63,-0.57,Normal,Last Quarter,1.1
+8677344,St. Simons Island,2026-12-02,14:58,Wednesday,6.6,-0.59,Normal,Last Quarter,1.6
+8677344,St. Simons Island,2026-12-03,03:41,Thursday,6.78,-0.42,Normal,Last Quarter,2.1
+8677344,St. Simons Island,2026-12-03,15:55,Thursday,6.41,-0.79,Normal,Last Quarter,2.6
+8677344,St. Simons Island,2026-12-04,04:37,Friday,6.96,-0.23,Normal,Last Quarter,3.1
+8677344,St. Simons Island,2026-12-04,16:50,Friday,6.29,-0.91,Normal,Last Quarter,3.7
+8677344,St. Simons Island,2026-12-05,05:27,Saturday,7.13,-0.06,Normal,New Moon,-3.6
+8677344,St. Simons Island,2026-12-05,17:40,Saturday,6.24,-0.96,Normal,New Moon,-3.1
+8677344,St. Simons Island,2026-12-06,06:13,Sunday,7.25,0.06,Normal,New Moon,-2.6
+8677344,St. Simons Island,2026-12-06,18:26,Sunday,6.22,-0.98,Normal,New Moon,-2.1
+8677344,St. Simons Island,2026-12-07,06:55,Monday,7.3,0.1,Normal,New Moon,-1.5
+8677344,St. Simons Island,2026-12-07,19:08,Monday,6.2,-1.0,Normal,New Moon,-1.0
+8677344,St. Simons Island,2026-12-08,07:34,Tuesday,7.27,0.07,Normal,New Moon,-0.5
+8677344,St. Simons Island,2026-12-08,19:48,Tuesday,6.14,-1.06,Normal,New Moon,-0.0
+8677344,St. Simons Island,2026-12-09,08:12,Wednesday,7.17,-0.03,Normal,New Moon,0.5
+8677344,St. Simons Island,2026-12-09,20:27,Wednesday,6.04,-1.16,Normal,New Moon,1.0
+8677344,St. Simons Island,2026-12-10,08:49,Thursday,7.01,-0.19,Normal,New Moon,1.5
+8677344,St. Simons Island,2026-12-10,21:05,Thursday,5.9,-1.3,Normal,New Moon,2.1
+8677344,St. Simons Island,2026-12-11,09:26,Friday,6.81,-0.39,Normal,New Moon,2.6
+8677344,St. Simons Island,2026-12-11,21:43,Friday,5.74,-1.45,Normal,New Moon,3.1
+8677344,St. Simons Island,2026-12-12,10:03,Saturday,6.6,-0.6,Normal,New Moon,3.6
+8677344,St. Simons Island,2026-12-12,22:21,Saturday,5.62,-1.58,Normal,First Quarter,-4.1
+8677344,St. Simons Island,2026-12-13,10:40,Sunday,6.4,-0.8,Normal,First Quarter,-3.6
+8677344,St. Simons Island,2026-12-13,23:01,Sunday,5.55,-1.65,Normal,First Quarter,-3.1
+8677344,St. Simons Island,2026-12-14,11:19,Monday,6.23,-0.97,Normal,First Quarter,-2.6
+8677344,St. Simons Island,2026-12-14,23:43,Monday,5.57,-1.63,Normal,First Quarter,-2.0
+8677344,St. Simons Island,2026-12-15,12:01,Tuesday,6.08,-1.12,Normal,First Quarter,-1.5
+8677344,St. Simons Island,2026-12-16,00:29,Wednesday,5.68,-1.52,Normal,First Quarter,-1.0
+8677344,St. Simons Island,2026-12-16,12:47,Wednesday,5.95,-1.25,Normal,First Quarter,-0.5
+8677344,St. Simons Island,2026-12-17,01:18,Thursday,5.88,-1.32,Normal,First Quarter,0.0
+8677344,St. Simons Island,2026-12-17,13:37,Thursday,5.83,-1.37,Normal,First Quarter,0.5
+8677344,St. Simons Island,2026-12-18,02:11,Friday,6.14,-1.05,Normal,First Quarter,1.1
+8677344,St. Simons Island,2026-12-18,14:34,Friday,5.74,-1.46,Normal,First Quarter,1.6
+8677344,St. Simons Island,2026-12-19,03:09,Saturday,6.47,-0.73,Normal,First Quarter,2.1
+8677344,St. Simons Island,2026-12-19,15:35,Saturday,5.73,-1.46,Normal,First Quarter,2.6
+8677344,St. Simons Island,2026-12-20,04:10,Sunday,6.85,-0.34,Normal,First Quarter,3.1
+8677344,St. Simons Island,2026-12-20,16:39,Sunday,5.83,-1.36,Normal,Full Moon,-3.2
+8677344,St. Simons Island,2026-12-21,05:11,Monday,7.27,0.07,Normal,Full Moon,-2.6
+8677344,St. Simons Island,2026-12-21,17:39,Monday,6.03,-1.17,Normal,Full Moon,-2.1
+8677344,St. Simons Island,2026-12-22,06:09,Tuesday,7.66,0.46,Normal,Full Moon,-1.6
+8677344,St. Simons Island,2026-12-22,18:36,Tuesday,6.26,-0.94,Normal,Full Moon,-1.1
+8677344,St. Simons Island,2026-12-23,07:04,Wednesday,7.95,0.75,Higher than usual,Full Moon,-0.6
+8677344,St. Simons Island,2026-12-23,19:31,Wednesday,6.45,-0.75,Normal,Full Moon,-0.0
+8677344,St. Simons Island,2026-12-24,07:59,Thursday,8.08,0.88,Higher than usual,Full Moon,0.5
+8677344,St. Simons Island,2026-12-24,20:26,Thursday,6.56,-0.64,Normal,Full Moon,1.0
+8677344,St. Simons Island,2026-12-25,08:54,Friday,8.04,0.84,Higher than usual,Full Moon,1.5
+8677344,St. Simons Island,2026-12-25,21:22,Friday,6.58,-0.61,Normal,Full Moon,2.0
+8677344,St. Simons Island,2026-12-26,09:50,Saturday,7.83,0.63,Higher than usual,Full Moon,2.6
+8677344,St. Simons Island,2026-12-26,22:20,Saturday,6.55,-0.65,Normal,Full Moon,3.1
+8677344,St. Simons Island,2026-12-27,10:46,Sunday,7.51,0.31,Normal,Last Quarter,-3.1
+8677344,St. Simons Island,2026-12-27,23:19,Sunday,6.49,-0.71,Normal,Last Quarter,-2.6
+8677344,St. Simons Island,2026-12-28,11:41,Monday,7.1,-0.1,Normal,Last Quarter,-2.1
+8677344,St. Simons Island,2026-12-29,00:17,Tuesday,6.43,-0.77,Normal,Last Quarter,-1.6
+8677344,St. Simons Island,2026-12-29,12:36,Tuesday,6.66,-0.54,Normal,Last Quarter,-1.1
+8677344,St. Simons Island,2026-12-30,01:14,Wednesday,6.36,-0.83,Normal,Last Quarter,-0.5
+8677344,St. Simons Island,2026-12-30,13:30,Wednesday,6.22,-0.98,Normal,Last Quarter,-0.0
+8677344,St. Simons Island,2026-12-31,02:10,Thursday,6.31,-0.89,Normal,Last Quarter,0.5
+8677344,St. Simons Island,2026-12-31,14:25,Thursday,5.83,-1.37,Normal,Last Quarter,1.0
+8677344,St. Simons Island,2027-01-01,03:02,Friday,6.32,-0.87,Normal,Last Quarter,1.5
+8677344,St. Simons Island,2027-01-01,15:15,Friday,5.58,-1.62,Normal,Last Quarter,2.1
+8677344,St. Simons Island,2027-01-02,03:58,Saturday,6.3,-0.9,Normal,Last Quarter,2.6
+8677344,St. Simons Island,2027-01-02,16:12,Saturday,5.41,-1.78,Normal,Last Quarter,3.1
+8677344,St. Simons Island,2027-01-03,04:52,Sunday,6.33,-0.87,Normal,Last Quarter,3.6
+8677344,St. Simons Island,2027-01-03,17:06,Sunday,5.38,-1.82,Normal,New Moon,-3.9
+8677344,St. Simons Island,2027-01-04,05:43,Monday,6.4,-0.8,Normal,New Moon,-3.4
+8677344,St. Simons Island,2027-01-04,17:55,Monday,5.43,-1.76,Normal,New Moon,-2.9
+8677344,St. Simons Island,2027-01-05,06:28,Tuesday,6.48,-0.72,Normal,New Moon,-2.4
+8677344,St. Simons Island,2027-01-05,18:41,Tuesday,5.52,-1.67,Normal,New Moon,-1.9
+8677344,St. Simons Island,2027-01-06,07:10,Wednesday,6.54,-0.66,Normal,New Moon,-1.3
+8677344,St. Simons Island,2027-01-06,19:23,Wednesday,5.6,-1.6,Normal,New Moon,-0.8
+8677344,St. Simons Island,2027-01-07,07:50,Thursday,6.56,-0.64,Normal,New Moon,-0.3
+8677344,St. Simons Island,2027-01-07,20:02,Thursday,5.63,-1.57,Normal,New Moon,0.2
+8677344,St. Simons Island,2027-01-08,08:26,Friday,6.51,-0.68,Normal,New Moon,0.7
+8677344,St. Simons Island,2027-01-08,20:39,Friday,5.62,-1.58,Normal,New Moon,1.2
+8677344,St. Simons Island,2027-01-09,09:01,Saturday,6.42,-0.78,Normal,New Moon,1.7
+8677344,St. Simons Island,2027-01-09,21:14,Saturday,5.58,-1.61,Normal,New Moon,2.2
+8677344,St. Simons Island,2027-01-10,09:34,Sunday,6.28,-0.92,Normal,New Moon,2.8
+8677344,St. Simons Island,2027-01-10,21:49,Sunday,5.57,-1.63,Normal,New Moon,3.3
+8677344,St. Simons Island,2027-01-11,10:08,Monday,6.12,-1.08,Normal,New Moon,3.8
+8677344,St. Simons Island,2027-01-11,22:25,Monday,5.6,-1.6,Normal,First Quarter,-3.7
+8677344,St. Simons Island,2027-01-12,10:43,Tuesday,5.95,-1.25,Normal,First Quarter,-3.2
+8677344,St. Simons Island,2027-01-12,23:05,Tuesday,5.68,-1.52,Normal,First Quarter,-2.7
+8677344,St. Simons Island,2027-01-13,11:23,Wednesday,5.78,-1.42,Normal,First Quarter,-2.2
+8677344,St. Simons Island,2027-01-13,23:49,Wednesday,5.81,-1.39,Normal,First Quarter,-1.7
+8677344,St. Simons Island,2027-01-14,12:08,Thursday,5.6,-1.6,Normal,First Quarter,-1.1
+8677344,St. Simons Island,2027-01-15,00:38,Friday,5.96,-1.24,Normal,First Quarter,-0.6
+8677344,St. Simons Island,2027-01-15,12:59,Friday,5.42,-1.77,Normal,First Quarter,-0.1
+8677344,St. Simons Island,2027-01-16,01:33,Saturday,6.11,-1.09,Normal,First Quarter,0.4
+8677344,St. Simons Island,2027-01-16,13:58,Saturday,5.28,-1.92,Normal,First Quarter,0.9
+8677344,St. Simons Island,2027-01-17,02:35,Sunday,6.27,-0.92,Normal,First Quarter,1.5
+8677344,St. Simons Island,2027-01-17,15:05,Sunday,5.23,-1.97,Normal,First Quarter,2.0
+8677344,St. Simons Island,2027-01-18,03:43,Monday,6.51,-0.69,Normal,First Quarter,2.5
+8677344,St. Simons Island,2027-01-18,16:16,Monday,5.36,-1.84,Normal,First Quarter,3.0
+8677344,St. Simons Island,2027-01-19,04:52,Tuesday,6.86,-0.34,Normal,Full Moon,-3.1
+8677344,St. Simons Island,2027-01-19,17:24,Tuesday,5.66,-1.54,Normal,Full Moon,-2.6
+8677344,St. Simons Island,2027-01-20,05:56,Wednesday,7.26,0.07,Normal,Full Moon,-2.1
+8677344,St. Simons Island,2027-01-20,18:25,Wednesday,6.06,-1.14,Normal,Full Moon,-1.5
+8677344,St. Simons Island,2027-01-21,06:55,Thursday,7.62,0.42,Normal,Full Moon,-1.0
+8677344,St. Simons Island,2027-01-21,19:21,Thursday,6.45,-0.75,Normal,Full Moon,-0.5
+8677344,St. Simons Island,2027-01-22,07:49,Friday,7.84,0.64,Higher than usual,Full Moon,0.0
+8677344,St. Simons Island,2027-01-22,20:15,Friday,6.74,-0.45,Normal,Full Moon,0.5
+8677344,St. Simons Island,2027-01-23,08:41,Saturday,7.86,0.66,Higher than usual,Full Moon,1.1
+8677344,St. Simons Island,2027-01-23,21:08,Saturday,6.91,-0.28,Normal,Full Moon,1.6
+8677344,St. Simons Island,2027-01-24,09:32,Sunday,7.68,0.48,Normal,Full Moon,2.1
+8677344,St. Simons Island,2027-01-24,22:01,Sunday,6.95,-0.25,Normal,Full Moon,2.6
+8677344,St. Simons Island,2027-01-25,10:22,Monday,7.33,0.14,Normal,Full Moon,3.1
+8677344,St. Simons Island,2027-01-25,22:53,Monday,6.88,-0.32,Normal,Last Quarter,-3.3
+8677344,St. Simons Island,2027-01-26,11:12,Tuesday,6.88,-0.32,Normal,Last Quarter,-2.8
+8677344,St. Simons Island,2027-01-26,23:45,Tuesday,6.71,-0.49,Normal,Last Quarter,-2.3
+8677344,St. Simons Island,2027-01-27,12:02,Wednesday,6.37,-0.83,Normal,Last Quarter,-1.7
+8677344,St. Simons Island,2027-01-28,00:36,Thursday,6.48,-0.72,Normal,Last Quarter,-1.2
+8677344,St. Simons Island,2027-01-28,12:52,Thursday,5.88,-1.32,Normal,Last Quarter,-0.7
+8677344,St. Simons Island,2027-01-29,01:28,Friday,6.22,-0.98,Normal,Last Quarter,-0.2
+8677344,St. Simons Island,2027-01-29,13:43,Friday,5.45,-1.75,Normal,Last Quarter,0.3
+8677344,St. Simons Island,2027-01-30,02:22,Saturday,5.99,-1.21,Normal,Last Quarter,0.9
+8677344,St. Simons Island,2027-01-30,14:38,Saturday,5.14,-2.05,Normal,Last Quarter,1.4
+8677344,St. Simons Island,2027-01-31,03:19,Sunday,5.83,-1.37,Normal,Last Quarter,1.9
+8677344,St. Simons Island,2027-01-31,15:36,Sunday,4.99,-2.21,Normal,Last Quarter,2.4
+8677344,St. Simons Island,2027-02-01,04:17,Monday,5.79,-1.41,Normal,Last Quarter,2.9
+8677344,St. Simons Island,2027-02-01,16:34,Monday,5.0,-2.2,Normal,Last Quarter,3.4
+8677344,St. Simons Island,2027-02-02,05:13,Tuesday,5.88,-1.32,Normal,Last Quarter,4.0
+8677344,St. Simons Island,2027-02-02,17:28,Tuesday,5.14,-2.05,Normal,New Moon,-3.7
+8677344,St. Simons Island,2027-02-03,06:03,Wednesday,6.04,-1.15,Normal,New Moon,-3.2
+8677344,St. Simons Island,2027-02-03,18:16,Wednesday,5.35,-1.84,Normal,New Moon,-2.7
+8677344,St. Simons Island,2027-02-04,06:48,Thursday,6.22,-0.97,Normal,New Moon,-2.2
+8677344,St. Simons Island,2027-02-04,18:59,Thursday,5.56,-1.63,Normal,New Moon,-1.7
+8677344,St. Simons Island,2027-02-05,07:27,Friday,6.36,-0.84,Normal,New Moon,-1.1
+8677344,St. Simons Island,2027-02-05,19:38,Friday,5.74,-1.46,Normal,New Moon,-0.6
+8677344,St. Simons Island,2027-02-06,08:03,Saturday,6.43,-0.77,Normal,New Moon,-0.1
+8677344,St. Simons Island,2027-02-06,20:14,Saturday,5.88,-1.32,Normal,New Moon,0.4
+8677344,St. Simons Island,2027-02-07,08:36,Sunday,6.41,-0.79,Normal,New Moon,0.9
+8677344,St. Simons Island,2027-02-07,20:48,Sunday,5.98,-1.22,Normal,New Moon,1.4
+8677344,St. Simons Island,2027-02-08,09:08,Monday,6.33,-0.87,Normal,New Moon,1.9
+8677344,St. Simons Island,2027-02-08,21:21,Monday,6.08,-1.11,Normal,New Moon,2.4
+8677344,St. Simons Island,2027-02-09,09:40,Tuesday,6.2,-1.0,Normal,New Moon,2.9
+8677344,St. Simons Island,2027-02-09,21:56,Tuesday,6.19,-1.01,Normal,New Moon,3.5
+8677344,St. Simons Island,2027-02-10,10:15,Wednesday,6.04,-1.16,Normal,First Quarter,-3.7
+8677344,St. Simons Island,2027-02-10,22:35,Wednesday,6.29,-0.91,Normal,First Quarter,-3.2
+8677344,St. Simons Island,2027-02-11,10:55,Thursday,5.86,-1.34,Normal,First Quarter,-2.7
+8677344,St. Simons Island,2027-02-11,23:19,Thursday,6.37,-0.83,Normal,First Quarter,-2.2
+8677344,St. Simons Island,2027-02-12,11:41,Friday,5.66,-1.54,Normal,First Quarter,-1.6
+8677344,St. Simons Island,2027-02-13,00:09,Saturday,6.4,-0.8,Normal,First Quarter,-1.1
+8677344,St. Simons Island,2027-02-13,12:34,Saturday,5.46,-1.74,Normal,First Quarter,-0.6
+8677344,St. Simons Island,2027-02-14,01:06,Sunday,6.4,-0.8,Normal,First Quarter,-0.1
+8677344,St. Simons Island,2027-02-14,13:35,Sunday,5.31,-1.89,Normal,First Quarter,0.4
+8677344,St. Simons Island,2027-02-15,02:11,Monday,6.4,-0.8,Normal,First Quarter,1.0
+8677344,St. Simons Island,2027-02-15,14:44,Monday,5.26,-1.93,Normal,First Quarter,1.5
+8677344,St. Simons Island,2027-02-16,03:24,Tuesday,6.51,-0.69,Normal,First Quarter,2.0
+8677344,St. Simons Island,2027-02-16,16:00,Tuesday,5.43,-1.76,Normal,First Quarter,2.5
+8677344,St. Simons Island,2027-02-17,04:37,Wednesday,6.78,-0.42,Normal,First Quarter,3.1
+8677344,St. Simons Island,2027-02-17,17:11,Wednesday,5.83,-1.37,Normal,Full Moon,-3.0
+8677344,St. Simons Island,2027-02-18,05:44,Thursday,7.17,-0.03,Normal,Full Moon,-2.5
+8677344,St. Simons Island,2027-02-18,18:13,Thursday,6.35,-0.85,Normal,Full Moon,-2.0
+8677344,St. Simons Island,2027-02-19,06:42,Friday,7.52,0.33,Normal,Full Moon,-1.5
+8677344,St. Simons Island,2027-02-19,19:09,Friday,6.85,-0.35,Normal,Full Moon,-1.0
+8677344,St. Simons Island,2027-02-20,07:34,Saturday,7.74,0.54,Higher than usual,Full Moon,-0.5
+8677344,St. Simons Island,2027-02-20,20:00,Saturday,7.23,0.03,Normal,Full Moon,0.1
+8677344,St. Simons Island,2027-02-21,08:23,Sunday,7.75,0.55,Higher than usual,Full Moon,0.6
+8677344,St. Simons Island,2027-02-21,20:49,Sunday,7.44,0.24,Normal,Full Moon,1.1
+8677344,St. Simons Island,2027-02-22,09:10,Monday,7.55,0.36,Normal,Full Moon,1.6
+8677344,St. Simons Island,2027-02-22,21:37,Monday,7.46,0.26,Normal,Full Moon,2.1
+8677344,St. Simons Island,2027-02-23,09:57,Tuesday,7.2,0.0,Normal,Full Moon,2.6
+8677344,St. Simons Island,2027-02-23,22:24,Tuesday,7.32,0.12,Normal,Full Moon,3.2
+8677344,St. Simons Island,2027-02-24,10:43,Wednesday,6.75,-0.45,Normal,Last Quarter,-3.6
+8677344,St. Simons Island,2027-02-24,23:12,Wednesday,7.05,-0.15,Normal,Last Quarter,-3.0
+8677344,St. Simons Island,2027-02-25,11:30,Thursday,6.27,-0.92,Normal,Last Quarter,-2.5
+8677344,St. Simons Island,2027-02-25,23:59,Thursday,6.7,-0.5,Normal,Last Quarter,-2.0
+8677344,St. Simons Island,2027-02-26,12:18,Friday,5.83,-1.37,Normal,Last Quarter,-1.5
+8677344,St. Simons Island,2027-02-27,00:47,Saturday,6.33,-0.86,Normal,Last Quarter,-1.0
+8677344,St. Simons Island,2027-02-27,13:07,Saturday,5.45,-1.75,Normal,Last Quarter,-0.5
+8677344,St. Simons Island,2027-02-28,01:39,Sunday,6.0,-1.19,Normal,Last Quarter,0.1
+8677344,St. Simons Island,2027-02-28,14:00,Sunday,5.19,-2.01,Normal,Last Quarter,0.6
+8677344,St. Simons Island,2027-03-01,02:35,Monday,5.77,-1.43,Normal,Last Quarter,1.1
+8677344,St. Simons Island,2027-03-01,14:58,Monday,5.07,-2.13,Normal,Last Quarter,1.6
+8677344,St. Simons Island,2027-03-02,03:37,Tuesday,5.69,-1.51,Normal,Last Quarter,2.1
+8677344,St. Simons Island,2027-03-02,15:58,Tuesday,5.11,-2.08,Normal,Last Quarter,2.7
+8677344,St. Simons Island,2027-03-03,04:37,Wednesday,5.78,-1.42,Normal,Last Quarter,3.2
+8677344,St. Simons Island,2027-03-03,16:55,Wednesday,5.32,-1.88,Normal,Last Quarter,3.7
+8677344,St. Simons Island,2027-03-04,05:31,Thursday,5.99,-1.21,Normal,New Moon,-4.0
+8677344,St. Simons Island,2027-03-04,17:46,Thursday,5.62,-1.58,Normal,New Moon,-3.4
+8677344,St. Simons Island,2027-03-05,06:17,Friday,6.23,-0.97,Normal,New Moon,-2.9
+8677344,St. Simons Island,2027-03-05,18:31,Friday,5.95,-1.25,Normal,New Moon,-2.4
+8677344,St. Simons Island,2027-03-06,06:57,Saturday,6.43,-0.77,Normal,New Moon,-1.9
+8677344,St. Simons Island,2027-03-06,19:10,Saturday,6.26,-0.93,Normal,New Moon,-1.4
+8677344,St. Simons Island,2027-03-07,07:34,Sunday,6.56,-0.64,Normal,New Moon,-0.9
+8677344,St. Simons Island,2027-03-07,19:45,Sunday,6.54,-0.66,Normal,New Moon,-0.4
+8677344,St. Simons Island,2027-03-08,08:07,Monday,6.6,-0.59,Normal,New Moon,0.2
+8677344,St. Simons Island,2027-03-08,20:19,Monday,6.77,-0.43,Normal,New Moon,0.7
+8677344,St. Simons Island,2027-03-09,08:40,Tuesday,6.57,-0.63,Normal,New Moon,1.2
+8677344,St. Simons Island,2027-03-09,20:53,Tuesday,6.95,-0.25,Normal,New Moon,1.7
+8677344,St. Simons Island,2027-03-10,09:15,Wednesday,6.46,-0.73,Normal,New Moon,2.2
+8677344,St. Simons Island,2027-03-10,21:29,Wednesday,7.07,-0.12,Normal,New Moon,2.7
+8677344,St. Simons Island,2027-03-11,09:53,Thursday,6.31,-0.88,Normal,New Moon,3.2
+8677344,St. Simons Island,2027-03-11,22:10,Thursday,7.12,-0.08,Normal,First Quarter,-3.6
+8677344,St. Simons Island,2027-03-12,10:36,Friday,6.13,-1.07,Normal,First Quarter,-3.0
+8677344,St. Simons Island,2027-03-12,22:57,Friday,7.09,-0.11,Normal,First Quarter,-2.5
+8677344,St. Simons Island,2027-03-13,11:25,Saturday,5.93,-1.27,Normal,First Quarter,-2.0
+8677344,St. Simons Island,2027-03-13,23:51,Saturday,6.98,-0.22,Normal,First Quarter,-1.5
+8677344,St. Simons Island,2027-03-14,13:21,Sunday,5.75,-1.45,Normal,First Quarter,-0.9
+8677344,St. Simons Island,2027-03-15,01:51,Monday,6.84,-0.36,Normal,First Quarter,-0.4
+8677344,St. Simons Island,2027-03-15,14:24,Monday,5.64,-1.56,Normal,First Quarter,0.1
+8677344,St. Simons Island,2027-03-16,02:58,Tuesday,6.74,-0.46,Normal,First Quarter,0.6
+8677344,St. Simons Island,2027-03-16,15:36,Tuesday,5.67,-1.53,Normal,First Quarter,1.2
+8677344,St. Simons Island,2027-03-17,04:11,Wednesday,6.76,-0.44,Normal,First Quarter,1.7
+8677344,St. Simons Island,2027-03-17,16:50,Wednesday,5.92,-1.28,Normal,First Quarter,2.2
+8677344,St. Simons Island,2027-03-18,05:23,Thursday,6.95,-0.25,Normal,First Quarter,2.7
+8677344,St. Simons Island,2027-03-18,18:00,Thursday,6.39,-0.81,Normal,First Quarter,3.3
+8677344,St. Simons Island,2027-03-19,06:28,Friday,7.23,0.04,Normal,Full Moon,-3.0
+8677344,St. Simons Island,2027-03-19,19:00,Friday,6.94,-0.26,Normal,Full Moon,-2.4
+8677344,St. Simons Island,2027-03-20,07:24,Saturday,7.49,0.29,Normal,Full Moon,-1.9
+8677344,St. Simons Island,2027-03-20,19:53,Saturday,7.45,0.25,Normal,Full Moon,-1.4
+8677344,St. Simons Island,2027-03-21,08:14,Sunday,7.62,0.42,Normal,Full Moon,-0.9
+8677344,St. Simons Island,2027-03-21,20:41,Sunday,7.81,0.61,Higher than usual,Full Moon,-0.4
+8677344,St. Simons Island,2027-03-22,09:01,Monday,7.58,0.39,Normal,Full Moon,0.1
+8677344,St. Simons Island,2027-03-22,21:27,Monday,7.97,0.77,Higher than usual,Full Moon,0.7
+8677344,St. Simons Island,2027-03-23,09:45,Tuesday,7.39,0.19,Normal,Full Moon,1.2
+8677344,St. Simons Island,2027-03-23,22:11,Tuesday,7.92,0.72,Higher than usual,Full Moon,1.7
+8677344,St. Simons Island,2027-03-24,10:30,Wednesday,7.07,-0.13,Normal,Full Moon,2.2
+8677344,St. Simons Island,2027-03-24,22:54,Wednesday,7.7,0.5,Higher than usual,Full Moon,2.7
+8677344,St. Simons Island,2027-03-25,11:14,Thursday,6.68,-0.52,Normal,Full Moon,3.2
+8677344,St. Simons Island,2027-03-25,23:37,Thursday,7.36,0.16,Normal,Full Moon,3.7
+8677344,St. Simons Island,2027-03-26,11:59,Friday,6.28,-0.92,Normal,Last Quarter,-3.3
+8677344,St. Simons Island,2027-03-27,00:22,Saturday,6.96,-0.24,Normal,Last Quarter,-2.8
+8677344,St. Simons Island,2027-03-27,12:45,Saturday,5.92,-1.27,Normal,Last Quarter,-2.3
+8677344,St. Simons Island,2027-03-28,01:08,Sunday,6.56,-0.64,Normal,Last Quarter,-1.8
+8677344,St. Simons Island,2027-03-28,13:33,Sunday,5.63,-1.56,Normal,Last Quarter,-1.3
+8677344,St. Simons Island,2027-03-29,01:57,Monday,6.22,-0.98,Normal,Last Quarter,-0.7
+8677344,St. Simons Island,2027-03-29,14:24,Monday,5.44,-1.76,Normal,Last Quarter,-0.2
+8677344,St. Simons Island,2027-03-30,02:51,Tuesday,5.97,-1.23,Normal,Last Quarter,0.3
+8677344,St. Simons Island,2027-03-30,15:19,Tuesday,5.36,-1.84,Normal,Last Quarter,0.8
+8677344,St. Simons Island,2027-03-31,03:50,Wednesday,5.85,-1.35,Normal,Last Quarter,1.3
+8677344,St. Simons Island,2027-03-31,16:18,Wednesday,5.43,-1.76,Normal,Last Quarter,1.9
+8677344,St. Simons Island,2027-04-01,04:51,Thursday,5.88,-1.32,Normal,Last Quarter,2.4
+8677344,St. Simons Island,2027-04-01,17:16,Thursday,5.66,-1.54,Normal,Last Quarter,2.9
+8677344,St. Simons Island,2027-04-02,05:47,Friday,6.04,-1.16,Normal,Last Quarter,3.4
+8677344,St. Simons Island,2027-04-02,18:08,Friday,6.01,-1.19,Normal,Last Quarter,3.9
+8677344,St. Simons Island,2027-04-03,06:36,Saturday,6.25,-0.95,Normal,New Moon,-3.5
+8677344,St. Simons Island,2027-04-03,18:54,Saturday,6.42,-0.77,Normal,New Moon,-3.0
+8677344,St. Simons Island,2027-04-04,07:19,Sunday,6.45,-0.75,Normal,New Moon,-2.5
+8677344,St. Simons Island,2027-04-04,19:35,Sunday,6.84,-0.36,Normal,New Moon,-2.0
+8677344,St. Simons Island,2027-04-05,07:58,Monday,6.61,-0.59,Normal,New Moon,-1.5
+8677344,St. Simons Island,2027-04-05,20:12,Monday,7.22,0.03,Normal,New Moon,-0.9
+8677344,St. Simons Island,2027-04-06,08:35,Tuesday,6.7,-0.5,Normal,New Moon,-0.4
+8677344,St. Simons Island,2027-04-06,20:49,Tuesday,7.53,0.34,Normal,New Moon,0.1
+8677344,St. Simons Island,2027-04-07,09:12,Wednesday,6.71,-0.49,Normal,New Moon,0.6
+8677344,St. Simons Island,2027-04-07,21:26,Wednesday,7.74,0.54,Higher than usual,New Moon,1.1
+8677344,St. Simons Island,2027-04-08,09:52,Thursday,6.65,-0.55,Normal,New Moon,1.6
+8677344,St. Simons Island,2027-04-08,22:07,Thursday,7.83,0.63,Higher than usual,New Moon,2.1
+8677344,St. Simons Island,2027-04-09,10:34,Friday,6.52,-0.67,Normal,New Moon,2.7
+8677344,St. Simons Island,2027-04-09,22:53,Friday,7.79,0.59,Higher than usual,New Moon,3.2
+8677344,St. Simons Island,2027-04-10,11:22,Saturday,6.36,-0.84,Normal,First Quarter,-3.3
+8677344,St. Simons Island,2027-04-10,23:44,Saturday,7.64,0.44,Normal,First Quarter,-2.8
+8677344,St. Simons Island,2027-04-11,12:17,Sunday,6.2,-1.0,Normal,First Quarter,-2.2
+8677344,St. Simons Island,2027-04-12,00:41,Monday,7.43,0.23,Normal,First Quarter,-1.7
+8677344,St. Simons Island,2027-04-12,13:17,Monday,6.08,-1.12,Normal,First Quarter,-1.2
+8677344,St. Simons Island,2027-04-13,01:43,Tuesday,7.22,0.02,Normal,First Quarter,-0.7
+8677344,St. Simons Island,2027-04-13,14:22,Tuesday,6.06,-1.14,Normal,First Quarter,-0.1
+8677344,St. Simons Island,2027-04-14,02:49,Wednesday,7.05,-0.15,Normal,First Quarter,0.4
+8677344,St. Simons Island,2027-04-14,15:31,Wednesday,6.19,-1.01,Normal,First Quarter,0.9
+8677344,St. Simons Island,2027-04-15,03:58,Thursday,6.98,-0.22,Normal,First Quarter,1.4
+8677344,St. Simons Island,2027-04-15,16:41,Thursday,6.49,-0.7,Normal,First Quarter,1.9
+8677344,St. Simons Island,2027-04-16,05:05,Friday,7.02,-0.18,Normal,First Quarter,2.5
+8677344,St. Simons Island,2027-04-16,17:46,Friday,6.94,-0.26,Normal,First Quarter,3.0
+8677344,St. Simons Island,2027-04-17,06:07,Saturday,7.13,-0.07,Normal,Full Moon,-3.5
+8677344,St. Simons Island,2027-04-17,18:43,Saturday,7.42,0.22,Normal,Full Moon,-2.9
+8677344,St. Simons Island,2027-04-18,07:01,Sunday,7.22,0.03,Normal,Full Moon,-2.4
+8677344,St. Simons Island,2027-04-18,19:33,Sunday,7.82,0.62,Higher than usual,Full Moon,-1.9
+8677344,St. Simons Island,2027-04-19,07:50,Monday,7.25,0.05,Normal,Full Moon,-1.4
+8677344,St. Simons Island,2027-04-19,20:19,Monday,8.07,0.87,Higher than usual,Full Moon,-0.9
+8677344,St. Simons Island,2027-04-20,08:36,Tuesday,7.17,-0.02,Normal,Full Moon,-0.4
+8677344,St. Simons Island,2027-04-20,21:02,Tuesday,8.12,0.93,Higher than usual,Full Moon,0.1
+8677344,St. Simons Island,2027-04-21,09:20,Wednesday,7.0,-0.2,Normal,Full Moon,0.7
+8677344,St. Simons Island,2027-04-21,21:43,Wednesday,8.0,0.8,Higher than usual,Full Moon,1.2
+8677344,St. Simons Island,2027-04-22,10:02,Thursday,6.75,-0.45,Normal,Full Moon,1.7
+8677344,St. Simons Island,2027-04-22,22:24,Thursday,7.74,0.54,Higher than usual,Full Moon,2.2
+8677344,St. Simons Island,2027-04-23,10:45,Friday,6.46,-0.74,Normal,Full Moon,2.7
+8677344,St. Simons Island,2027-04-23,23:06,Friday,7.39,0.19,Normal,Full Moon,3.2
+8677344,St. Simons Island,2027-04-24,11:29,Saturday,6.16,-1.03,Normal,Full Moon,3.8
+8677344,St. Simons Island,2027-04-24,23:48,Saturday,7.01,-0.19,Normal,Last Quarter,-3.6
+8677344,St. Simons Island,2027-04-25,12:14,Sunday,5.9,-1.3,Normal,Last Quarter,-3.1
+8677344,St. Simons Island,2027-04-26,00:33,Monday,6.66,-0.54,Normal,Last Quarter,-2.6
+8677344,St. Simons Island,2027-04-26,13:00,Monday,5.7,-1.5,Normal,Last Quarter,-2.1
+8677344,St. Simons Island,2027-04-27,01:19,Tuesday,6.36,-0.84,Normal,Last Quarter,-1.6
+8677344,St. Simons Island,2027-04-27,13:49,Tuesday,5.58,-1.61,Normal,Last Quarter,-1.1
+8677344,St. Simons Island,2027-04-28,02:09,Wednesday,6.13,-1.07,Normal,Last Quarter,-0.5
+8677344,St. Simons Island,2027-04-28,14:40,Wednesday,5.57,-1.63,Normal,Last Quarter,-0.0
+8677344,St. Simons Island,2027-04-29,03:01,Thursday,5.98,-1.22,Normal,Last Quarter,0.5
+8677344,St. Simons Island,2027-04-29,15:34,Thursday,5.67,-1.53,Normal,Last Quarter,1.0
+8677344,St. Simons Island,2027-04-30,03:56,Friday,5.92,-1.27,Normal,Last Quarter,1.5
+8677344,St. Simons Island,2027-04-30,16:28,Friday,5.91,-1.29,Normal,Last Quarter,2.0
+8677344,St. Simons Island,2027-05-01,04:52,Saturday,5.96,-1.24,Normal,Last Quarter,2.6
+8677344,St. Simons Island,2027-05-01,17:21,Saturday,6.26,-0.94,Normal,Last Quarter,3.1
+8677344,St. Simons Island,2027-05-02,05:45,Sunday,6.07,-1.13,Normal,Last Quarter,3.6
+8677344,St. Simons Island,2027-05-02,18:10,Sunday,6.7,-0.49,Normal,New Moon,-3.5
+8677344,St. Simons Island,2027-05-03,06:33,Monday,6.23,-0.97,Normal,New Moon,-3.0
+8677344,St. Simons Island,2027-05-03,18:55,Monday,7.17,-0.03,Normal,New Moon,-2.5
+8677344,St. Simons Island,2027-05-04,07:19,Tuesday,6.39,-0.81,Normal,New Moon,-1.9
+8677344,St. Simons Island,2027-05-04,19:37,Tuesday,7.6,0.4,Normal,New Moon,-1.4
+8677344,St. Simons Island,2027-05-05,08:02,Wednesday,6.52,-0.67,Normal,New Moon,-0.9
+8677344,St. Simons Island,2027-05-05,20:20,Wednesday,7.94,0.74,Higher than usual,New Moon,-0.4
+8677344,St. Simons Island,2027-05-06,08:46,Thursday,6.6,-0.6,Normal,New Moon,0.1
+8677344,St. Simons Island,2027-05-06,21:04,Thursday,8.14,0.94,Higher than usual,New Moon,0.6
+8677344,St. Simons Island,2027-05-07,09:31,Friday,6.6,-0.6,Normal,New Moon,1.1
+8677344,St. Simons Island,2027-05-07,21:50,Friday,8.19,0.99,Higher than usual,New Moon,1.7
+8677344,St. Simons Island,2027-05-08,10:20,Saturday,6.54,-0.66,Normal,New Moon,2.2
+8677344,St. Simons Island,2027-05-08,22:41,Saturday,8.09,0.89,Higher than usual,New Moon,2.7
+8677344,St. Simons Island,2027-05-09,11:14,Sunday,6.45,-0.75,Normal,New Moon,3.2
+8677344,St. Simons Island,2027-05-09,23:37,Sunday,7.89,0.69,Higher than usual,First Quarter,-3.0
+8677344,St. Simons Island,2027-05-10,12:13,Monday,6.37,-0.83,Normal,First Quarter,-2.5
+8677344,St. Simons Island,2027-05-11,00:36,Tuesday,7.64,0.44,Normal,First Quarter,-2.0
+8677344,St. Simons Island,2027-05-11,13:15,Tuesday,6.36,-0.84,Normal,First Quarter,-1.4
+8677344,St. Simons Island,2027-05-12,01:37,Wednesday,7.38,0.18,Normal,First Quarter,-0.9
+8677344,St. Simons Island,2027-05-12,14:18,Wednesday,6.43,-0.77,Normal,First Quarter,-0.4
+8677344,St. Simons Island,2027-05-13,02:39,Thursday,7.14,-0.06,Normal,First Quarter,0.1
+8677344,St. Simons Island,2027-05-13,15:22,Thursday,6.6,-0.6,Normal,First Quarter,0.7
+8677344,St. Simons Island,2027-05-14,03:41,Friday,6.94,-0.26,Normal,First Quarter,1.2
+8677344,St. Simons Island,2027-05-14,16:26,Friday,6.86,-0.34,Normal,First Quarter,1.7
+8677344,St. Simons Island,2027-05-15,04:42,Saturday,6.79,-0.41,Normal,First Quarter,2.2
+8677344,St. Simons Island,2027-05-15,17:26,Saturday,7.18,-0.02,Normal,First Quarter,2.7
+8677344,St. Simons Island,2027-05-16,05:41,Sunday,6.7,-0.49,Normal,First Quarter,3.2
+8677344,St. Simons Island,2027-05-16,18:21,Sunday,7.49,0.29,Normal,Full Moon,-3.5
+8677344,St. Simons Island,2027-05-17,06:35,Monday,6.66,-0.54,Normal,Full Moon,-3.0
+8677344,St. Simons Island,2027-05-17,19:10,Monday,7.72,0.52,Higher than usual,Full Moon,-2.5
+8677344,St. Simons Island,2027-05-18,07:25,Tuesday,6.61,-0.59,Normal,Full Moon,-1.9
+8677344,St. Simons Island,2027-05-18,19:55,Tuesday,7.83,0.64,Higher than usual,Full Moon,-1.4
+8677344,St. Simons Island,2027-05-19,08:11,Wednesday,6.54,-0.66,Normal,Full Moon,-0.9
+8677344,St. Simons Island,2027-05-19,20:38,Wednesday,7.81,0.61,Higher than usual,Full Moon,-0.4
+8677344,St. Simons Island,2027-05-20,08:54,Thursday,6.43,-0.77,Normal,Full Moon,0.1
+8677344,St. Simons Island,2027-05-20,21:18,Thursday,7.67,0.47,Normal,Full Moon,0.6
+8677344,St. Simons Island,2027-05-21,09:36,Friday,6.27,-0.93,Normal,Full Moon,1.2
+8677344,St. Simons Island,2027-05-21,21:58,Friday,7.43,0.23,Normal,Full Moon,1.7
+8677344,St. Simons Island,2027-05-22,10:18,Saturday,6.08,-1.11,Normal,Full Moon,2.2
+8677344,St. Simons Island,2027-05-22,22:38,Saturday,7.14,-0.05,Normal,Full Moon,2.7
+8677344,St. Simons Island,2027-05-23,11:01,Sunday,5.89,-1.31,Normal,Full Moon,3.2
+8677344,St. Simons Island,2027-05-23,23:19,Sunday,6.85,-0.35,Normal,Full Moon,3.7
+8677344,St. Simons Island,2027-05-24,11:44,Monday,5.72,-1.48,Normal,Last Quarter,-3.9
+8677344,St. Simons Island,2027-05-25,00:01,Tuesday,6.57,-0.63,Normal,Last Quarter,-3.4
+8677344,St. Simons Island,2027-05-25,12:29,Tuesday,5.61,-1.59,Normal,Last Quarter,-2.9
+8677344,St. Simons Island,2027-05-26,00:44,Wednesday,6.32,-0.88,Normal,Last Quarter,-2.3
+8677344,St. Simons Island,2027-05-26,13:14,Wednesday,5.58,-1.62,Normal,Last Quarter,-1.8
+8677344,St. Simons Island,2027-05-27,01:27,Thursday,6.12,-1.08,Normal,Last Quarter,-1.3
+8677344,St. Simons Island,2027-05-27,14:00,Thursday,5.63,-1.57,Normal,Last Quarter,-0.8
+8677344,St. Simons Island,2027-05-28,02:13,Friday,5.96,-1.24,Normal,Last Quarter,-0.3
+8677344,St. Simons Island,2027-05-28,14:48,Friday,5.78,-1.41,Normal,Last Quarter,0.2
+8677344,St. Simons Island,2027-05-29,03:02,Saturday,5.84,-1.36,Normal,Last Quarter,0.8
+8677344,St. Simons Island,2027-05-29,15:38,Saturday,6.03,-1.17,Normal,Last Quarter,1.3
+8677344,St. Simons Island,2027-05-30,03:54,Sunday,5.77,-1.43,Normal,Last Quarter,1.8
+8677344,St. Simons Island,2027-05-30,16:30,Sunday,6.36,-0.84,Normal,Last Quarter,2.3
+8677344,St. Simons Island,2027-05-31,04:50,Monday,5.78,-1.42,Normal,Last Quarter,2.8
+8677344,St. Simons Island,2027-05-31,17:23,Monday,6.77,-0.43,Normal,Last Quarter,3.4
+8677344,St. Simons Island,2027-06-01,05:46,Tuesday,5.87,-1.33,Normal,New Moon,-3.4
+8677344,St. Simons Island,2027-06-01,18:15,Tuesday,7.21,0.01,Normal,New Moon,-2.9
+8677344,St. Simons Island,2027-06-02,06:40,Wednesday,6.02,-1.18,Normal,New Moon,-2.3
+8677344,St. Simons Island,2027-06-02,19:06,Wednesday,7.63,0.43,Normal,New Moon,-1.8
+8677344,St. Simons Island,2027-06-03,07:32,Thursday,6.2,-1.0,Normal,New Moon,-1.3
+8677344,St. Simons Island,2027-06-03,19:55,Thursday,7.97,0.77,Higher than usual,New Moon,-0.8
+8677344,St. Simons Island,2027-06-04,08:22,Friday,6.36,-0.84,Normal,New Moon,-0.3
+8677344,St. Simons Island,2027-06-04,20:46,Friday,8.18,0.98,Higher than usual,New Moon,0.3
+8677344,St. Simons Island,2027-06-05,09:14,Saturday,6.46,-0.73,Normal,New Moon,0.8
+8677344,St. Simons Island,2027-06-05,21:38,Saturday,8.23,1.03,King tide,New Moon,1.3
+8677344,St. Simons Island,2027-06-06,10:08,Sunday,6.51,-0.69,Normal,New Moon,1.8
+8677344,St. Simons Island,2027-06-06,22:32,Sunday,8.13,0.94,Higher than usual,New Moon,2.3
+8677344,St. Simons Island,2027-06-07,11:06,Monday,6.53,-0.67,Normal,New Moon,2.9
+8677344,St. Simons Island,2027-06-07,23:29,Monday,7.93,0.73,Higher than usual,First Quarter,-3.3
+8677344,St. Simons Island,2027-06-08,12:06,Tuesday,6.56,-0.64,Normal,First Quarter,-2.7
+8677344,St. Simons Island,2027-06-09,00:27,Wednesday,7.66,0.46,Normal,First Quarter,-2.2
+8677344,St. Simons Island,2027-06-09,13:07,Wednesday,6.63,-0.57,Normal,First Quarter,-1.7
+8677344,St. Simons Island,2027-06-10,01:25,Thursday,7.34,0.14,Normal,First Quarter,-1.2
+8677344,St. Simons Island,2027-06-10,14:06,Thursday,6.73,-0.47,Normal,First Quarter,-0.7
+8677344,St. Simons Island,2027-06-11,02:21,Friday,7.0,-0.2,Normal,First Quarter,-0.1
+8677344,St. Simons Island,2027-06-11,15:05,Friday,6.84,-0.36,Normal,First Quarter,0.4
+8677344,St. Simons Island,2027-06-12,03:18,Saturday,6.66,-0.54,Normal,First Quarter,0.9
+8677344,St. Simons Island,2027-06-12,16:04,Saturday,6.97,-0.23,Normal,First Quarter,1.4
+8677344,St. Simons Island,2027-06-13,04:15,Sunday,6.36,-0.83,Normal,First Quarter,1.9
+8677344,St. Simons Island,2027-06-13,17:01,Sunday,7.09,-0.1,Normal,First Quarter,2.5
+8677344,St. Simons Island,2027-06-14,05:13,Monday,6.15,-1.05,Normal,First Quarter,3.0
+8677344,St. Simons Island,2027-06-14,17:55,Monday,7.21,0.01,Normal,First Quarter,3.5
+8677344,St. Simons Island,2027-06-15,06:08,Tuesday,6.03,-1.16,Normal,Full Moon,-3.6
+8677344,St. Simons Island,2027-06-15,18:46,Tuesday,7.3,0.1,Normal,Full Moon,-3.0
+8677344,St. Simons Island,2027-06-16,06:59,Wednesday,5.99,-1.21,Normal,Full Moon,-2.5
+8677344,St. Simons Island,2027-06-16,19:32,Wednesday,7.33,0.13,Normal,Full Moon,-2.0
+8677344,St. Simons Island,2027-06-17,07:46,Thursday,5.96,-1.23,Normal,Full Moon,-1.5
+8677344,St. Simons Island,2027-06-17,20:15,Thursday,7.3,0.1,Normal,Full Moon,-1.0
+8677344,St. Simons Island,2027-06-18,08:30,Friday,5.94,-1.26,Normal,Full Moon,-0.5
+8677344,St. Simons Island,2027-06-18,20:56,Friday,7.21,0.01,Normal,Full Moon,0.1
+8677344,St. Simons Island,2027-06-19,09:12,Saturday,5.89,-1.31,Normal,Full Moon,0.6
+8677344,St. Simons Island,2027-06-19,21:35,Saturday,7.07,-0.13,Normal,Full Moon,1.1
+8677344,St. Simons Island,2027-06-20,09:53,Sunday,5.81,-1.39,Normal,Full Moon,1.6
+8677344,St. Simons Island,2027-06-20,22:14,Sunday,6.88,-0.32,Normal,Full Moon,2.1
+8677344,St. Simons Island,2027-06-21,10:34,Monday,5.71,-1.49,Normal,Full Moon,2.6
+8677344,St. Simons Island,2027-06-21,22:52,Monday,6.67,-0.53,Normal,Full Moon,3.1
+8677344,St. Simons Island,2027-06-22,11:15,Tuesday,5.64,-1.56,Normal,Full Moon,3.6
+8677344,St. Simons Island,2027-06-22,23:30,Tuesday,6.46,-0.74,Normal,Last Quarter,-4.0
+8677344,St. Simons Island,2027-06-23,11:55,Wednesday,5.61,-1.59,Normal,Last Quarter,-3.5
+8677344,St. Simons Island,2027-06-24,00:08,Thursday,6.25,-0.95,Normal,Last Quarter,-3.0
+8677344,St. Simons Island,2027-06-24,12:37,Thursday,5.65,-1.55,Normal,Last Quarter,-2.5
+8677344,St. Simons Island,2027-06-25,00:47,Friday,6.07,-1.13,Normal,Last Quarter,-2.0
+8677344,St. Simons Island,2027-06-25,13:19,Friday,5.77,-1.43,Normal,Last Quarter,-1.4
+8677344,St. Simons Island,2027-06-26,01:29,Saturday,5.91,-1.29,Normal,Last Quarter,-0.9
+8677344,St. Simons Island,2027-06-26,14:03,Saturday,5.96,-1.24,Normal,Last Quarter,-0.4
+8677344,St. Simons Island,2027-06-27,02:14,Sunday,5.76,-1.44,Normal,Last Quarter,0.1
+8677344,St. Simons Island,2027-06-27,14:51,Sunday,6.2,-1.0,Normal,Last Quarter,0.6
+8677344,St. Simons Island,2027-06-28,03:06,Monday,5.65,-1.55,Normal,Last Quarter,1.1
+8677344,St. Simons Island,2027-06-28,15:44,Monday,6.48,-0.71,Normal,Last Quarter,1.7
+8677344,St. Simons Island,2027-06-29,04:03,Tuesday,5.59,-1.61,Normal,Last Quarter,2.2
+8677344,St. Simons Island,2027-06-29,16:41,Tuesday,6.8,-0.39,Normal,Last Quarter,2.7
+8677344,St. Simons Island,2027-06-30,05:05,Wednesday,5.63,-1.56,Normal,Last Quarter,3.2
+8677344,St. Simons Island,2027-06-30,17:41,Wednesday,7.17,-0.03,Normal,New Moon,-3.2
+8677344,St. Simons Island,2027-07-01,06:07,Thursday,5.8,-1.4,Normal,New Moon,-2.7
+8677344,St. Simons Island,2027-07-01,18:40,Thursday,7.56,0.36,Normal,New Moon,-2.1
+8677344,St. Simons Island,2027-07-02,07:07,Friday,6.04,-1.15,Normal,New Moon,-1.6
+8677344,St. Simons Island,2027-07-02,19:36,Friday,7.91,0.71,Higher than usual,New Moon,-1.1
+8677344,St. Simons Island,2027-07-03,08:03,Saturday,6.32,-0.88,Normal,New Moon,-0.6
+8677344,St. Simons Island,2027-07-03,20:31,Saturday,8.15,0.95,Higher than usual,New Moon,-0.1
+8677344,St. Simons Island,2027-07-04,08:59,Sunday,6.55,-0.64,Normal,New Moon,0.5
+8677344,St. Simons Island,2027-07-04,21:25,Sunday,8.24,1.05,King tide,New Moon,1.0
+8677344,St. Simons Island,2027-07-05,09:55,Monday,6.74,-0.46,Normal,New Moon,1.5
+8677344,St. Simons Island,2027-07-05,22:20,Monday,8.18,0.98,Higher than usual,New Moon,2.0
+8677344,St. Simons Island,2027-07-06,10:53,Tuesday,6.87,-0.33,Normal,New Moon,2.5
+8677344,St. Simons Island,2027-07-06,23:15,Tuesday,7.96,0.76,Higher than usual,New Moon,3.1
+8677344,St. Simons Island,2027-07-07,11:51,Wednesday,6.96,-0.24,Normal,First Quarter,-3.1
+8677344,St. Simons Island,2027-07-08,00:11,Thursday,7.64,0.44,Normal,First Quarter,-2.6
+8677344,St. Simons Island,2027-07-08,12:49,Thursday,7.02,-0.17,Normal,First Quarter,-2.0
+8677344,St. Simons Island,2027-07-09,01:05,Friday,7.24,0.04,Normal,First Quarter,-1.5
+8677344,St. Simons Island,2027-07-09,13:45,Friday,7.05,-0.15,Normal,First Quarter,-1.0
+8677344,St. Simons Island,2027-07-10,01:58,Saturday,6.81,-0.39,Normal,First Quarter,-0.5
+8677344,St. Simons Island,2027-07-10,14:41,Saturday,7.03,-0.17,Normal,First Quarter,0.0
+8677344,St. Simons Island,2027-07-11,02:52,Sunday,6.4,-0.8,Normal,First Quarter,0.6
+8677344,St. Simons Island,2027-07-11,15:36,Sunday,6.97,-0.22,Normal,First Quarter,1.1
+8677344,St. Simons Island,2027-07-12,03:47,Monday,6.05,-1.15,Normal,First Quarter,1.6
+8677344,St. Simons Island,2027-07-12,16:32,Monday,6.92,-0.28,Normal,First Quarter,2.1
+8677344,St. Simons Island,2027-07-13,04:43,Tuesday,5.81,-1.39,Normal,First Quarter,2.6
+8677344,St. Simons Island,2027-07-13,17:27,Tuesday,6.9,-0.3,Normal,First Quarter,3.2
+8677344,St. Simons Island,2027-07-14,05:39,Wednesday,5.7,-1.5,Normal,First Quarter,3.7
+8677344,St. Simons Island,2027-07-14,18:20,Wednesday,6.91,-0.28,Normal,Full Moon,-3.7
+8677344,St. Simons Island,2027-07-15,06:32,Thursday,5.7,-1.5,Normal,Full Moon,-3.2
+8677344,St. Simons Island,2027-07-15,19:08,Thursday,6.96,-0.24,Normal,Full Moon,-2.7
+8677344,St. Simons Island,2027-07-16,07:21,Friday,5.76,-1.43,Normal,Full Moon,-2.1
+8677344,St. Simons Island,2027-07-16,19:53,Friday,7.0,-0.2,Normal,Full Moon,-1.6
+8677344,St. Simons Island,2027-07-17,08:06,Saturday,5.84,-1.35,Normal,Full Moon,-1.1
+8677344,St. Simons Island,2027-07-17,20:34,Saturday,7.01,-0.19,Normal,Full Moon,-0.6
+8677344,St. Simons Island,2027-07-18,08:48,Sunday,5.9,-1.29,Normal,Full Moon,-0.1
+8677344,St. Simons Island,2027-07-18,21:13,Sunday,6.97,-0.23,Normal,Full Moon,0.4
+8677344,St. Simons Island,2027-07-19,09:28,Monday,5.93,-1.27,Normal,Full Moon,0.9
+8677344,St. Simons Island,2027-07-19,21:49,Monday,6.87,-0.33,Normal,Full Moon,1.5
+8677344,St. Simons Island,2027-07-20,10:06,Tuesday,5.94,-1.26,Normal,Full Moon,2.0
+8677344,St. Simons Island,2027-07-20,22:24,Tuesday,6.72,-0.48,Normal,Full Moon,2.5
+8677344,St. Simons Island,2027-07-21,10:43,Wednesday,5.95,-1.25,Normal,Full Moon,3.0
+8677344,St. Simons Island,2027-07-21,22:58,Wednesday,6.54,-0.66,Normal,Full Moon,3.5
+8677344,St. Simons Island,2027-07-22,11:20,Thursday,5.99,-1.21,Normal,Full Moon,4.0
+8677344,St. Simons Island,2027-07-22,23:33,Thursday,6.35,-0.85,Normal,Last Quarter,-3.5
+8677344,St. Simons Island,2027-07-23,11:58,Friday,6.08,-1.12,Normal,Last Quarter,-3.0
+8677344,St. Simons Island,2027-07-24,00:10,Saturday,6.17,-1.02,Normal,Last Quarter,-2.5
+8677344,St. Simons Island,2027-07-24,12:38,Saturday,6.22,-0.98,Normal,Last Quarter,-2.0
+8677344,St. Simons Island,2027-07-25,00:50,Sunday,6.01,-1.18,Normal,Last Quarter,-1.5
+8677344,St. Simons Island,2027-07-25,13:22,Sunday,6.4,-0.8,Normal,Last Quarter,-0.9
+8677344,St. Simons Island,2027-07-26,01:37,Monday,5.87,-1.32,Normal,Last Quarter,-0.4
+8677344,St. Simons Island,2027-07-26,14:11,Monday,6.58,-0.61,Normal,Last Quarter,0.1
+8677344,St. Simons Island,2027-07-27,02:29,Tuesday,5.75,-1.44,Normal,Last Quarter,0.6
+8677344,St. Simons Island,2027-07-27,15:07,Tuesday,6.78,-0.42,Normal,Last Quarter,1.1
+8677344,St. Simons Island,2027-07-28,03:29,Wednesday,5.69,-1.51,Normal,Last Quarter,1.6
+8677344,St. Simons Island,2027-07-28,16:09,Wednesday,6.99,-0.2,Normal,Last Quarter,2.2
+8677344,St. Simons Island,2027-07-29,04:35,Thursday,5.74,-1.46,Normal,Last Quarter,2.7
+8677344,St. Simons Island,2027-07-29,17:15,Thursday,7.28,0.09,Normal,Last Quarter,3.2
+8677344,St. Simons Island,2027-07-30,05:44,Friday,5.95,-1.25,Normal,New Moon,-3.0
+8677344,St. Simons Island,2027-07-30,18:20,Friday,7.65,0.45,Normal,New Moon,-2.4
+8677344,St. Simons Island,2027-07-31,06:48,Saturday,6.3,-0.9,Normal,New Moon,-1.9
+8677344,St. Simons Island,2027-07-31,19:21,Saturday,8.02,0.82,Higher than usual,New Moon,-1.4
+8677344,St. Simons Island,2027-08-01,07:48,Sunday,6.71,-0.49,Normal,New Moon,-0.9
+8677344,St. Simons Island,2027-08-01,20:17,Sunday,8.3,1.1,King tide,New Moon,-0.4
+8677344,St. Simons Island,2027-08-02,08:44,Monday,7.08,-0.12,Normal,New Moon,0.2
+8677344,St. Simons Island,2027-08-02,21:10,Monday,8.41,1.21,King tide,New Moon,0.7
+8677344,St. Simons Island,2027-08-03,09:39,Tuesday,7.37,0.17,Normal,New Moon,1.2
+8677344,St. Simons Island,2027-08-03,22:03,Tuesday,8.32,1.12,King tide,New Moon,1.7
+8677344,St. Simons Island,2027-08-04,10:34,Wednesday,7.55,0.35,Normal,New Moon,2.2
+8677344,St. Simons Island,2027-08-04,22:55,Wednesday,8.06,0.86,Higher than usual,New Moon,2.7
+8677344,St. Simons Island,2027-08-05,11:29,Thursday,7.61,0.41,Normal,New Moon,3.3
+8677344,St. Simons Island,2027-08-05,23:48,Thursday,7.68,0.48,Normal,First Quarter,-3.0
+8677344,St. Simons Island,2027-08-06,12:24,Friday,7.57,0.37,Normal,First Quarter,-2.5
+8677344,St. Simons Island,2027-08-07,00:40,Saturday,7.23,0.03,Normal,First Quarter,-2.0
+8677344,St. Simons Island,2027-08-07,13:17,Saturday,7.44,0.24,Normal,First Quarter,-1.4
+8677344,St. Simons Island,2027-08-08,01:31,Sunday,6.77,-0.42,Normal,First Quarter,-0.9
+8677344,St. Simons Island,2027-08-08,14:10,Sunday,7.25,0.06,Normal,First Quarter,-0.4
+8677344,St. Simons Island,2027-08-09,02:24,Monday,6.36,-0.84,Normal,First Quarter,0.1
+8677344,St. Simons Island,2027-08-09,15:04,Monday,7.05,-0.15,Normal,First Quarter,0.6
+8677344,St. Simons Island,2027-08-10,03:17,Tuesday,6.04,-1.16,Normal,First Quarter,1.1
+8677344,St. Simons Island,2027-08-10,16:00,Tuesday,6.88,-0.32,Normal,First Quarter,1.7
+8677344,St. Simons Island,2027-08-11,04:13,Wednesday,5.84,-1.36,Normal,First Quarter,2.2
+8677344,St. Simons Island,2027-08-11,16:57,Wednesday,6.79,-0.41,Normal,First Quarter,2.7
+8677344,St. Simons Island,2027-08-12,05:10,Thursday,5.78,-1.41,Normal,First Quarter,3.2
+8677344,St. Simons Island,2027-08-12,17:52,Thursday,6.81,-0.39,Normal,First Quarter,3.7
+8677344,St. Simons Island,2027-08-13,06:05,Friday,5.86,-1.34,Normal,Full Moon,-3.9
+8677344,St. Simons Island,2027-08-13,18:42,Friday,6.91,-0.29,Normal,Full Moon,-3.3
+8677344,St. Simons Island,2027-08-14,06:55,Saturday,6.02,-1.18,Normal,Full Moon,-2.8
+8677344,St. Simons Island,2027-08-14,19:28,Saturday,7.04,-0.16,Normal,Full Moon,-2.3
+8677344,St. Simons Island,2027-08-15,07:40,Sunday,6.21,-0.99,Normal,Full Moon,-1.8
+8677344,St. Simons Island,2027-08-15,20:09,Sunday,7.13,-0.06,Normal,Full Moon,-1.3
+8677344,St. Simons Island,2027-08-16,08:22,Monday,6.38,-0.82,Normal,Full Moon,-0.8
+8677344,St. Simons Island,2027-08-16,20:46,Monday,7.17,-0.03,Normal,Full Moon,-0.2
+8677344,St. Simons Island,2027-08-17,09:00,Tuesday,6.51,-0.69,Normal,Full Moon,0.3
+8677344,St. Simons Island,2027-08-17,21:21,Tuesday,7.12,-0.08,Normal,Full Moon,0.8
+8677344,St. Simons Island,2027-08-18,09:35,Wednesday,6.61,-0.59,Normal,Full Moon,1.3
+8677344,St. Simons Island,2027-08-18,21:54,Wednesday,7.0,-0.2,Normal,Full Moon,1.8
+8677344,St. Simons Island,2027-08-19,10:09,Thursday,6.68,-0.51,Normal,Full Moon,2.3
+8677344,St. Simons Island,2027-08-19,22:26,Thursday,6.84,-0.36,Normal,Full Moon,2.8
+8677344,St. Simons Island,2027-08-20,10:44,Friday,6.76,-0.43,Normal,Full Moon,3.3
+8677344,St. Simons Island,2027-08-20,22:59,Friday,6.66,-0.54,Normal,Full Moon,3.9
+8677344,St. Simons Island,2027-08-21,11:20,Saturday,6.86,-0.34,Normal,Last Quarter,-3.4
+8677344,St. Simons Island,2027-08-21,23:37,Saturday,6.48,-0.72,Normal,Last Quarter,-2.9
+8677344,St. Simons Island,2027-08-22,12:02,Sunday,6.96,-0.24,Normal,Last Quarter,-2.4
+8677344,St. Simons Island,2027-08-23,00:19,Monday,6.32,-0.88,Normal,Last Quarter,-1.9
+8677344,St. Simons Island,2027-08-23,12:49,Monday,7.05,-0.15,Normal,Last Quarter,-1.4
+8677344,St. Simons Island,2027-08-24,01:08,Tuesday,6.17,-1.02,Normal,Last Quarter,-0.8
+8677344,St. Simons Island,2027-08-24,13:42,Tuesday,7.12,-0.07,Normal,Last Quarter,-0.3
+8677344,St. Simons Island,2027-08-25,02:04,Wednesday,6.07,-1.13,Normal,Last Quarter,0.2
+8677344,St. Simons Island,2027-08-25,14:41,Wednesday,7.2,0.01,Normal,Last Quarter,0.7
+8677344,St. Simons Island,2027-08-26,03:07,Thursday,6.04,-1.16,Normal,Last Quarter,1.2
+8677344,St. Simons Island,2027-08-26,15:48,Thursday,7.33,0.13,Normal,Last Quarter,1.8
+8677344,St. Simons Island,2027-08-27,04:17,Friday,6.14,-1.05,Normal,Last Quarter,2.3
+8677344,St. Simons Island,2027-08-27,16:58,Friday,7.57,0.37,Normal,Last Quarter,2.8
+8677344,St. Simons Island,2027-08-28,05:29,Saturday,6.45,-0.75,Normal,New Moon,-3.3
+8677344,St. Simons Island,2027-08-28,18:05,Saturday,7.91,0.72,Higher than usual,New Moon,-2.8
+8677344,St. Simons Island,2027-08-29,06:35,Sunday,6.92,-0.28,Normal,New Moon,-2.3
+8677344,St. Simons Island,2027-08-29,19:06,Sunday,8.27,1.07,King tide,New Moon,-1.7
+8677344,St. Simons Island,2027-08-30,07:34,Monday,7.44,0.24,Normal,New Moon,-1.2
+8677344,St. Simons Island,2027-08-30,20:00,Monday,8.51,1.31,King tide,New Moon,-0.7
+8677344,St. Simons Island,2027-08-31,08:28,Tuesday,7.9,0.7,Higher than usual,New Moon,-0.2
+8677344,St. Simons Island,2027-08-31,20:52,Tuesday,8.58,1.38,King tide,New Moon,0.3
+8677344,St. Simons Island,2027-09-01,09:20,Wednesday,8.21,1.01,King tide,New Moon,0.9
+8677344,St. Simons Island,2027-09-01,21:41,Wednesday,8.44,1.25,King tide,New Moon,1.4
+8677344,St. Simons Island,2027-09-02,10:11,Thursday,8.33,1.13,King tide,New Moon,1.9
+8677344,St. Simons Island,2027-09-02,22:31,Thursday,8.14,0.94,Higher than usual,New Moon,2.4
+8677344,St. Simons Island,2027-09-03,11:02,Friday,8.28,1.08,King tide,New Moon,2.9
+8677344,St. Simons Island,2027-09-03,23:21,Friday,7.72,0.53,Higher than usual,New Moon,3.4
+8677344,St. Simons Island,2027-09-04,11:53,Saturday,8.09,0.89,Higher than usual,First Quarter,-3.1
+8677344,St. Simons Island,2027-09-05,00:11,Sunday,7.27,0.07,Normal,First Quarter,-2.6
+8677344,St. Simons Island,2027-09-05,12:45,Sunday,7.79,0.6,Higher than usual,First Quarter,-2.0
+8677344,St. Simons Island,2027-09-06,01:02,Monday,6.84,-0.36,Normal,First Quarter,-1.5
+8677344,St. Simons Island,2027-09-06,13:36,Monday,7.47,0.27,Normal,First Quarter,-1.0
+8677344,St. Simons Island,2027-09-07,01:53,Tuesday,6.48,-0.72,Normal,First Quarter,-0.5
+8677344,St. Simons Island,2027-09-07,14:29,Tuesday,7.17,-0.03,Normal,First Quarter,0.0
+8677344,St. Simons Island,2027-09-08,02:47,Wednesday,6.22,-0.98,Normal,First Quarter,0.6
+8677344,St. Simons Island,2027-09-08,15:25,Wednesday,6.95,-0.25,Normal,First Quarter,1.1
+8677344,St. Simons Island,2027-09-09,03:42,Thursday,6.08,-1.12,Normal,First Quarter,1.6
+8677344,St. Simons Island,2027-09-09,16:22,Thursday,6.85,-0.35,Normal,First Quarter,2.1
+8677344,St. Simons Island,2027-09-10,04:39,Friday,6.09,-1.11,Normal,First Quarter,2.6
+8677344,St. Simons Island,2027-09-10,17:19,Friday,6.88,-0.32,Normal,First Quarter,3.2
+8677344,St. Simons Island,2027-09-11,05:35,Saturday,6.23,-0.96,Normal,First Quarter,3.7
+8677344,St. Simons Island,2027-09-11,18:11,Saturday,7.01,-0.18,Normal,Full Moon,-4.0
+8677344,St. Simons Island,2027-09-12,06:26,Sunday,6.48,-0.72,Normal,Full Moon,-3.5
+8677344,St. Simons Island,2027-09-12,18:57,Sunday,7.18,-0.02,Normal,Full Moon,-3.0
+8677344,St. Simons Island,2027-09-13,07:11,Monday,6.76,-0.44,Normal,Full Moon,-2.5
+8677344,St. Simons Island,2027-09-13,19:38,Monday,7.31,0.12,Normal,Full Moon,-1.9
+8677344,St. Simons Island,2027-09-14,07:52,Tuesday,7.03,-0.17,Normal,Full Moon,-1.4
+8677344,St. Simons Island,2027-09-14,20:15,Tuesday,7.38,0.18,Normal,Full Moon,-0.9
+8677344,St. Simons Island,2027-09-15,08:29,Wednesday,7.25,0.05,Normal,Full Moon,-0.4
+8677344,St. Simons Island,2027-09-15,20:49,Wednesday,7.36,0.16,Normal,Full Moon,0.1
+8677344,St. Simons Island,2027-09-16,09:03,Thursday,7.42,0.22,Normal,Full Moon,0.6
+8677344,St. Simons Island,2027-09-16,21:22,Thursday,7.27,0.07,Normal,Full Moon,1.1
+8677344,St. Simons Island,2027-09-17,09:36,Friday,7.54,0.35,Normal,Full Moon,1.6
+8677344,St. Simons Island,2027-09-17,21:55,Friday,7.13,-0.07,Normal,Full Moon,2.2
+8677344,St. Simons Island,2027-09-18,10:11,Saturday,7.63,0.43,Normal,Full Moon,2.7
+8677344,St. Simons Island,2027-09-18,22:30,Saturday,6.96,-0.24,Normal,Full Moon,3.2
+8677344,St. Simons Island,2027-09-19,10:49,Sunday,7.67,0.47,Normal,Full Moon,3.7
+8677344,St. Simons Island,2027-09-19,23:10,Sunday,6.78,-0.42,Normal,Last Quarter,-3.3
+8677344,St. Simons Island,2027-09-20,11:34,Monday,7.67,0.47,Normal,Last Quarter,-2.7
+8677344,St. Simons Island,2027-09-20,23:57,Monday,6.61,-0.59,Normal,Last Quarter,-2.2
+8677344,St. Simons Island,2027-09-21,12:25,Tuesday,7.63,0.43,Normal,Last Quarter,-1.7
+8677344,St. Simons Island,2027-09-22,00:50,Wednesday,6.46,-0.73,Normal,Last Quarter,-1.2
+8677344,St. Simons Island,2027-09-22,13:23,Wednesday,7.58,0.38,Normal,Last Quarter,-0.7
+8677344,St. Simons Island,2027-09-23,01:50,Thursday,6.39,-0.81,Normal,Last Quarter,-0.1
+8677344,St. Simons Island,2027-09-23,14:26,Thursday,7.56,0.36,Normal,Last Quarter,0.4
+8677344,St. Simons Island,2027-09-24,02:57,Friday,6.42,-0.78,Normal,Last Quarter,0.9
+8677344,St. Simons Island,2027-09-24,15:34,Friday,7.62,0.42,Normal,Last Quarter,1.4
+8677344,St. Simons Island,2027-09-25,04:09,Saturday,6.63,-0.57,Normal,Last Quarter,2.0
+8677344,St. Simons Island,2027-09-25,16:44,Saturday,7.79,0.6,Higher than usual,Last Quarter,2.5
+8677344,St. Simons Island,2027-09-26,05:19,Sunday,7.04,-0.16,Normal,Last Quarter,3.0
+8677344,St. Simons Island,2027-09-26,17:50,Sunday,8.05,0.85,Higher than usual,New Moon,-3.2
+8677344,St. Simons Island,2027-09-27,06:23,Monday,7.57,0.38,Normal,New Moon,-2.6
+8677344,St. Simons Island,2027-09-27,18:49,Monday,8.3,1.1,King tide,New Moon,-2.1
+8677344,St. Simons Island,2027-09-28,07:19,Tuesday,8.11,0.92,Higher than usual,New Moon,-1.6
+8677344,St. Simons Island,2027-09-28,19:41,Tuesday,8.45,1.25,King tide,New Moon,-1.1
+8677344,St. Simons Island,2027-09-29,08:11,Wednesday,8.54,1.34,King tide,New Moon,-0.6
+8677344,St. Simons Island,2027-09-29,20:31,Wednesday,8.44,1.25,King tide,New Moon,-0.0
+8677344,St. Simons Island,2027-09-30,08:59,Thursday,8.77,1.57,King tide,New Moon,0.5
+8677344,St. Simons Island,2027-09-30,21:18,Thursday,8.27,1.07,King tide,New Moon,1.0
+8677344,St. Simons Island,2027-10-01,09:46,Friday,8.79,1.59,King tide,New Moon,1.5
+8677344,St. Simons Island,2027-10-01,22:05,Friday,7.97,0.77,Higher than usual,New Moon,2.0
+8677344,St. Simons Island,2027-10-02,10:34,Saturday,8.6,1.41,King tide,New Moon,2.5
+8677344,St. Simons Island,2027-10-02,22:52,Saturday,7.58,0.38,Normal,New Moon,3.1
+8677344,St. Simons Island,2027-10-03,11:21,Sunday,8.28,1.08,King tide,New Moon,3.6
+8677344,St. Simons Island,2027-10-03,23:41,Sunday,7.17,-0.03,Normal,First Quarter,-3.3
+8677344,St. Simons Island,2027-10-04,12:10,Monday,7.88,0.69,Higher than usual,First Quarter,-2.8
+8677344,St. Simons Island,2027-10-05,00:30,Tuesday,6.79,-0.41,Normal,First Quarter,-2.3
+8677344,St. Simons Island,2027-10-05,13:01,Tuesday,7.49,0.29,Normal,First Quarter,-1.7
+8677344,St. Simons Island,2027-10-06,01:21,Wednesday,6.49,-0.71,Normal,First Quarter,-1.2
+8677344,St. Simons Island,2027-10-06,13:53,Wednesday,7.16,-0.04,Normal,First Quarter,-0.7
+8677344,St. Simons Island,2027-10-07,02:13,Thursday,6.28,-0.91,Normal,First Quarter,-0.2
+8677344,St. Simons Island,2027-10-07,14:46,Thursday,6.92,-0.27,Normal,First Quarter,0.3
+8677344,St. Simons Island,2027-10-08,03:08,Friday,6.2,-1.0,Normal,First Quarter,0.8
+8677344,St. Simons Island,2027-10-08,15:42,Friday,6.81,-0.39,Normal,First Quarter,1.4
+8677344,St. Simons Island,2027-10-09,04:04,Saturday,6.25,-0.95,Normal,First Quarter,1.9
+8677344,St. Simons Island,2027-10-09,16:38,Saturday,6.81,-0.39,Normal,First Quarter,2.4
+8677344,St. Simons Island,2027-10-10,04:59,Sunday,6.43,-0.76,Normal,First Quarter,2.9
+8677344,St. Simons Island,2027-10-10,17:30,Sunday,6.9,-0.3,Normal,First Quarter,3.4
+8677344,St. Simons Island,2027-10-11,05:50,Monday,6.72,-0.48,Normal,First Quarter,4.0
+8677344,St. Simons Island,2027-10-11,18:18,Monday,7.03,-0.17,Normal,Full Moon,-3.6
+8677344,St. Simons Island,2027-10-12,06:36,Tuesday,7.06,-0.14,Normal,Full Moon,-3.1
+8677344,St. Simons Island,2027-10-12,19:01,Tuesday,7.16,-0.04,Normal,Full Moon,-2.6
+8677344,St. Simons Island,2027-10-13,07:17,Wednesday,7.4,0.2,Normal,Full Moon,-2.1
+8677344,St. Simons Island,2027-10-13,19:40,Wednesday,7.24,0.04,Normal,Full Moon,-1.5
+8677344,St. Simons Island,2027-10-14,07:55,Thursday,7.7,0.5,Normal,Full Moon,-1.0
+8677344,St. Simons Island,2027-10-14,20:16,Thursday,7.26,0.06,Normal,Full Moon,-0.5
+8677344,St. Simons Island,2027-10-15,08:30,Friday,7.93,0.73,Higher than usual,Full Moon,-0.0
+8677344,St. Simons Island,2027-10-15,20:52,Friday,7.22,0.03,Normal,Full Moon,0.5
+8677344,St. Simons Island,2027-10-16,09:06,Saturday,8.09,0.89,Higher than usual,Full Moon,1.0
+8677344,St. Simons Island,2027-10-16,21:28,Saturday,7.13,-0.07,Normal,Full Moon,1.5
+8677344,St. Simons Island,2027-10-17,09:45,Sunday,8.15,0.95,Higher than usual,Full Moon,2.0
+8677344,St. Simons Island,2027-10-17,22:07,Sunday,7.0,-0.2,Normal,Full Moon,2.6
+8677344,St. Simons Island,2027-10-18,10:27,Monday,8.13,0.93,Higher than usual,Full Moon,3.1
+8677344,St. Simons Island,2027-10-18,22:52,Monday,6.83,-0.37,Normal,Last Quarter,-3.6
+8677344,St. Simons Island,2027-10-19,11:16,Tuesday,8.02,0.82,Higher than usual,Last Quarter,-3.1
+8677344,St. Simons Island,2027-10-19,23:43,Tuesday,6.67,-0.53,Normal,Last Quarter,-2.5
+8677344,St. Simons Island,2027-10-20,12:11,Wednesday,7.88,0.68,Higher than usual,Last Quarter,-2.0
+8677344,St. Simons Island,2027-10-21,00:41,Thursday,6.55,-0.65,Normal,Last Quarter,-1.5
+8677344,St. Simons Island,2027-10-21,13:12,Thursday,7.74,0.54,Higher than usual,Last Quarter,-1.0
+8677344,St. Simons Island,2027-10-22,01:45,Friday,6.53,-0.67,Normal,Last Quarter,-0.4
+8677344,St. Simons Island,2027-10-22,14:16,Friday,7.64,0.44,Normal,Last Quarter,0.1
+8677344,St. Simons Island,2027-10-23,02:52,Saturday,6.65,-0.55,Normal,Last Quarter,0.6
+8677344,St. Simons Island,2027-10-23,15:22,Saturday,7.6,0.4,Normal,Last Quarter,1.1
+8677344,St. Simons Island,2027-10-24,04:01,Sunday,6.92,-0.28,Normal,Last Quarter,1.6
+8677344,St. Simons Island,2027-10-24,16:29,Sunday,7.64,0.44,Normal,Last Quarter,2.2
+8677344,St. Simons Island,2027-10-25,05:08,Monday,7.34,0.15,Normal,Last Quarter,2.7
+8677344,St. Simons Island,2027-10-25,17:31,Monday,7.73,0.53,Higher than usual,Last Quarter,3.2
+8677344,St. Simons Island,2027-10-26,06:08,Tuesday,7.83,0.64,Higher than usual,New Moon,-3.1
+8677344,St. Simons Island,2027-10-26,18:29,Tuesday,7.83,0.63,Higher than usual,New Moon,-2.6
+8677344,St. Simons Island,2027-10-27,07:02,Wednesday,8.28,1.08,King tide,New Moon,-2.1
+8677344,St. Simons Island,2027-10-27,19:21,Wednesday,7.87,0.68,Higher than usual,New Moon,-1.6
+8677344,St. Simons Island,2027-10-28,07:52,Thursday,8.59,1.39,King tide,New Moon,-1.0
+8677344,St. Simons Island,2027-10-28,20:09,Thursday,7.82,0.62,Higher than usual,New Moon,-0.5
+8677344,St. Simons Island,2027-10-29,08:38,Friday,8.7,1.5,King tide,New Moon,0.0
+8677344,St. Simons Island,2027-10-29,20:55,Friday,7.66,0.47,Normal,New Moon,0.5
+8677344,St. Simons Island,2027-10-30,09:23,Saturday,8.61,1.41,King tide,New Moon,1.0
+8677344,St. Simons Island,2027-10-30,21:40,Saturday,7.41,0.21,Normal,New Moon,1.5
+8677344,St. Simons Island,2027-10-31,10:07,Sunday,8.35,1.16,King tide,New Moon,2.1
+8677344,St. Simons Island,2027-10-31,22:25,Sunday,7.1,-0.1,Normal,New Moon,2.6
+8677344,St. Simons Island,2027-11-01,10:52,Monday,7.99,0.79,Higher than usual,New Moon,3.1
+8677344,St. Simons Island,2027-11-01,23:11,Monday,6.77,-0.43,Normal,New Moon,3.6
+8677344,St. Simons Island,2027-11-02,11:38,Tuesday,7.59,0.39,Normal,First Quarter,-3.6
+8677344,St. Simons Island,2027-11-02,23:59,Tuesday,6.46,-0.74,Normal,First Quarter,-3.1
+8677344,St. Simons Island,2027-11-03,12:25,Wednesday,7.21,0.01,Normal,First Quarter,-2.6
+8677344,St. Simons Island,2027-11-04,00:47,Thursday,6.22,-0.98,Normal,First Quarter,-2.1
+8677344,St. Simons Island,2027-11-04,13:14,Thursday,6.89,-0.31,Normal,First Quarter,-1.6
+8677344,St. Simons Island,2027-11-05,01:37,Friday,6.06,-1.14,Normal,First Quarter,-1.1
+8677344,St. Simons Island,2027-11-05,14:04,Friday,6.64,-0.56,Normal,First Quarter,-0.5
+8677344,St. Simons Island,2027-11-06,02:28,Saturday,6.01,-1.19,Normal,First Quarter,-0.0
+8677344,St. Simons Island,2027-11-06,14:55,Saturday,6.48,-0.72,Normal,First Quarter,0.5
+8677344,St. Simons Island,2027-11-07,02:21,Sunday,6.08,-1.12,Normal,First Quarter,1.0
+8677344,St. Simons Island,2027-11-07,14:47,Sunday,6.39,-0.81,Normal,First Quarter,1.5
+8677344,St. Simons Island,2027-11-08,03:14,Monday,6.25,-0.94,Normal,First Quarter,2.0
+8677344,St. Simons Island,2027-11-08,15:39,Monday,6.38,-0.82,Normal,First Quarter,2.5
+8677344,St. Simons Island,2027-11-09,04:06,Tuesday,6.53,-0.67,Normal,First Quarter,3.0
+8677344,St. Simons Island,2027-11-09,16:30,Tuesday,6.43,-0.77,Normal,First Quarter,3.6
+8677344,St. Simons Island,2027-11-10,04:54,Wednesday,6.88,-0.32,Normal,Full Moon,-3.7
+8677344,St. Simons Island,2027-11-10,17:18,Wednesday,6.53,-0.67,Normal,Full Moon,-3.2
+8677344,St. Simons Island,2027-11-11,05:38,Thursday,7.26,0.06,Normal,Full Moon,-2.7
+8677344,St. Simons Island,2027-11-11,18:02,Thursday,6.64,-0.56,Normal,Full Moon,-2.2
+8677344,St. Simons Island,2027-11-12,06:20,Friday,7.61,0.41,Normal,Full Moon,-1.7
+8677344,St. Simons Island,2027-11-12,18:43,Friday,6.73,-0.47,Normal,Full Moon,-1.2
+8677344,St. Simons Island,2027-11-13,07:01,Saturday,7.9,0.7,Higher than usual,Full Moon,-0.6
+8677344,St. Simons Island,2027-11-13,19:24,Saturday,6.78,-0.41,Normal,Full Moon,-0.1
+8677344,St. Simons Island,2027-11-14,07:42,Sunday,8.09,0.89,Higher than usual,Full Moon,0.4
+8677344,St. Simons Island,2027-11-14,20:06,Sunday,6.79,-0.41,Normal,Full Moon,0.9
+8677344,St. Simons Island,2027-11-15,08:26,Monday,8.17,0.97,Higher than usual,Full Moon,1.4
+8677344,St. Simons Island,2027-11-15,20:50,Monday,6.73,-0.47,Normal,Full Moon,1.9
+8677344,St. Simons Island,2027-11-16,09:13,Tuesday,8.12,0.92,Higher than usual,Full Moon,2.4
+8677344,St. Simons Island,2027-11-16,21:40,Tuesday,6.63,-0.57,Normal,Full Moon,3.0
+8677344,St. Simons Island,2027-11-17,10:06,Wednesday,7.98,0.78,Higher than usual,Last Quarter,-3.4
+8677344,St. Simons Island,2027-11-17,22:35,Wednesday,6.53,-0.67,Normal,Last Quarter,-2.9
+8677344,St. Simons Island,2027-11-18,11:03,Thursday,7.78,0.58,Higher than usual,Last Quarter,-2.4
+8677344,St. Simons Island,2027-11-18,23:36,Thursday,6.48,-0.72,Normal,Last Quarter,-1.8
+8677344,St. Simons Island,2027-11-19,12:03,Friday,7.57,0.37,Normal,Last Quarter,-1.3
+8677344,St. Simons Island,2027-11-20,00:39,Saturday,6.52,-0.68,Normal,Last Quarter,-0.8
+8677344,St. Simons Island,2027-11-20,13:04,Saturday,7.36,0.16,Normal,Last Quarter,-0.3
+8677344,St. Simons Island,2027-11-21,01:43,Sunday,6.66,-0.54,Normal,Last Quarter,0.2
+8677344,St. Simons Island,2027-11-21,14:06,Sunday,7.17,-0.03,Normal,Last Quarter,0.8
+8677344,St. Simons Island,2027-11-22,02:48,Monday,6.9,-0.3,Normal,Last Quarter,1.3
+8677344,St. Simons Island,2027-11-22,15:08,Monday,7.02,-0.17,Normal,Last Quarter,1.8
+8677344,St. Simons Island,2027-11-23,03:51,Tuesday,7.21,0.01,Normal,Last Quarter,2.3
+8677344,St. Simons Island,2027-11-23,16:10,Tuesday,6.94,-0.26,Normal,Last Quarter,2.8
+8677344,St. Simons Island,2027-11-24,04:50,Wednesday,7.54,0.34,Normal,Last Quarter,3.4
+8677344,St. Simons Island,2027-11-24,17:07,Wednesday,6.9,-0.29,Normal,New Moon,-3.2
+8677344,St. Simons Island,2027-11-25,05:44,Thursday,7.82,0.62,Higher than usual,New Moon,-2.7
+8677344,St. Simons Island,2027-11-25,18:00,Thursday,6.89,-0.31,Normal,New Moon,-2.2
+8677344,St. Simons Island,2027-11-26,06:33,Friday,7.98,0.78,Higher than usual,New Moon,-1.7
+8677344,St. Simons Island,2027-11-26,18:48,Friday,6.85,-0.35,Normal,New Moon,-1.1
+8677344,St. Simons Island,2027-11-27,07:18,Saturday,8.01,0.81,Higher than usual,New Moon,-0.6
+8677344,St. Simons Island,2027-11-27,19:34,Saturday,6.76,-0.43,Normal,New Moon,-0.1
+8677344,St. Simons Island,2027-11-28,08:02,Sunday,7.89,0.69,Higher than usual,New Moon,0.4
+8677344,St. Simons Island,2027-11-28,20:18,Sunday,6.62,-0.58,Normal,New Moon,0.9
+8677344,St. Simons Island,2027-11-29,08:44,Monday,7.67,0.47,Normal,New Moon,1.4
+8677344,St. Simons Island,2027-11-29,21:01,Monday,6.42,-0.78,Normal,New Moon,1.9
+8677344,St. Simons Island,2027-11-30,09:26,Tuesday,7.37,0.17,Normal,New Moon,2.5
+8677344,St. Simons Island,2027-11-30,21:44,Tuesday,6.19,-1.01,Normal,New Moon,3.0
+8677344,St. Simons Island,2027-12-01,10:08,Wednesday,7.05,-0.15,Normal,New Moon,3.5
+8677344,St. Simons Island,2027-12-01,22:28,Wednesday,5.97,-1.22,Normal,New Moon,4.0
+8677344,St. Simons Island,2027-12-02,10:51,Thursday,6.73,-0.47,Normal,First Quarter,-3.6
+8677344,St. Simons Island,2027-12-02,23:12,Thursday,5.8,-1.4,Normal,First Quarter,-3.0
+8677344,St. Simons Island,2027-12-03,11:35,Friday,6.43,-0.77,Normal,First Quarter,-2.5
+8677344,St. Simons Island,2027-12-03,23:58,Friday,5.69,-1.51,Normal,First Quarter,-2.0
+8677344,St. Simons Island,2027-12-04,12:19,Saturday,6.17,-1.02,Normal,First Quarter,-1.5
+8677344,St. Simons Island,2027-12-05,00:44,Sunday,5.66,-1.53,Normal,First Quarter,-1.0
+8677344,St. Simons Island,2027-12-05,13:03,Sunday,5.96,-1.24,Normal,First Quarter,-0.5
+8677344,St. Simons Island,2027-12-06,01:31,Monday,5.72,-1.48,Normal,First Quarter,0.0
+8677344,St. Simons Island,2027-12-06,13:51,Monday,5.78,-1.42,Normal,First Quarter,0.6
+8677344,St. Simons Island,2027-12-07,02:21,Tuesday,5.86,-1.34,Normal,First Quarter,1.1
+8677344,St. Simons Island,2027-12-07,14:41,Tuesday,5.66,-1.54,Normal,First Quarter,1.6
+8677344,St. Simons Island,2027-12-08,03:12,Wednesday,6.09,-1.11,Normal,First Quarter,2.1
+8677344,St. Simons Island,2027-12-08,15:35,Wednesday,5.62,-1.58,Normal,First Quarter,2.6
+8677344,St. Simons Island,2027-12-09,04:05,Thursday,6.39,-0.81,Normal,First Quarter,3.2
+8677344,St. Simons Island,2027-12-09,16:30,Thursday,5.68,-1.52,Normal,First Quarter,3.7
+8677344,St. Simons Island,2027-12-10,04:57,Friday,6.75,-0.45,Normal,Full Moon,-3.3
+8677344,St. Simons Island,2027-12-10,17:23,Friday,5.82,-1.38,Normal,Full Moon,-2.7
+8677344,St. Simons Island,2027-12-11,05:47,Saturday,7.13,-0.06,Normal,Full Moon,-2.2
+8677344,St. Simons Island,2027-12-11,18:13,Saturday,6.01,-1.19,Normal,Full Moon,-1.7
+8677344,St. Simons Island,2027-12-12,06:35,Sunday,7.49,0.29,Normal,Full Moon,-1.2
+8677344,St. Simons Island,2027-12-12,19:00,Sunday,6.2,-1.0,Normal,Full Moon,-0.7
+8677344,St. Simons Island,2027-12-13,07:23,Monday,7.75,0.55,Higher than usual,Full Moon,-0.2
+8677344,St. Simons Island,2027-12-13,19:48,Monday,6.35,-0.85,Normal,Full Moon,0.4
+8677344,St. Simons Island,2027-12-14,08:12,Tuesday,7.89,0.69,Higher than usual,Full Moon,0.9
+8677344,St. Simons Island,2027-12-14,20:38,Tuesday,6.43,-0.77,Normal,Full Moon,1.4
+8677344,St. Simons Island,2027-12-15,09:03,Wednesday,7.89,0.69,Higher than usual,Full Moon,1.9
+8677344,St. Simons Island,2027-12-15,21:30,Wednesday,6.46,-0.73,Normal,Full Moon,2.4
+8677344,St. Simons Island,2027-12-16,09:57,Thursday,7.76,0.56,Higher than usual,Full Moon,3.0
+8677344,St. Simons Island,2027-12-16,22:27,Thursday,6.47,-0.73,Normal,Last Quarter,-3.2
+8677344,St. Simons Island,2027-12-17,10:53,Friday,7.53,0.33,Normal,Last Quarter,-2.7
+8677344,St. Simons Island,2027-12-17,23:26,Friday,6.49,-0.71,Normal,Last Quarter,-2.2
+8677344,St. Simons Island,2027-12-18,11:50,Saturday,7.23,0.03,Normal,Last Quarter,-1.7
+8677344,St. Simons Island,2027-12-19,00:26,Sunday,6.53,-0.67,Normal,Last Quarter,-1.2
+8677344,St. Simons Island,2027-12-19,12:47,Sunday,6.88,-0.31,Normal,Last Quarter,-0.6
+8677344,St. Simons Island,2027-12-20,01:27,Monday,6.59,-0.6,Normal,Last Quarter,-0.1
+8677344,St. Simons Island,2027-12-20,13:45,Monday,6.54,-0.66,Normal,Last Quarter,0.4
+8677344,St. Simons Island,2027-12-21,02:27,Tuesday,6.67,-0.52,Normal,Last Quarter,0.9
+8677344,St. Simons Island,2027-12-21,14:45,Tuesday,6.23,-0.97,Normal,Last Quarter,1.4
+8677344,St. Simons Island,2027-12-22,03:29,Wednesday,6.78,-0.42,Normal,Last Quarter,2.0
+8677344,St. Simons Island,2027-12-22,15:45,Wednesday,6.02,-1.18,Normal,Last Quarter,2.5
+8677344,St. Simons Island,2027-12-23,04:28,Thursday,6.89,-0.3,Normal,Last Quarter,3.0
+8677344,St. Simons Island,2027-12-23,16:44,Thursday,5.92,-1.28,Normal,Last Quarter,3.5
+8677344,St. Simons Island,2027-12-24,05:24,Friday,7.01,-0.19,Normal,New Moon,-3.4
+8677344,St. Simons Island,2027-12-24,17:39,Friday,5.91,-1.29,Normal,New Moon,-2.9
+8677344,St. Simons Island,2027-12-25,06:15,Saturday,7.1,-0.1,Normal,New Moon,-2.4
+8677344,St. Simons Island,2027-12-25,18:29,Saturday,5.94,-1.25,Normal,New Moon,-1.9
+8677344,St. Simons Island,2027-12-26,07:01,Sunday,7.12,-0.08,Normal,New Moon,-1.3
+8677344,St. Simons Island,2027-12-26,19:15,Sunday,5.97,-1.23,Normal,New Moon,-0.8
+8677344,St. Simons Island,2027-12-27,07:44,Monday,7.08,-0.12,Normal,New Moon,-0.3
+8677344,St. Simons Island,2027-12-27,19:57,Monday,5.95,-1.25,Normal,New Moon,0.2
+8677344,St. Simons Island,2027-12-28,08:24,Tuesday,6.96,-0.23,Normal,New Moon,0.7
+8677344,St. Simons Island,2027-12-28,20:38,Tuesday,5.89,-1.31,Normal,New Moon,1.2
+8677344,St. Simons Island,2027-12-29,09:04,Wednesday,6.79,-0.41,Normal,New Moon,1.7
+8677344,St. Simons Island,2027-12-29,21:18,Wednesday,5.79,-1.41,Normal,New Moon,2.3
+8677344,St. Simons Island,2027-12-30,09:42,Thursday,6.57,-0.63,Normal,New Moon,2.8
+8677344,St. Simons Island,2027-12-30,21:58,Thursday,5.67,-1.52,Normal,New Moon,3.3
+8677344,St. Simons Island,2027-12-31,10:19,Friday,6.31,-0.89,Normal,New Moon,3.8
+8677344,St. Simons Island,2027-12-31,22:38,Friday,5.58,-1.62,Normal,New Moon,4.3
